@@ -1,0 +1,5 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0015,2023-03-01,Sun Pharma Distributors,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032303,Aug-24,52,12.4,12,77.38,722.18
+GRN0015,2023-03-01,Sun Pharma Distributors,Antacid Syrup 170ml,Antacid,Digene,30049099,B232303,Feb-25,77,50.06,12,462.55,4317.17
+GRN0015,2023-03-01,Sun Pharma Distributors,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052303,Feb-24,73,57.19,12,500.98,4675.85
+GRN0015,2023-03-01,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182303,Aug-24,72,13.59,12,117.42,1095.9

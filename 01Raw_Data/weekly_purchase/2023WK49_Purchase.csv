@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0083,2023-12-04,Karnataka Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142312,Nov-24,68,21.61,5,73.47,1542.95
+GRN0083,2023-12-04,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212312,May-25,198,55.62,12,1321.53,12334.29
+GRN0083,2023-12-04,Karnataka Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162312,Nov-24,84,61.43,12,619.21,5779.33
+GRN0083,2023-12-04,Karnataka Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072312,May-25,61,19.84,12,145.23,1355.47
+GRN0083,2023-12-04,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252312,Nov-26,52,29.39,12,183.39,1711.67
+GRN0084,2023-12-08,Medplus Wholesale,Dolo 650mg,Analgesic,Micro Labs,30049099,B022312,Nov-26,142,8.81,12,150.12,1401.14
+GRN0084,2023-12-08,Medplus Wholesale,Paracetamol 500mg,Analgesic,GSK,30049099,B012312,Nov-26,117,8.8,12,123.55,1153.15
+GRN0084,2023-12-08,Medplus Wholesale,Amlodipine 5mg,Cardiac,Cipla,30049099,B102312,Dec-24,67,17.45,5,58.46,1227.61
+GRN0084,2023-12-08,Medplus Wholesale,Montelukast 10mg,Respiratory,Cipla,30049099,B192312,Nov-26,142,52.18,12,889.15,8298.71
+GRN0084,2023-12-08,Medplus Wholesale,Salbutamol Inhaler,Respiratory,GSK,30049099,B202312,May-25,182,117.09,12,2557.25,23867.63
+GRN0084,2023-12-08,Medplus Wholesale,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042312,Nov-25,50,30.71,5,76.78,1612.28

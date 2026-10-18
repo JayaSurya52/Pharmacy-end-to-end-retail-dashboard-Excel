@@ -1,0 +1,5 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0096,2024-01-25,Cipla Direct,Paracetamol 500mg,Analgesic,GSK,30049099,B012401,Jan-26,192,8.31,12,191.46,1786.98
+GRN0096,2024-01-25,Cipla Direct,Ibuprofen 400mg,Analgesic,Boots,30049099,B182401,Jan-27,102,14.0,12,171.36,1599.36
+GRN0096,2024-01-25,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142401,Jan-25,61,21.14,5,64.48,1354.02
+GRN0096,2024-01-25,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172401,Jul-25,83,27.02,12,269.12,2511.78

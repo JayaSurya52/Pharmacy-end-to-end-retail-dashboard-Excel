@@ -1,0 +1,445 @@
+Bill No,Date,Customer Name,Staff,Product Name,Category,Company,Batch No,Expiry Date,Qty,MRP,Discount%,GST%,GST Amount,Net Amount
+B11265,2024-04-29,Priya Lakshmi,Arjun,Ibuprofen 400mg,Analgesic,Boots,B182404,Apr-26,5,22.09,5,12,12.59,104.93
+B11265,2024-04-29,Priya Lakshmi,Arjun,Telmisartan 40mg,Antihypertensive,Glenmark,B132404,Apr-27,4,47.04,5,5,8.94,178.75
+B11265,2024-04-29,Priya Lakshmi,Arjun,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Apr-25,2,37.52,0,12,9.0,75.04
+B11265,2024-04-29,Priya Lakshmi,Arjun,Montelukast 10mg,Respiratory,Cipla,B192404,Apr-27,1,85.18,0,12,10.22,85.18
+B11266,2024-04-29,Mohammed Farooq,Ravi,Omeprazole 20mg,Antacid,Dr Reddys,B072404,Apr-26,2,32.23,5,12,7.35,61.24
+B11266,2024-04-29,Mohammed Farooq,Ravi,Amlodipine 5mg,Cardiac,Cipla,B102404,Apr-26,2,28.33,0,5,2.83,56.66
+B11266,2024-04-29,Mohammed Farooq,Ravi,ORS Sachet,OTC,Electral,B222404,Oct-25,5,7.91,0,12,4.75,39.55
+B11267,2024-04-29,Kavitha S,Meena,Levothyroxine 50mcg,Thyroid,Abbott,B142404,Apr-26,5,35.22,0,5,8.8,176.1
+B11267,2024-04-29,Kavitha S,Meena,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Apr-25,3,44.77,5,5,6.38,127.59
+B11267,2024-04-29,Kavitha S,Meena,B-Complex,Supplement,Merck,B172404,Apr-27,2,45.08,0,12,10.82,90.16
+B11268,2024-04-29,Anitha R,Ravi,Amoxicillin 500mg,Antibiotic,Alkem,B052404,Apr-27,2,83.98,0,12,20.16,167.96
+B11268,2024-04-29,Anitha R,Ravi,Ibuprofen 400mg,Analgesic,Boots,B182404,Apr-26,1,22.25,5,12,2.54,21.14
+B11269,2024-04-29,Suresh Babu,Arjun,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Apr-25,5,44.93,0,12,26.96,224.65
+B11269,2024-04-29,Suresh Babu,Arjun,Montelukast 10mg,Respiratory,Cipla,B192404,Apr-25,4,83.94,5,12,38.28,318.97
+B11269,2024-04-29,Suresh Babu,Arjun,Antacid Syrup 170ml,Antacid,Digene,B232404,Apr-27,1,85.44,5,12,9.74,81.17
+B11270,2024-04-29,Prakash T,Priya,Amoxicillin 500mg,Antibiotic,Alkem,B052404,Apr-27,2,83.83,0,12,20.12,167.66
+B11270,2024-04-29,Prakash T,Priya,Atorvastatin 10mg,Cardiac,Pfizer,B092404,Apr-27,4,55.29,10,5,9.95,199.04
+B11270,2024-04-29,Prakash T,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Apr-25,5,45.65,5,5,10.84,216.84
+B11270,2024-04-29,Prakash T,Priya,Metoprolol 50mg,Cardiac,Sun Pharma,B112404,Apr-25,1,42.08,10,5,1.89,37.87
+B11271,2024-04-29,Ramesh Kumar,Arjun,Paracetamol 500mg,Analgesic,GSK,B012404,Oct-25,2,12.74,10,12,2.75,22.93
+B11271,2024-04-29,Ramesh Kumar,Arjun,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Apr-25,3,45.71,0,5,6.86,137.13
+B11271,2024-04-29,Ramesh Kumar,Arjun,Antacid Syrup 170ml,Antacid,Digene,B232404,Oct-25,3,83.31,0,12,29.99,249.93
+B11272,2024-04-29,Rajesh M,Meena,Glimepiride 2mg,Antidiabetic,Sanofi,B122404,Apr-27,5,63.86,0,5,15.96,319.3
+B11272,2024-04-29,Rajesh M,Meena,Ibuprofen 400mg,Analgesic,Boots,B182404,Apr-25,5,21.68,0,12,13.01,108.4
+B11272,2024-04-29,Rajesh M,Meena,Montelukast 10mg,Respiratory,Cipla,B192404,Oct-25,4,83.67,5,12,38.15,317.95
+B11272,2024-04-29,Rajesh M,Meena,Metoprolol 50mg,Cardiac,Sun Pharma,B112404,Apr-25,1,42.18,10,5,1.9,37.96
+B11273,2024-04-29,Rajesh M,Meena,Telmisartan 40mg,Antihypertensive,Glenmark,B132404,Apr-26,4,47.13,0,5,9.43,188.52
+B11274,2024-04-29,Mohammed Farooq,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032404,Apr-26,5,17.97,5,12,10.24,85.36
+B11274,2024-04-29,Mohammed Farooq,Priya,Montelukast 10mg,Respiratory,Cipla,B192404,Oct-25,2,84.87,0,12,20.37,169.74
+B11274,2024-04-29,Mohammed Farooq,Priya,Azithromycin 500mg,Antibiotic,Cipla,B062404,Apr-26,3,119.43,10,12,38.7,322.46
+B11274,2024-04-29,Mohammed Farooq,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Apr-27,4,45.5,0,5,9.1,182.0
+B11275,2024-04-29,Sunita Devi,Arjun,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Apr-27,4,44.64,0,12,21.43,178.56
+B11276,2024-04-29,Kavitha S,Arjun,Ibuprofen 400mg,Analgesic,Boots,B182404,Apr-25,2,22.05,5,12,5.03,41.89
+B11277,2024-04-29,Walk-in Customer,Arjun,Paracetamol 500mg,Analgesic,GSK,B012404,Apr-25,2,12.63,10,12,2.73,22.73
+B11277,2024-04-29,Walk-in Customer,Arjun,Telmisartan 40mg,Antihypertensive,Glenmark,B132404,Apr-26,4,48.74,5,5,9.26,185.21
+B11277,2024-04-29,Walk-in Customer,Arjun,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Apr-26,3,38.7,0,12,13.93,116.1
+B11277,2024-04-29,Walk-in Customer,Arjun,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Oct-25,1,45.25,0,5,2.26,45.25
+B11278,2024-04-29,Anitha R,Meena,Antacid Syrup 170ml,Antacid,Digene,B232404,Apr-26,4,85.65,0,12,41.11,342.6
+B11278,2024-04-29,Anitha R,Meena,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Oct-25,1,44.59,0,5,2.23,44.59
+B11278,2024-04-29,Anitha R,Meena,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Oct-25,5,45.89,10,12,24.78,206.5
+B11278,2024-04-29,Anitha R,Meena,Amoxicillin 500mg,Antibiotic,Alkem,B052404,Apr-26,1,84.38,0,12,10.13,84.38
+B11279,2024-04-29,Sangeetha P,Meena,Paracetamol 500mg,Analgesic,GSK,B012404,Oct-25,1,12.4,5,12,1.41,11.78
+B11279,2024-04-29,Sangeetha P,Meena,Amoxicillin 500mg,Antibiotic,Alkem,B052404,Apr-27,4,84.05,5,12,38.33,319.39
+B11279,2024-04-29,Sangeetha P,Meena,Metoprolol 50mg,Cardiac,Sun Pharma,B112404,Apr-26,5,41.86,0,5,10.46,209.3
+B11279,2024-04-29,Sangeetha P,Meena,Omeprazole 20mg,Antacid,Dr Reddys,B072404,Apr-26,5,31.98,0,12,19.19,159.9
+B11280,2024-04-29,Anitha R,Priya,Omeprazole 20mg,Antacid,Dr Reddys,B072404,Apr-27,2,31.67,10,12,6.84,57.01
+B11280,2024-04-29,Anitha R,Priya,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Apr-27,1,38.35,10,12,4.14,34.52
+B11281,2024-04-29,Deepa Nair,Priya,Vitamin D3 60K,Supplement,Mankind,B152404,Apr-26,2,74.22,5,12,16.92,141.02
+B11281,2024-04-29,Deepa Nair,Priya,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Apr-27,1,93.27,0,12,11.19,93.27
+B11281,2024-04-29,Deepa Nair,Priya,Ibuprofen 400mg,Analgesic,Boots,B182404,Apr-27,1,21.7,5,12,2.47,20.61
+B11281,2024-04-29,Deepa Nair,Priya,Calcium + D3,Supplement,Pfizer,B162404,Apr-26,1,94.08,5,12,10.73,89.38
+B11282,2024-04-29,Anitha R,Ravi,Telmisartan 40mg,Antihypertensive,Glenmark,B132404,Apr-26,2,47.76,0,5,4.78,95.52
+B11282,2024-04-29,Anitha R,Ravi,Vitamin D3 60K,Supplement,Mankind,B152404,Apr-25,1,75.16,0,12,9.02,75.16
+B11282,2024-04-29,Anitha R,Ravi,Cetirizine 10mg,Antihistamine,Cipla,B032404,Oct-25,1,17.74,5,12,2.02,16.85
+B11283,2024-04-29,Rajesh M,Ravi,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Oct-25,1,37.77,0,12,4.53,37.77
+B11283,2024-04-29,Rajesh M,Ravi,Azithromycin 500mg,Antibiotic,Cipla,B062404,Apr-26,3,118.76,0,12,42.75,356.28
+B11284,2024-04-29,Suresh Babu,Arjun,Paracetamol 500mg,Analgesic,GSK,B012404,Oct-25,1,12.53,5,12,1.43,11.9
+B11284,2024-04-29,Suresh Babu,Arjun,Metoprolol 50mg,Cardiac,Sun Pharma,B112404,Apr-26,3,41.54,5,5,5.92,118.39
+B11285,2024-04-29,Rajesh M,Meena,B-Complex,Supplement,Merck,B172404,Oct-25,5,44.43,0,12,26.66,222.15
+B11285,2024-04-29,Rajesh M,Meena,Metoprolol 50mg,Cardiac,Sun Pharma,B112404,Apr-25,1,41.46,0,5,2.07,41.46
+B11285,2024-04-29,Rajesh M,Meena,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Apr-26,1,38.13,0,12,4.58,38.13
+B11285,2024-04-29,Rajesh M,Meena,Telmisartan 40mg,Antihypertensive,Glenmark,B132404,Apr-26,1,48.54,0,5,2.43,48.54
+B11286,2024-04-29,Walk-in Customer,Meena,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Apr-26,5,45.07,5,12,25.69,214.08
+B11287,2024-04-29,Lakshmi Devi,Priya,Paracetamol 500mg,Analgesic,GSK,B012404,Apr-25,2,12.32,0,12,2.96,24.64
+B11287,2024-04-29,Lakshmi Devi,Priya,Antacid Syrup 170ml,Antacid,Digene,B232404,Apr-27,2,86.14,0,12,20.67,172.28
+B11288,2024-04-29,Venkat Rao,Arjun,Omeprazole 20mg,Antacid,Dr Reddys,B072404,Apr-25,4,31.38,0,12,15.06,125.52
+B11288,2024-04-29,Venkat Rao,Arjun,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Apr-26,2,94.81,0,12,22.75,189.62
+B11288,2024-04-29,Venkat Rao,Arjun,Salbutamol Inhaler,Respiratory,GSK,B202404,Oct-25,4,184.26,5,12,84.02,700.19
+B11289,2024-04-29,Walk-in Customer,Priya,Montelukast 10mg,Respiratory,Cipla,B192404,Apr-25,3,86.51,0,12,31.14,259.53
+B11289,2024-04-29,Walk-in Customer,Priya,ORS Sachet,OTC,Electral,B222404,Oct-25,3,7.95,10,12,2.58,21.47
+B11290,2024-04-29,Rajesh M,Priya,Amlodipine 5mg,Cardiac,Cipla,B102404,Apr-27,3,27.77,5,5,3.96,79.14
+B11290,2024-04-29,Rajesh M,Priya,Glimepiride 2mg,Antidiabetic,Sanofi,B122404,Apr-27,4,65.59,5,5,12.46,249.24
+B11290,2024-04-29,Rajesh M,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Apr-27,2,45.17,10,12,9.76,81.31
+B11291,2024-04-29,Anitha R,Ravi,B-Complex,Supplement,Merck,B172404,Apr-25,4,44.32,0,12,21.27,177.28
+B11291,2024-04-29,Anitha R,Ravi,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Oct-25,1,94.73,0,12,11.37,94.73
+B11292,2024-04-29,Walk-in Customer,Ravi,Antacid Syrup 170ml,Antacid,Digene,B232404,Apr-26,2,83.52,10,12,18.04,150.34
+B11292,2024-04-29,Walk-in Customer,Ravi,Amlodipine 5mg,Cardiac,Cipla,B102404,Oct-25,3,28.09,5,5,4.0,80.06
+B11292,2024-04-29,Walk-in Customer,Ravi,Levothyroxine 50mcg,Thyroid,Abbott,B142404,Apr-27,3,35.49,10,5,4.79,95.82
+B11292,2024-04-29,Walk-in Customer,Ravi,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Apr-25,2,93.93,10,12,20.29,169.07
+B11293,2024-04-29,Kavitha S,Priya,Levothyroxine 50mcg,Thyroid,Abbott,B142404,Apr-26,3,34.67,10,5,4.68,93.61
+B11294,2024-04-29,Venkat Rao,Ravi,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Apr-27,2,45.06,0,12,10.81,90.12
+B11294,2024-04-29,Venkat Rao,Ravi,Atorvastatin 10mg,Cardiac,Pfizer,B092404,Apr-25,3,55.3,0,5,8.29,165.9
+B11294,2024-04-29,Venkat Rao,Ravi,Dolo 650mg,Analgesic,Micro Labs,B022404,Oct-25,5,15.05,0,12,9.03,75.25
+B11295,2024-04-29,Meena Krishnan,Arjun,Glimepiride 2mg,Antidiabetic,Sanofi,B122404,Oct-25,1,64.41,5,5,3.06,61.19
+B11295,2024-04-29,Meena Krishnan,Arjun,Atorvastatin 10mg,Cardiac,Pfizer,B092404,Apr-26,1,54.23,5,5,2.58,51.52
+B11295,2024-04-29,Meena Krishnan,Arjun,Montelukast 10mg,Respiratory,Cipla,B192404,Apr-27,3,83.79,0,12,30.16,251.37
+B11295,2024-04-29,Meena Krishnan,Arjun,Azithromycin 500mg,Antibiotic,Cipla,B062404,Apr-26,1,121.01,0,12,14.52,121.01
+B11296,2024-04-30,Ramesh Kumar,Arjun,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Apr-26,2,45.28,0,5,4.53,90.56
+B11296,2024-04-30,Ramesh Kumar,Arjun,Dolo 650mg,Analgesic,Micro Labs,B022404,Apr-25,1,15.17,0,12,1.82,15.17
+B11296,2024-04-30,Ramesh Kumar,Arjun,Ibuprofen 400mg,Analgesic,Boots,B182404,Apr-27,2,22.27,10,12,4.81,40.09
+B11296,2024-04-30,Ramesh Kumar,Arjun,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Apr-26,1,94.0,5,12,10.72,89.3
+B11297,2024-04-30,Sangeetha P,Ravi,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Oct-25,4,37.97,0,12,18.23,151.88
+B11297,2024-04-30,Sangeetha P,Ravi,Levothyroxine 50mcg,Thyroid,Abbott,B142404,Oct-25,1,34.61,10,5,1.56,31.15
+B11297,2024-04-30,Sangeetha P,Ravi,Glimepiride 2mg,Antidiabetic,Sanofi,B122404,Apr-26,1,64.13,10,5,2.89,57.72
+B11297,2024-04-30,Sangeetha P,Ravi,Atorvastatin 10mg,Cardiac,Pfizer,B092404,Oct-25,2,55.94,0,5,5.59,111.88
+B11298,2024-04-30,Meena Krishnan,Arjun,Antacid Syrup 170ml,Antacid,Digene,B232404,Apr-25,4,85.84,0,12,41.2,343.36
+B11298,2024-04-30,Meena Krishnan,Arjun,Salbutamol Inhaler,Respiratory,GSK,B202404,Apr-25,5,183.01,5,12,104.32,869.3
+B11299,2024-04-30,Walk-in Customer,Meena,Metoprolol 50mg,Cardiac,Sun Pharma,B112404,Apr-25,1,42.21,5,5,2.0,40.1
+B11299,2024-04-30,Walk-in Customer,Meena,B-Complex,Supplement,Merck,B172404,Apr-26,5,45.44,0,12,27.26,227.2
+B11299,2024-04-30,Walk-in Customer,Meena,Ibuprofen 400mg,Analgesic,Boots,B182404,Apr-26,1,22.32,0,12,2.68,22.32
+B11300,2024-04-30,Walk-in Customer,Priya,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Apr-27,5,95.64,10,12,51.65,430.38
+B11300,2024-04-30,Walk-in Customer,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Apr-25,2,45.48,10,5,4.09,81.86
+B11300,2024-04-30,Walk-in Customer,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Oct-25,4,45.19,0,12,21.69,180.76
+B11300,2024-04-30,Walk-in Customer,Priya,Montelukast 10mg,Respiratory,Cipla,B192404,Apr-25,5,84.27,0,12,50.56,421.35
+B11301,2024-04-30,Venkat Rao,Meena,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Oct-25,2,45.41,10,12,9.81,81.74
+B11301,2024-04-30,Venkat Rao,Meena,Paracetamol 500mg,Analgesic,GSK,B012404,Apr-25,2,12.36,0,12,2.97,24.72
+B11301,2024-04-30,Venkat Rao,Meena,Montelukast 10mg,Respiratory,Cipla,B192404,Oct-25,5,84.44,5,12,48.13,401.09
+B11301,2024-04-30,Venkat Rao,Meena,Cetirizine 10mg,Antihistamine,Cipla,B032404,Oct-25,3,18.1,0,12,6.52,54.3
+B11302,2024-04-30,Suresh Babu,Meena,Antiseptic Cream,Topical,Dettol,B242404,Oct-25,2,64.31,0,12,15.43,128.62
+B11302,2024-04-30,Suresh Babu,Meena,B-Complex,Supplement,Merck,B172404,Apr-25,1,45.24,0,12,5.43,45.24
+B11302,2024-04-30,Suresh Babu,Meena,Salbutamol Inhaler,Respiratory,GSK,B202404,Apr-26,4,181.72,10,12,78.5,654.19
+B11302,2024-04-30,Suresh Babu,Meena,Montelukast 10mg,Respiratory,Cipla,B192404,Apr-26,4,85.47,5,12,38.97,324.79
+B11303,2024-04-30,Sangeetha P,Meena,Amoxicillin 500mg,Antibiotic,Alkem,B052404,Oct-25,5,84.86,10,12,45.82,381.87
+B11303,2024-04-30,Sangeetha P,Meena,B-Complex,Supplement,Merck,B172404,Oct-25,5,44.13,0,12,26.48,220.65
+B11303,2024-04-30,Sangeetha P,Meena,Telmisartan 40mg,Antihypertensive,Glenmark,B132404,Apr-26,5,48.15,0,5,12.04,240.75
+B11303,2024-04-30,Sangeetha P,Meena,Salbutamol Inhaler,Respiratory,GSK,B202404,Apr-25,5,182.77,0,12,109.66,913.85
+B11304,2024-04-30,Walk-in Customer,Arjun,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Apr-26,4,45.29,0,12,21.74,181.16
+B11304,2024-04-30,Walk-in Customer,Arjun,Antiseptic Cream,Topical,Dettol,B242404,Apr-25,2,66.11,0,12,15.87,132.22
+B11305,2024-04-30,Rajesh M,Meena,Antacid Syrup 170ml,Antacid,Digene,B232404,Apr-26,4,84.73,10,12,36.6,305.03
+B11305,2024-04-30,Rajesh M,Meena,Levothyroxine 50mcg,Thyroid,Abbott,B142404,Apr-25,4,35.65,0,5,7.13,142.6
+B11305,2024-04-30,Rajesh M,Meena,Cetirizine 10mg,Antihistamine,Cipla,B032404,Oct-25,1,17.98,5,12,2.05,17.08
+B11305,2024-04-30,Rajesh M,Meena,Salbutamol Inhaler,Respiratory,GSK,B202404,Apr-27,1,185.91,10,12,20.08,167.32
+B11306,2024-04-30,Anitha R,Arjun,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Apr-26,4,95.31,0,12,45.75,381.24
+B11307,2024-04-30,Prakash T,Priya,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Apr-26,5,38.34,0,12,23.0,191.7
+B11308,2024-04-30,Priya Lakshmi,Meena,Calcium + D3,Supplement,Pfizer,B162404,Apr-26,3,95.16,0,12,34.26,285.48
+B11309,2024-04-30,Suresh Babu,Ravi,Amoxicillin 500mg,Antibiotic,Alkem,B052404,Apr-27,3,86.3,0,12,31.07,258.9
+B11309,2024-04-30,Suresh Babu,Ravi,Calcium + D3,Supplement,Pfizer,B162404,Apr-26,2,93.66,5,12,21.35,177.95
+B11309,2024-04-30,Suresh Babu,Ravi,Ibuprofen 400mg,Analgesic,Boots,B182404,Oct-25,2,22.24,10,12,4.8,40.03
+B11309,2024-04-30,Suresh Babu,Ravi,Cetirizine 10mg,Antihistamine,Cipla,B032404,Oct-25,4,18.17,0,12,8.72,72.68
+B11310,2024-04-30,Priya Lakshmi,Ravi,Salbutamol Inhaler,Respiratory,GSK,B202404,Oct-25,3,186.23,0,12,67.04,558.69
+B11310,2024-04-30,Priya Lakshmi,Ravi,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Apr-25,4,37.5,0,12,18.0,150.0
+B11310,2024-04-30,Priya Lakshmi,Ravi,Ibuprofen 400mg,Analgesic,Boots,B182404,Apr-26,4,21.72,5,12,9.9,82.54
+B11311,2024-04-30,Walk-in Customer,Priya,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Apr-26,2,93.54,10,12,20.2,168.37
+B11312,2024-04-30,Walk-in Customer,Priya,ORS Sachet,OTC,Electral,B222404,Oct-25,3,8.08,0,12,2.91,24.24
+B11312,2024-04-30,Walk-in Customer,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252404,Oct-25,2,44.59,5,12,10.17,84.72
+B11312,2024-04-30,Walk-in Customer,Priya,Omeprazole 20mg,Antacid,Dr Reddys,B072404,Oct-25,4,31.57,10,12,13.64,113.65
+B11313,2024-04-30,Walk-in Customer,Meena,Dolo 650mg,Analgesic,Micro Labs,B022404,Oct-25,2,15.2,0,12,3.65,30.4
+B11314,2024-04-30,Anitha R,Arjun,Metformin 500mg,Antidiabetic,Sun Pharma,B042404,Apr-27,1,45.52,10,5,2.05,40.97
+B11314,2024-04-30,Anitha R,Arjun,Levothyroxine 50mcg,Thyroid,Abbott,B142404,Apr-26,4,34.5,0,5,6.9,138.0
+B11315,2024-04-30,Mohammed Farooq,Ravi,Metoprolol 50mg,Cardiac,Sun Pharma,B112404,Oct-25,1,42.84,0,5,2.14,42.84
+B11316,2024-04-30,Sangeetha P,Meena,ORS Sachet,OTC,Electral,B222404,Apr-26,5,7.89,5,12,4.5,37.48
+B11316,2024-04-30,Sangeetha P,Meena,Salbutamol Inhaler,Respiratory,GSK,B202404,Apr-27,2,182.31,10,12,39.38,328.16
+B11316,2024-04-30,Sangeetha P,Meena,Antacid Syrup 170ml,Antacid,Digene,B232404,Oct-25,3,85.38,5,12,29.2,243.33
+B11316,2024-04-30,Sangeetha P,Meena,B-Complex,Supplement,Merck,B172404,Oct-25,4,44.57,0,12,21.39,178.28
+B11317,2024-04-30,Rajesh M,Priya,Azithromycin 500mg,Antibiotic,Cipla,B062404,Oct-25,2,121.01,0,12,29.04,242.02
+B11317,2024-04-30,Rajesh M,Priya,Antacid Syrup 170ml,Antacid,Digene,B232404,Apr-25,5,84.6,5,12,48.22,401.85
+B11317,2024-04-30,Rajesh M,Priya,Levothyroxine 50mcg,Thyroid,Abbott,B142404,Oct-25,5,34.82,10,5,7.83,156.69
+B11317,2024-04-30,Rajesh M,Priya,Cough Syrup 100ml,Respiratory,Benadryl,B212404,Apr-27,5,93.23,5,12,53.14,442.84
+B11318,2024-04-30,Anitha R,Ravi,Omeprazole 20mg,Antacid,Dr Reddys,B072404,Apr-27,1,31.65,10,12,3.42,28.48
+B11318,2024-04-30,Anitha R,Ravi,Azithromycin 500mg,Antibiotic,Cipla,B062404,Apr-25,4,119.23,0,12,57.23,476.92
+B11318,2024-04-30,Anitha R,Ravi,Paracetamol 500mg,Analgesic,GSK,B012404,Oct-25,2,12.37,0,12,2.97,24.74
+B11318,2024-04-30,Anitha R,Ravi,Dolo 650mg,Analgesic,Micro Labs,B022404,Oct-25,1,15.0,0,12,1.8,15.0
+B11319,2024-04-30,Mohammed Farooq,Arjun,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Apr-26,3,38.47,0,12,13.85,115.41
+B11319,2024-04-30,Mohammed Farooq,Arjun,Atorvastatin 10mg,Cardiac,Pfizer,B092404,Oct-25,1,55.13,0,5,2.76,55.13
+B11319,2024-04-30,Mohammed Farooq,Arjun,Glimepiride 2mg,Antidiabetic,Sanofi,B122404,Apr-27,3,64.41,0,5,9.66,193.23
+B11319,2024-04-30,Mohammed Farooq,Arjun,Salbutamol Inhaler,Respiratory,GSK,B202404,Oct-25,5,187.81,10,12,101.42,845.14
+B11320,2024-04-30,Prakash T,Meena,Calcium + D3,Supplement,Pfizer,B162404,Apr-26,2,93.28,10,12,20.15,167.9
+B11320,2024-04-30,Prakash T,Meena,Pantoprazole 40mg,Antacid,Sun Pharma,B082404,Oct-25,1,37.46,10,12,4.05,33.71
+B11320,2024-04-30,Prakash T,Meena,Antiseptic Cream,Topical,Dettol,B242404,Oct-25,5,65.77,0,12,39.46,328.85
+B11320,2024-04-30,Prakash T,Meena,Omeprazole 20mg,Antacid,Dr Reddys,B072404,Apr-25,2,32.34,0,12,7.76,64.68
+B11321,2024-05-01,Venkat Rao,Priya,Montelukast 10mg,Respiratory,Cipla,B192405,Apr-27,1,86.68,0,12,10.4,86.68
+B11321,2024-05-01,Venkat Rao,Priya,Telmisartan 40mg,Antihypertensive,Glenmark,B132405,Apr-27,1,48.23,0,5,2.41,48.23
+B11321,2024-05-01,Venkat Rao,Priya,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-25,5,12.65,0,12,7.59,63.25
+B11322,2024-05-01,Priya Lakshmi,Meena,B-Complex,Supplement,Merck,B172405,Apr-25,2,44.45,10,12,9.6,80.01
+B11322,2024-05-01,Priya Lakshmi,Meena,ORS Sachet,OTC,Electral,B222405,Apr-27,5,7.9,0,12,4.74,39.5
+B11322,2024-05-01,Priya Lakshmi,Meena,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Apr-25,2,94.93,10,12,20.5,170.87
+B11322,2024-05-01,Priya Lakshmi,Meena,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Oct-25,5,55.91,5,5,13.28,265.57
+B11323,2024-05-01,Deepa Nair,Arjun,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-26,3,184.47,0,12,66.41,553.41
+B11323,2024-05-01,Deepa Nair,Arjun,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Oct-25,2,41.34,0,5,4.13,82.68
+B11324,2024-05-01,Kavitha S,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-26,2,18.18,0,12,4.36,36.36
+B11324,2024-05-01,Kavitha S,Priya,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Apr-25,3,83.43,5,12,28.53,237.78
+B11324,2024-05-01,Kavitha S,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-25,1,44.63,0,12,5.36,44.63
+B11324,2024-05-01,Kavitha S,Priya,Azithromycin 500mg,Antibiotic,Cipla,B062405,Oct-25,1,118.18,0,12,14.18,118.18
+B11325,2024-05-01,Suresh Babu,Ravi,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Apr-25,3,83.85,5,12,28.68,238.97
+B11326,2024-05-01,Lakshmi Devi,Ravi,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Apr-27,5,55.58,0,5,13.89,277.9
+B11327,2024-05-01,Ramesh Kumar,Ravi,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-26,4,45.32,0,12,21.75,181.28
+B11327,2024-05-01,Ramesh Kumar,Ravi,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-26,1,18.0,5,12,2.05,17.1
+B11327,2024-05-01,Ramesh Kumar,Ravi,Antiseptic Cream,Topical,Dettol,B242405,Apr-25,3,66.23,5,12,22.65,188.76
+B11328,2024-05-01,Arun Sharma,Meena,Antiseptic Cream,Topical,Dettol,B242405,Apr-25,4,66.17,0,12,31.76,264.68
+B11329,2024-05-01,Ramesh Kumar,Meena,Salbutamol Inhaler,Respiratory,GSK,B202405,Oct-25,3,183.81,5,12,62.86,523.86
+B11329,2024-05-01,Ramesh Kumar,Meena,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-27,3,121.03,5,12,41.39,344.94
+B11329,2024-05-01,Ramesh Kumar,Meena,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-27,3,45.15,5,5,6.43,128.68
+B11330,2024-05-01,Arun Sharma,Priya,Paracetamol 500mg,Analgesic,GSK,B012405,Oct-25,3,12.5,10,12,4.05,33.75
+B11330,2024-05-01,Arun Sharma,Priya,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-25,3,32.27,0,12,11.62,96.81
+B11330,2024-05-01,Arun Sharma,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-26,5,44.69,0,5,11.17,223.45
+B11330,2024-05-01,Arun Sharma,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-26,1,17.96,10,12,1.94,16.16
+B11331,2024-05-01,Priya Lakshmi,Ravi,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-27,3,31.71,0,12,11.42,95.13
+B11331,2024-05-01,Priya Lakshmi,Ravi,B-Complex,Supplement,Merck,B172405,Apr-25,4,44.23,5,12,20.17,168.07
+B11332,2024-05-01,Meena Krishnan,Priya,Montelukast 10mg,Respiratory,Cipla,B192405,Apr-25,3,83.63,0,12,30.11,250.89
+B11333,2024-05-01,Meena Krishnan,Arjun,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-27,4,63.76,10,5,11.48,229.54
+B11333,2024-05-01,Meena Krishnan,Arjun,Paracetamol 500mg,Analgesic,GSK,B012405,Oct-25,1,12.38,5,12,1.41,11.76
+B11334,2024-05-01,Anitha R,Arjun,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-25,2,12.52,0,12,3.0,25.04
+B11334,2024-05-01,Anitha R,Arjun,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-26,4,32.38,5,12,14.76,123.04
+B11334,2024-05-01,Anitha R,Arjun,Amlodipine 5mg,Cardiac,Cipla,B102405,Oct-25,1,27.83,5,5,1.32,26.44
+B11335,2024-05-01,Kavitha S,Ravi,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Apr-26,3,42.65,0,5,6.4,127.95
+B11335,2024-05-01,Kavitha S,Ravi,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-25,4,44.24,0,12,21.24,176.96
+B11336,2024-05-01,Ramesh Kumar,Meena,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-25,1,28.2,5,5,1.34,26.79
+B11336,2024-05-01,Ramesh Kumar,Meena,Salbutamol Inhaler,Respiratory,GSK,B202405,Oct-25,2,184.7,0,12,44.33,369.4
+B11336,2024-05-01,Ramesh Kumar,Meena,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Oct-25,5,45.74,5,12,26.07,217.27
+B11336,2024-05-01,Ramesh Kumar,Meena,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Apr-26,1,42.19,0,5,2.11,42.19
+B11337,2024-05-01,Meena Krishnan,Priya,Ibuprofen 400mg,Analgesic,Boots,B182405,Oct-25,3,21.6,10,12,7.0,58.32
+B11338,2024-05-01,Ramesh Kumar,Priya,Dolo 650mg,Analgesic,Micro Labs,B022405,Apr-26,5,14.87,0,12,8.92,74.35
+B11338,2024-05-01,Ramesh Kumar,Priya,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Apr-27,2,34.4,10,5,3.1,61.92
+B11338,2024-05-01,Ramesh Kumar,Priya,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Apr-26,2,86.47,0,12,20.75,172.94
+B11338,2024-05-01,Ramesh Kumar,Priya,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Apr-26,5,53.93,10,5,12.13,242.68
+B11339,2024-05-01,Lakshmi Devi,Arjun,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Oct-25,5,54.92,5,5,13.04,260.87
+B11339,2024-05-01,Lakshmi Devi,Arjun,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Apr-25,5,41.51,0,5,10.38,207.55
+B11339,2024-05-01,Lakshmi Devi,Arjun,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-25,5,64.93,0,5,16.23,324.65
+B11339,2024-05-01,Lakshmi Devi,Arjun,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-27,3,44.87,0,12,16.15,134.61
+B11340,2024-05-01,Mohammed Farooq,Priya,Azithromycin 500mg,Antibiotic,Cipla,B062405,Oct-25,2,122.15,10,12,26.38,219.87
+B11340,2024-05-01,Mohammed Farooq,Priya,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Apr-26,5,85.93,0,12,51.56,429.65
+B11340,2024-05-01,Mohammed Farooq,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-27,5,44.13,0,12,26.48,220.65
+B11340,2024-05-01,Mohammed Farooq,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-26,3,18.33,0,12,6.6,54.99
+B11341,2024-05-01,Deepa Nair,Meena,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-25,3,44.92,0,5,6.74,134.76
+B11341,2024-05-01,Deepa Nair,Meena,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-27,2,18.25,10,12,3.94,32.85
+B11341,2024-05-01,Deepa Nair,Meena,Montelukast 10mg,Respiratory,Cipla,B192405,Oct-25,5,85.19,0,12,51.11,425.95
+B11341,2024-05-01,Deepa Nair,Meena,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-27,5,28.06,0,5,7.01,140.3
+B11342,2024-05-01,Suresh Babu,Arjun,Telmisartan 40mg,Antihypertensive,Glenmark,B132405,Apr-27,5,47.7,10,5,10.73,214.65
+B11342,2024-05-01,Suresh Babu,Arjun,Azithromycin 500mg,Antibiotic,Cipla,B062405,Oct-25,3,119.45,0,12,43.0,358.35
+B11342,2024-05-01,Suresh Babu,Arjun,Amlodipine 5mg,Cardiac,Cipla,B102405,Oct-25,2,27.47,5,5,2.61,52.19
+B11343,2024-05-01,Priya Lakshmi,Ravi,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Apr-27,4,85.75,0,12,41.16,343.0
+B11343,2024-05-01,Priya Lakshmi,Ravi,ORS Sachet,OTC,Electral,B222405,Apr-25,4,7.9,5,12,3.6,30.02
+B11344,2024-05-01,Anitha R,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-25,5,18.16,0,12,10.9,90.8
+B11344,2024-05-01,Anitha R,Priya,Pantoprazole 40mg,Antacid,Sun Pharma,B082405,Apr-26,2,37.81,0,12,9.07,75.62
+B11345,2024-05-01,Ramesh Kumar,Arjun,ORS Sachet,OTC,Electral,B222405,Oct-25,3,8.03,0,12,2.89,24.09
+B11345,2024-05-01,Ramesh Kumar,Arjun,B-Complex,Supplement,Merck,B172405,Oct-25,4,44.87,0,12,21.54,179.48
+B11346,2024-05-01,Lakshmi Devi,Ravi,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-27,3,65.07,0,5,9.76,195.21
+B11346,2024-05-01,Lakshmi Devi,Ravi,Montelukast 10mg,Respiratory,Cipla,B192405,Apr-27,4,86.02,5,12,39.23,326.88
+B11347,2024-05-01,Priya Lakshmi,Ravi,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Oct-25,4,44.15,5,5,8.39,167.77
+B11348,2024-05-01,Meena Krishnan,Meena,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Apr-26,4,86.01,0,12,41.28,344.04
+B11348,2024-05-01,Meena Krishnan,Meena,Ibuprofen 400mg,Analgesic,Boots,B182405,Oct-25,1,21.65,0,12,2.6,21.65
+B11348,2024-05-01,Meena Krishnan,Meena,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-25,1,64.5,0,5,3.23,64.5
+B11349,2024-05-01,Sangeetha P,Arjun,Azithromycin 500mg,Antibiotic,Cipla,B062405,Oct-25,3,121.49,0,12,43.74,364.47
+B11349,2024-05-01,Sangeetha P,Arjun,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-25,4,28.48,10,5,5.13,102.53
+B11350,2024-05-01,Prakash T,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-25,1,44.57,0,12,5.35,44.57
+B11350,2024-05-01,Prakash T,Priya,Salbutamol Inhaler,Respiratory,GSK,B202405,Oct-25,3,188.43,0,12,67.83,565.29
+B11350,2024-05-01,Prakash T,Priya,Pantoprazole 40mg,Antacid,Sun Pharma,B082405,Apr-27,3,37.41,0,12,13.47,112.23
+B11351,2024-05-01,Meena Krishnan,Meena,Azithromycin 500mg,Antibiotic,Cipla,B062405,Oct-25,4,118.73,10,12,51.29,427.43
+B11352,2024-05-01,Walk-in Customer,Arjun,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Apr-26,3,54.61,0,5,8.19,163.83
+B11352,2024-05-01,Walk-in Customer,Arjun,ORS Sachet,OTC,Electral,B222405,Apr-27,4,7.86,5,12,3.58,29.87
+B11352,2024-05-01,Walk-in Customer,Arjun,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Oct-25,1,41.27,10,5,1.86,37.14
+B11352,2024-05-01,Walk-in Customer,Arjun,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-26,1,122.0,0,12,14.64,122.0
+B11353,2024-05-01,Sangeetha P,Priya,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-25,4,84.3,0,12,40.46,337.2
+B11354,2024-05-02,Prakash T,Arjun,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Oct-25,2,53.93,0,5,5.39,107.86
+B11355,2024-05-02,Priya Lakshmi,Meena,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Apr-26,1,93.63,0,12,11.24,93.63
+B11355,2024-05-02,Priya Lakshmi,Meena,Antiseptic Cream,Topical,Dettol,B242405,Apr-27,1,64.71,10,12,6.99,58.24
+B11356,2024-05-02,Suresh Babu,Priya,Salbutamol Inhaler,Respiratory,GSK,B202405,Oct-25,5,182.43,0,12,109.46,912.15
+B11356,2024-05-02,Suresh Babu,Priya,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-27,1,32.62,0,12,3.91,32.62
+B11356,2024-05-02,Suresh Babu,Priya,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Apr-25,4,34.62,5,5,6.58,131.56
+B11356,2024-05-02,Suresh Babu,Priya,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-26,3,27.91,0,5,4.19,83.73
+B11357,2024-05-02,Sangeetha P,Meena,Vitamin D3 60K,Supplement,Mankind,B152405,Apr-26,1,75.42,0,12,9.05,75.42
+B11357,2024-05-02,Sangeetha P,Meena,Amlodipine 5mg,Cardiac,Cipla,B102405,Oct-25,5,28.45,0,5,7.11,142.25
+B11358,2024-05-02,Priya Lakshmi,Priya,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-27,3,185.98,0,12,66.95,557.94
+B11358,2024-05-02,Priya Lakshmi,Priya,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Oct-25,3,86.25,0,12,31.05,258.75
+B11359,2024-05-02,Walk-in Customer,Ravi,Montelukast 10mg,Respiratory,Cipla,B192405,Oct-25,3,83.57,0,12,30.09,250.71
+B11359,2024-05-02,Walk-in Customer,Ravi,Dolo 650mg,Analgesic,Micro Labs,B022405,Apr-26,1,14.76,0,12,1.77,14.76
+B11359,2024-05-02,Walk-in Customer,Ravi,Ibuprofen 400mg,Analgesic,Boots,B182405,Apr-27,5,21.69,0,12,13.01,108.45
+B11359,2024-05-02,Walk-in Customer,Ravi,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-25,3,183.06,5,12,62.61,521.72
+B11360,2024-05-02,Walk-in Customer,Ravi,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-26,4,63.72,10,5,11.47,229.39
+B11360,2024-05-02,Walk-in Customer,Ravi,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-25,3,44.3,5,12,15.15,126.25
+B11360,2024-05-02,Walk-in Customer,Ravi,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-27,3,12.74,5,12,4.36,36.31
+B11360,2024-05-02,Walk-in Customer,Ravi,Dolo 650mg,Analgesic,Micro Labs,B022405,Apr-26,1,14.9,10,12,1.61,13.41
+B11361,2024-05-02,Lakshmi Devi,Priya,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Apr-27,3,34.72,5,5,4.95,98.95
+B11362,2024-05-02,Sangeetha P,Priya,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Apr-25,4,42.18,5,5,8.01,160.28
+B11362,2024-05-02,Sangeetha P,Priya,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-27,3,184.31,5,12,63.03,525.28
+B11362,2024-05-02,Sangeetha P,Priya,Ibuprofen 400mg,Analgesic,Boots,B182405,Oct-25,5,21.9,10,12,11.83,98.55
+B11363,2024-05-02,Rajesh M,Ravi,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-25,4,186.04,0,12,89.3,744.16
+B11363,2024-05-02,Rajesh M,Ravi,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Apr-27,5,83.37,0,12,50.02,416.85
+B11363,2024-05-02,Rajesh M,Ravi,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-25,1,45.51,5,12,5.19,43.23
+B11364,2024-05-02,Walk-in Customer,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-26,4,44.68,10,12,19.3,160.85
+B11364,2024-05-02,Walk-in Customer,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032405,Oct-25,5,18.26,0,12,10.96,91.3
+B11364,2024-05-02,Walk-in Customer,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-27,5,45.06,5,5,10.7,214.03
+B11365,2024-05-02,Priya Lakshmi,Arjun,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-27,4,45.76,0,5,9.15,183.04
+B11365,2024-05-02,Priya Lakshmi,Arjun,Vitamin D3 60K,Supplement,Mankind,B152405,Oct-25,2,75.02,5,12,17.1,142.54
+B11365,2024-05-02,Priya Lakshmi,Arjun,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-25,3,66.04,10,5,8.92,178.31
+B11365,2024-05-02,Priya Lakshmi,Arjun,ORS Sachet,OTC,Electral,B222405,Apr-27,5,8.09,10,12,4.37,36.41
+B11366,2024-05-02,Meena Krishnan,Priya,Pantoprazole 40mg,Antacid,Sun Pharma,B082405,Oct-25,5,37.67,5,12,21.47,178.93
+B11366,2024-05-02,Meena Krishnan,Priya,Azithromycin 500mg,Antibiotic,Cipla,B062405,Oct-25,3,121.23,10,12,39.28,327.32
+B11367,2024-05-02,Rajesh M,Meena,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-26,1,64.21,0,5,3.21,64.21
+B11367,2024-05-02,Rajesh M,Meena,Cetirizine 10mg,Antihistamine,Cipla,B032405,Oct-25,1,17.89,0,12,2.15,17.89
+B11367,2024-05-02,Rajesh M,Meena,ORS Sachet,OTC,Electral,B222405,Apr-27,5,7.85,5,12,4.47,37.29
+B11368,2024-05-02,Mohammed Farooq,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-26,2,17.78,0,12,4.27,35.56
+B11368,2024-05-02,Mohammed Farooq,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-26,1,45.01,5,5,2.14,42.76
+B11368,2024-05-02,Mohammed Farooq,Priya,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-25,4,83.89,0,12,40.27,335.56
+B11369,2024-05-02,Priya Lakshmi,Priya,B-Complex,Supplement,Merck,B172405,Apr-25,3,45.84,0,12,16.5,137.52
+B11370,2024-05-02,Arun Sharma,Arjun,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-26,3,44.19,5,12,15.11,125.94
+B11371,2024-05-02,Ramesh Kumar,Ravi,Vitamin D3 60K,Supplement,Mankind,B152405,Apr-25,1,74.38,0,12,8.93,74.38
+B11372,2024-05-02,Walk-in Customer,Priya,Antiseptic Cream,Topical,Dettol,B242405,Apr-25,2,66.01,0,12,15.84,132.02
+B11372,2024-05-02,Walk-in Customer,Priya,Montelukast 10mg,Respiratory,Cipla,B192405,Apr-27,2,86.26,10,12,18.63,155.27
+B11372,2024-05-02,Walk-in Customer,Priya,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-26,3,27.9,0,5,4.18,83.7
+B11373,2024-05-02,Priya Lakshmi,Priya,Telmisartan 40mg,Antihypertensive,Glenmark,B132405,Apr-27,4,48.7,0,5,9.74,194.8
+B11373,2024-05-02,Priya Lakshmi,Priya,Montelukast 10mg,Respiratory,Cipla,B192405,Apr-25,3,86.45,10,12,28.01,233.42
+B11374,2024-05-03,Priya Lakshmi,Priya,Montelukast 10mg,Respiratory,Cipla,B192405,Apr-25,5,83.46,10,12,45.07,375.57
+B11374,2024-05-03,Priya Lakshmi,Priya,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Apr-25,1,35.49,10,5,1.6,31.94
+B11375,2024-05-03,Priya Lakshmi,Meena,ORS Sachet,OTC,Electral,B222405,Apr-25,1,8.16,0,12,0.98,8.16
+B11376,2024-05-03,Mohammed Farooq,Arjun,Calcium + D3,Supplement,Pfizer,B162405,Oct-25,1,96.85,5,12,11.04,92.01
+B11376,2024-05-03,Mohammed Farooq,Arjun,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Apr-25,5,54.7,0,5,13.68,273.5
+B11376,2024-05-03,Mohammed Farooq,Arjun,Dolo 650mg,Analgesic,Micro Labs,B022405,Apr-27,4,14.72,5,12,6.71,55.94
+B11377,2024-05-03,Walk-in Customer,Arjun,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-27,1,64.04,0,5,3.2,64.04
+B11377,2024-05-03,Walk-in Customer,Arjun,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-26,2,86.35,5,12,19.69,164.06
+B11377,2024-05-03,Walk-in Customer,Arjun,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-25,4,121.4,0,12,58.27,485.6
+B11377,2024-05-03,Walk-in Customer,Arjun,Montelukast 10mg,Respiratory,Cipla,B192405,Apr-27,4,85.55,0,12,41.06,342.2
+B11378,2024-05-03,Walk-in Customer,Meena,Vitamin D3 60K,Supplement,Mankind,B152405,Apr-26,2,74.95,5,12,17.09,142.41
+B11379,2024-05-03,Rajesh M,Meena,Montelukast 10mg,Respiratory,Cipla,B192405,Oct-25,4,86.08,0,12,41.32,344.32
+B11379,2024-05-03,Rajesh M,Meena,ORS Sachet,OTC,Electral,B222405,Apr-27,5,7.85,0,12,4.71,39.25
+B11379,2024-05-03,Rajesh M,Meena,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-25,5,86.5,0,12,51.9,432.5
+B11380,2024-05-03,Arun Sharma,Ravi,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Oct-25,3,35.48,0,5,5.32,106.44
+B11380,2024-05-03,Arun Sharma,Ravi,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-27,5,12.53,5,12,7.14,59.52
+B11380,2024-05-03,Arun Sharma,Ravi,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Apr-27,4,95.72,0,12,45.95,382.88
+B11380,2024-05-03,Arun Sharma,Ravi,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-27,5,44.14,0,12,26.48,220.7
+B11381,2024-05-03,Meena Krishnan,Arjun,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Oct-25,3,55.14,0,5,8.27,165.42
+B11381,2024-05-03,Meena Krishnan,Arjun,Calcium + D3,Supplement,Pfizer,B162405,Apr-25,2,95.96,10,12,20.73,172.73
+B11381,2024-05-03,Meena Krishnan,Arjun,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Apr-25,3,41.47,5,5,5.91,118.19
+B11381,2024-05-03,Meena Krishnan,Arjun,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-27,3,12.7,0,12,4.57,38.1
+B11382,2024-05-03,Deepa Nair,Arjun,Calcium + D3,Supplement,Pfizer,B162405,Apr-25,1,93.51,5,12,10.66,88.83
+B11382,2024-05-03,Deepa Nair,Arjun,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-26,1,27.58,5,5,1.31,26.2
+B11383,2024-05-03,Kavitha S,Ravi,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Oct-25,2,83.69,0,12,20.09,167.38
+B11383,2024-05-03,Kavitha S,Ravi,Antiseptic Cream,Topical,Dettol,B242405,Apr-27,4,64.3,0,12,30.86,257.2
+B11383,2024-05-03,Kavitha S,Ravi,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-26,2,66.0,10,5,5.94,118.8
+B11383,2024-05-03,Kavitha S,Ravi,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-26,1,119.7,10,12,12.93,107.73
+B11384,2024-05-03,Walk-in Customer,Arjun,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-25,5,118.12,0,12,70.87,590.6
+B11385,2024-05-03,Ramesh Kumar,Arjun,Ibuprofen 400mg,Analgesic,Boots,B182405,Apr-27,4,22.36,0,12,10.73,89.44
+B11386,2024-05-03,Meena Krishnan,Meena,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Apr-25,5,54.84,0,5,13.71,274.2
+B11386,2024-05-03,Meena Krishnan,Meena,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-26,3,17.97,0,12,6.47,53.91
+B11387,2024-05-03,Walk-in Customer,Priya,Paracetamol 500mg,Analgesic,GSK,B012405,Oct-25,3,12.38,0,12,4.46,37.14
+B11388,2024-05-03,Sangeetha P,Priya,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-25,3,121.21,0,12,43.64,363.63
+B11388,2024-05-03,Sangeetha P,Priya,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-27,4,32.07,0,12,15.39,128.28
+B11389,2024-05-03,Venkat Rao,Meena,Antiseptic Cream,Topical,Dettol,B242405,Apr-26,4,63.71,0,12,30.58,254.84
+B11390,2024-05-03,Rajesh M,Meena,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Apr-25,5,35.58,5,5,8.45,169.0
+B11390,2024-05-03,Rajesh M,Meena,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Oct-25,2,44.64,0,12,10.71,89.28
+B11390,2024-05-03,Rajesh M,Meena,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-25,4,64.23,0,5,12.85,256.92
+B11391,2024-05-03,Deepa Nair,Meena,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-27,3,32.28,0,12,11.62,96.84
+B11391,2024-05-03,Deepa Nair,Meena,Amlodipine 5mg,Cardiac,Cipla,B102405,Oct-25,5,28.31,0,5,7.08,141.55
+B11391,2024-05-03,Deepa Nair,Meena,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Apr-27,3,54.8,5,5,7.81,156.18
+B11392,2024-05-03,Ramesh Kumar,Meena,Telmisartan 40mg,Antihypertensive,Glenmark,B132405,Apr-27,3,48.92,10,5,6.6,132.08
+B11392,2024-05-03,Ramesh Kumar,Meena,B-Complex,Supplement,Merck,B172405,Oct-25,5,44.37,0,12,26.62,221.85
+B11393,2024-05-03,Walk-in Customer,Priya,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-27,3,32.05,10,12,10.38,86.53
+B11393,2024-05-03,Walk-in Customer,Priya,Vitamin D3 60K,Supplement,Mankind,B152405,Oct-25,1,74.07,10,12,8.0,66.66
+B11393,2024-05-03,Walk-in Customer,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Oct-25,2,45.49,0,12,10.92,90.98
+B11394,2024-05-03,Kavitha S,Arjun,Pantoprazole 40mg,Antacid,Sun Pharma,B082405,Apr-27,2,38.65,0,12,9.28,77.3
+B11394,2024-05-03,Kavitha S,Arjun,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Apr-26,1,41.58,5,5,1.98,39.5
+B11394,2024-05-03,Kavitha S,Arjun,ORS Sachet,OTC,Electral,B222405,Apr-27,5,7.99,0,12,4.79,39.95
+B11394,2024-05-03,Kavitha S,Arjun,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-25,4,64.96,0,5,12.99,259.84
+B11395,2024-05-04,Mohammed Farooq,Priya,Antiseptic Cream,Topical,Dettol,B242405,Apr-25,4,64.42,0,12,30.92,257.68
+B11395,2024-05-04,Mohammed Farooq,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-25,1,45.14,0,5,2.26,45.14
+B11396,2024-05-04,Priya Lakshmi,Meena,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-27,1,187.82,0,12,22.54,187.82
+B11396,2024-05-04,Priya Lakshmi,Meena,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Apr-27,2,96.69,5,12,22.05,183.71
+B11397,2024-05-04,Arun Sharma,Priya,Telmisartan 40mg,Antihypertensive,Glenmark,B132405,Apr-25,5,47.5,5,5,11.28,225.62
+B11397,2024-05-04,Arun Sharma,Priya,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Apr-26,1,41.27,0,5,2.06,41.27
+B11397,2024-05-04,Arun Sharma,Priya,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Oct-25,5,32.29,10,12,17.44,145.31
+B11397,2024-05-04,Arun Sharma,Priya,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Apr-27,4,35.29,0,5,7.06,141.16
+B11398,2024-05-04,Suresh Babu,Arjun,Dolo 650mg,Analgesic,Micro Labs,B022405,Apr-26,5,14.83,5,12,8.45,70.44
+B11398,2024-05-04,Suresh Babu,Arjun,Telmisartan 40mg,Antihypertensive,Glenmark,B132405,Oct-25,4,47.76,10,5,8.6,171.94
+B11398,2024-05-04,Suresh Babu,Arjun,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-25,5,44.88,0,12,26.93,224.4
+B11399,2024-05-04,Walk-in Customer,Meena,Pantoprazole 40mg,Antacid,Sun Pharma,B082405,Apr-25,1,38.37,0,12,4.6,38.37
+B11400,2024-05-04,Kavitha S,Priya,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-25,2,85.91,10,12,18.56,154.64
+B11400,2024-05-04,Kavitha S,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Oct-25,1,45.16,0,12,5.42,45.16
+B11400,2024-05-04,Kavitha S,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-27,5,18.22,5,12,10.38,86.54
+B11400,2024-05-04,Kavitha S,Priya,Ibuprofen 400mg,Analgesic,Boots,B182405,Oct-25,4,22.05,0,12,10.58,88.2
+B11401,2024-05-04,Sangeetha P,Priya,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-26,1,17.97,5,12,2.05,17.07
+B11401,2024-05-04,Sangeetha P,Priya,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-25,2,83.46,0,12,20.03,166.92
+B11401,2024-05-04,Sangeetha P,Priya,Pantoprazole 40mg,Antacid,Sun Pharma,B082405,Apr-26,2,38.58,0,12,9.26,77.16
+B11401,2024-05-04,Sangeetha P,Priya,Antiseptic Cream,Topical,Dettol,B242405,Apr-25,5,64.91,0,12,38.95,324.55
+B11402,2024-05-04,Meena Krishnan,Priya,Antiseptic Cream,Topical,Dettol,B242405,Apr-26,3,64.74,0,12,23.31,194.22
+B11402,2024-05-04,Meena Krishnan,Priya,B-Complex,Supplement,Merck,B172405,Apr-26,5,45.57,10,12,24.61,205.06
+B11402,2024-05-04,Meena Krishnan,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-27,1,44.98,0,12,5.4,44.98
+B11403,2024-05-04,Suresh Babu,Meena,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-27,5,12.56,5,12,7.16,59.66
+B11403,2024-05-04,Suresh Babu,Meena,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-25,2,32.19,10,12,6.95,57.94
+B11403,2024-05-04,Suresh Babu,Meena,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-26,1,63.75,0,5,3.19,63.75
+B11403,2024-05-04,Suresh Babu,Meena,Ibuprofen 400mg,Analgesic,Boots,B182405,Apr-25,3,21.57,10,12,6.99,58.24
+B11404,2024-05-04,Sangeetha P,Arjun,Ibuprofen 400mg,Analgesic,Boots,B182405,Apr-25,4,21.61,0,12,10.37,86.44
+B11405,2024-05-04,Sangeetha P,Meena,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-25,5,28.42,10,5,6.39,127.89
+B11405,2024-05-04,Sangeetha P,Meena,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Apr-26,1,45.58,0,12,5.47,45.58
+B11406,2024-05-04,Lakshmi Devi,Arjun,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-25,1,12.39,0,12,1.49,12.39
+B11406,2024-05-04,Lakshmi Devi,Arjun,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-27,3,84.41,0,12,30.39,253.23
+B11406,2024-05-04,Lakshmi Devi,Arjun,Amlodipine 5mg,Cardiac,Cipla,B102405,Oct-25,3,27.61,0,5,4.14,82.83
+B11407,2024-05-04,Walk-in Customer,Ravi,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Oct-25,2,96.18,10,12,20.77,173.12
+B11407,2024-05-04,Walk-in Customer,Ravi,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Oct-25,1,65.25,0,5,3.26,65.25
+B11407,2024-05-04,Walk-in Customer,Ravi,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-26,2,84.01,5,12,19.15,159.62
+B11408,2024-05-04,Priya Lakshmi,Ravi,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Apr-26,2,54.63,0,5,5.46,109.26
+B11408,2024-05-04,Priya Lakshmi,Ravi,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Oct-25,3,83.57,10,12,27.08,225.64
+B11409,2024-05-04,Sangeetha P,Meena,Telmisartan 40mg,Antihypertensive,Glenmark,B132405,Apr-25,4,48.81,0,5,9.76,195.24
+B11409,2024-05-04,Sangeetha P,Meena,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Apr-27,2,31.85,10,12,6.88,57.33
+B11409,2024-05-04,Sangeetha P,Meena,ORS Sachet,OTC,Electral,B222405,Oct-25,5,8.04,0,12,4.82,40.2
+B11410,2024-05-04,Suresh Babu,Priya,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Oct-25,5,44.69,5,12,25.47,212.28
+B11410,2024-05-04,Suresh Babu,Priya,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-27,2,84.12,0,12,20.19,168.24
+B11410,2024-05-04,Suresh Babu,Priya,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-25,2,64.57,10,5,5.81,116.23
+B11410,2024-05-04,Suresh Babu,Priya,Metoprolol 50mg,Cardiac,Sun Pharma,B112405,Oct-25,3,41.82,0,5,6.27,125.46
+B11411,2024-05-04,Sunita Devi,Arjun,Atorvastatin 10mg,Cardiac,Pfizer,B092405,Apr-26,4,56.03,0,5,11.21,224.12
+B11411,2024-05-04,Sunita Devi,Arjun,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Oct-25,1,66.16,10,5,2.98,59.54
+B11411,2024-05-04,Sunita Devi,Arjun,Antiseptic Cream,Topical,Dettol,B242405,Apr-25,4,63.98,0,12,30.71,255.92
+B11412,2024-05-04,Ramesh Kumar,Ravi,Antacid Syrup 170ml,Antacid,Digene,B232405,Oct-25,5,86.21,5,12,49.14,409.5
+B11412,2024-05-04,Ramesh Kumar,Ravi,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Apr-25,1,93.25,0,12,11.19,93.25
+B11413,2024-05-04,Arun Sharma,Ravi,Antacid Syrup 170ml,Antacid,Digene,B232405,Oct-25,1,84.4,10,12,9.12,75.96
+B11413,2024-05-04,Arun Sharma,Ravi,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Oct-25,4,45.8,5,12,20.88,174.04
+B11413,2024-05-04,Arun Sharma,Ravi,Vitamin D3 60K,Supplement,Mankind,B152405,Apr-25,3,76.17,5,12,26.05,217.08
+B11414,2024-05-04,Walk-in Customer,Priya,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-26,1,120.29,0,12,14.43,120.29
+B11414,2024-05-04,Walk-in Customer,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-25,3,44.27,10,5,5.98,119.53
+B11415,2024-05-04,Arun Sharma,Meena,ORS Sachet,OTC,Electral,B222405,Apr-26,1,8.12,0,12,0.97,8.12
+B11415,2024-05-04,Arun Sharma,Meena,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Oct-25,2,34.8,10,5,3.13,62.64
+B11416,2024-05-04,Walk-in Customer,Meena,ORS Sachet,OTC,Electral,B222405,Oct-25,5,8.1,0,12,4.86,40.5
+B11416,2024-05-04,Walk-in Customer,Meena,Calcium + D3,Supplement,Pfizer,B162405,Oct-25,5,93.49,5,12,53.29,444.08
+B11416,2024-05-04,Walk-in Customer,Meena,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-25,3,181.45,0,12,65.32,544.35
+B11417,2024-05-04,Walk-in Customer,Arjun,ORS Sachet,OTC,Electral,B222405,Apr-25,2,7.89,0,12,1.89,15.78
+B11418,2024-05-04,Arun Sharma,Ravi,Vitamin D3 60K,Supplement,Mankind,B152405,Apr-27,2,75.71,0,12,18.17,151.42
+B11418,2024-05-04,Arun Sharma,Ravi,Eye Drops 10ml,Ophthalmic,Cipla,B252405,Oct-25,3,44.19,0,12,15.91,132.57
+B11418,2024-05-04,Arun Sharma,Ravi,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-25,3,84.48,0,12,30.41,253.44
+B11419,2024-05-04,Walk-in Customer,Arjun,Amoxicillin 500mg,Antibiotic,Alkem,B052405,Oct-25,1,85.16,5,12,9.71,80.9
+B11419,2024-05-04,Walk-in Customer,Arjun,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-27,5,183.95,10,12,99.33,827.77
+B11420,2024-05-04,Lakshmi Devi,Arjun,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-25,5,184.66,10,12,99.72,830.97
+B11420,2024-05-04,Lakshmi Devi,Arjun,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-25,3,120.64,10,12,39.09,325.73
+B11421,2024-05-04,Priya Lakshmi,Meena,Cetirizine 10mg,Antihistamine,Cipla,B032405,Oct-25,3,18.01,0,12,6.48,54.03
+B11422,2024-05-04,Kavitha S,Priya,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-27,4,28.14,0,5,5.63,112.56
+B11422,2024-05-04,Kavitha S,Priya,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Apr-27,2,96.54,5,12,22.01,183.43
+B11422,2024-05-04,Kavitha S,Priya,Ibuprofen 400mg,Analgesic,Boots,B182405,Apr-26,1,22.31,0,12,2.68,22.31
+B11422,2024-05-04,Kavitha S,Priya,Omeprazole 20mg,Antacid,Dr Reddys,B072405,Oct-25,2,31.8,0,12,7.63,63.6
+B11423,2024-05-04,Kavitha S,Meena,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-25,2,17.78,0,12,4.27,35.56
+B11423,2024-05-04,Kavitha S,Meena,Ibuprofen 400mg,Analgesic,Boots,B182405,Apr-26,2,22.43,0,12,5.38,44.86
+B11423,2024-05-04,Kavitha S,Meena,Vitamin D3 60K,Supplement,Mankind,B152405,Apr-26,4,74.18,10,12,32.05,267.05
+B11424,2024-05-04,Sunita Devi,Ravi,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-26,3,118.78,0,12,42.76,356.34
+B11424,2024-05-04,Sunita Devi,Ravi,Levothyroxine 50mcg,Thyroid,Abbott,B142405,Apr-26,3,34.61,5,5,4.93,98.64
+B11424,2024-05-04,Sunita Devi,Ravi,B-Complex,Supplement,Merck,B172405,Apr-26,2,44.62,0,12,10.71,89.24
+B11425,2024-05-04,Lakshmi Devi,Arjun,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-25,4,12.26,0,12,5.88,49.04
+B11425,2024-05-04,Lakshmi Devi,Arjun,Salbutamol Inhaler,Respiratory,GSK,B202405,Apr-25,5,186.26,10,12,100.58,838.17
+B11425,2024-05-04,Lakshmi Devi,Arjun,Ibuprofen 400mg,Analgesic,Boots,B182405,Oct-25,3,22.29,0,12,8.02,66.87
+B11426,2024-05-04,Meena Krishnan,Priya,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Apr-27,4,95.35,0,12,45.77,381.4
+B11426,2024-05-04,Meena Krishnan,Priya,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Oct-25,2,45.16,0,5,4.52,90.32
+B11427,2024-05-04,Ramesh Kumar,Arjun,Metformin 500mg,Antidiabetic,Sun Pharma,B042405,Apr-25,1,45.45,0,5,2.27,45.45
+B11427,2024-05-04,Ramesh Kumar,Arjun,Antiseptic Cream,Topical,Dettol,B242405,Oct-25,4,64.25,10,12,27.76,231.3
+B11427,2024-05-04,Ramesh Kumar,Arjun,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-25,4,85.2,10,12,36.81,306.72
+B11428,2024-05-04,Mohammed Farooq,Meena,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-27,1,85.87,0,12,10.3,85.87
+B11429,2024-05-04,Prakash T,Meena,ORS Sachet,OTC,Electral,B222405,Apr-25,2,8.01,5,12,1.83,15.22
+B11429,2024-05-04,Prakash T,Meena,Calcium + D3,Supplement,Pfizer,B162405,Apr-25,2,94.15,0,12,22.6,188.3
+B11429,2024-05-04,Prakash T,Meena,Paracetamol 500mg,Analgesic,GSK,B012405,Apr-26,2,12.37,0,12,2.97,24.74
+B11429,2024-05-04,Prakash T,Meena,Azithromycin 500mg,Antibiotic,Cipla,B062405,Apr-26,1,119.26,5,12,13.6,113.3
+B11430,2024-05-04,Suresh Babu,Ravi,Calcium + D3,Supplement,Pfizer,B162405,Oct-25,4,93.33,0,12,44.8,373.32
+B11431,2024-05-04,Prakash T,Arjun,Cetirizine 10mg,Antihistamine,Cipla,B032405,Apr-26,5,18.26,0,12,10.96,91.3
+B11431,2024-05-04,Prakash T,Arjun,Cough Syrup 100ml,Respiratory,Benadryl,B212405,Apr-26,1,93.67,5,12,10.68,88.99
+B11431,2024-05-04,Prakash T,Arjun,Amlodipine 5mg,Cardiac,Cipla,B102405,Apr-26,4,27.83,0,5,5.57,111.32
+B11431,2024-05-04,Prakash T,Arjun,Vitamin D3 60K,Supplement,Mankind,B152405,Apr-26,1,74.04,10,12,8.0,66.64
+B11432,2024-05-04,Walk-in Customer,Ravi,Dolo 650mg,Analgesic,Micro Labs,B022405,Apr-27,1,14.81,0,12,1.78,14.81
+B11432,2024-05-04,Walk-in Customer,Ravi,Antacid Syrup 170ml,Antacid,Digene,B232405,Apr-25,2,86.57,0,12,20.78,173.14
+B11432,2024-05-04,Walk-in Customer,Ravi,Glimepiride 2mg,Antidiabetic,Sanofi,B122405,Apr-27,1,64.04,0,5,3.2,64.04
+B11432,2024-05-04,Walk-in Customer,Ravi,Salbutamol Inhaler,Respiratory,GSK,B202405,Oct-25,2,185.21,10,12,40.01,333.38

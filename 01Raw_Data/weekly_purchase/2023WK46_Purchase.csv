@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0078,2023-11-14,Karnataka Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122311,Nov-25,82,41.79,5,171.34,3598.12
+GRN0078,2023-11-14,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182311,Nov-24,179,14.25,12,306.09,2856.84
+GRN0078,2023-11-14,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102311,Oct-26,58,18.86,5,54.69,1148.57
+GRN0078,2023-11-14,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032311,Nov-25,73,12.35,12,108.19,1009.74
+GRN0078,2023-11-14,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132311,May-25,85,31.32,5,133.11,2795.31
+GRN0079,2023-11-17,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132311,May-25,83,29.87,5,123.96,2603.17
+GRN0079,2023-11-17,Karnataka Pharma Dist,B-Complex,Supplement,Merck,30049099,B172311,Nov-25,70,29.21,12,245.36,2290.06
+GRN0079,2023-11-17,Karnataka Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022311,Nov-25,120,8.9,12,128.16,1196.16
+GRN0079,2023-11-17,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232311,Nov-26,87,51.15,12,534.01,4984.06
+GRN0079,2023-11-17,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222311,Nov-26,95,4.53,12,51.64,481.99
+GRN0079,2023-11-17,Karnataka Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052311,Nov-24,51,54.28,12,332.19,3100.47
+GRN0079,2023-11-17,Karnataka Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112311,Nov-24,76,27.23,5,103.47,2172.95
+GRN0079,2023-11-17,Karnataka Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162311,May-25,88,59.85,12,632.02,5898.82

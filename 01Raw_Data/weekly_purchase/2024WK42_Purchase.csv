@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0163,2024-10-14,Medplus Wholesale,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062410,Apr-26,74,77.37,12,687.05,6412.43
+GRN0163,2024-10-14,Medplus Wholesale,Antiseptic Cream,Topical,Dettol,30049099,B242410,Oct-26,67,39.59,12,318.3,2970.83
+GRN0163,2024-10-14,Medplus Wholesale,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052410,Apr-26,68,54.74,12,446.68,4169.0
+GRN0163,2024-10-14,Medplus Wholesale,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042410,Oct-26,58,29.74,5,86.25,1811.17
+GRN0163,2024-10-14,Medplus Wholesale,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132410,Oct-26,94,30.14,5,141.66,2974.82
+GRN0163,2024-10-14,Medplus Wholesale,Salbutamol Inhaler,Respiratory,GSK,30049099,B202410,Apr-26,95,122.84,12,1400.38,13070.18
+GRN0163,2024-10-14,Medplus Wholesale,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112410,Oct-26,62,26.22,5,81.28,1706.92
+GRN0163,2024-10-14,Medplus Wholesale,B-Complex,Supplement,Merck,30049099,B172410,Apr-26,93,27.57,12,307.68,2871.69
+GRN0164,2024-10-19,Sri Balaji Medicals,B-Complex,Supplement,Merck,30049099,B172410,Oct-26,95,26.92,12,306.89,2864.29
+GRN0164,2024-10-19,Sri Balaji Medicals,Ibuprofen 400mg,Analgesic,Boots,30049099,B182410,Oct-27,85,13.97,12,142.49,1329.94
+GRN0164,2024-10-19,Sri Balaji Medicals,Antacid Syrup 170ml,Antacid,Digene,30049099,B232410,Oct-26,93,53.29,12,594.72,5550.69
+GRN0164,2024-10-19,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212410,Oct-25,77,59.79,12,552.46,5156.29
+GRN0164,2024-10-19,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112410,Oct-25,51,26.68,5,68.03,1428.71

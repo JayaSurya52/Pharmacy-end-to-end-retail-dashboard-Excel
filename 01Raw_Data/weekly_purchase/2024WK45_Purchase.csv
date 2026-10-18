@@ -1,0 +1,17 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0168,2024-11-05,Sun Pharma Distributors,ORS Sachet,OTC,Electral,30049099,B222411,Apr-26,83,4.37,12,43.53,406.24
+GRN0168,2024-11-05,Sun Pharma Distributors,Amlodipine 5mg,Cardiac,Cipla,30049099,B102411,Apr-26,83,17.22,5,71.46,1500.72
+GRN0168,2024-11-05,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162411,Oct-27,76,60.26,12,549.57,5129.33
+GRN0168,2024-11-05,Sun Pharma Distributors,Montelukast 10mg,Respiratory,Cipla,30049099,B192411,Apr-26,111,53.19,12,708.49,6612.58
+GRN0168,2024-11-05,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182411,Oct-26,184,13.76,12,303.82,2835.66
+GRN0168,2024-11-05,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122411,Oct-27,68,40.82,5,138.79,2914.55
+GRN0168,2024-11-05,Sun Pharma Distributors,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032411,Oct-25,85,12.39,12,126.38,1179.53
+GRN0168,2024-11-05,Sun Pharma Distributors,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112411,Oct-27,57,27.46,5,78.26,1643.48
+GRN0169,2024-11-08,Sri Balaji Medicals,Salbutamol Inhaler,Respiratory,GSK,30049099,B202411,Oct-26,132,120.48,12,1908.4,17811.76
+GRN0169,2024-11-08,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082411,Oct-26,51,24.99,12,152.94,1427.43
+GRN0169,2024-11-08,Sri Balaji Medicals,Dolo 650mg,Analgesic,Micro Labs,30049099,B022411,Oct-27,165,9.27,12,183.55,1713.1
+GRN0169,2024-11-08,Sri Balaji Medicals,ORS Sachet,OTC,Electral,30049099,B222411,May-26,81,4.29,12,41.7,389.19
+GRN0169,2024-11-08,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112411,Nov-25,70,27.04,5,94.64,1987.44
+GRN0169,2024-11-08,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132411,Nov-25,60,31.41,5,94.23,1978.83
+GRN0169,2024-11-08,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042411,May-26,90,28.7,5,129.15,2712.15
+GRN0169,2024-11-08,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252411,Nov-25,93,27.79,12,310.14,2894.61

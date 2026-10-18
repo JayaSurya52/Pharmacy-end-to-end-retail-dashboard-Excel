@@ -1,0 +1,7 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0103,2024-02-21,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142402,Aug-25,88,22.98,5,101.11,2123.35
+GRN0103,2024-02-21,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212402,Feb-27,161,56.92,12,1099.69,10263.81
+GRN0103,2024-02-21,Cipla Direct,Salbutamol Inhaler,Respiratory,GSK,30049099,B202402,Feb-27,140,117.5,12,1974.0,18424.0
+GRN0103,2024-02-21,Cipla Direct,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052402,Feb-26,86,56.55,12,583.6,5446.9
+GRN0103,2024-02-21,Cipla Direct,Amlodipine 5mg,Cardiac,Cipla,30049099,B102402,Feb-27,74,17.6,5,65.12,1367.52
+GRN0103,2024-02-21,Cipla Direct,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112402,Aug-25,73,25.96,5,94.75,1989.83

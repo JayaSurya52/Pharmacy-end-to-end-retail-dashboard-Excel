@@ -1,0 +1,8 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0077,2023-11-09,Cipla Direct,Amlodipine 5mg,Cardiac,Cipla,30049099,B102311,Oct-25,65,17.49,5,56.84,1193.69
+GRN0077,2023-11-09,Cipla Direct,Calcium + D3,Supplement,Pfizer,30049099,B162311,Oct-26,53,57.3,12,364.43,3401.33
+GRN0077,2023-11-09,Cipla Direct,Paracetamol 500mg,Analgesic,GSK,30049099,B012311,Oct-26,176,8.82,12,186.28,1738.6
+GRN0077,2023-11-09,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032311,Nov-24,68,12.04,12,98.25,916.97
+GRN0077,2023-11-09,Cipla Direct,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132311,Oct-25,77,28.9,5,111.26,2336.56
+GRN0077,2023-11-09,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172311,Oct-26,96,27.62,12,318.18,2969.7
+GRN0077,2023-11-09,Cipla Direct,Vitamin D3 60K,Supplement,Mankind,30049099,B152311,Nov-24,73,45.82,12,401.38,3746.24

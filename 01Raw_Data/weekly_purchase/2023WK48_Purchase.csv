@@ -1,0 +1,15 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0081,2023-11-27,Alkem Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122311,Nov-25,65,41.07,5,133.48,2803.03
+GRN0081,2023-11-27,Alkem Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222311,Nov-25,64,4.7,12,36.1,336.9
+GRN0081,2023-11-27,Alkem Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242311,May-25,99,39.16,12,465.22,4342.06
+GRN0081,2023-11-27,Alkem Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212311,Nov-25,188,59.19,12,1335.33,12463.05
+GRN0081,2023-11-27,Alkem Pharma Dist,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092311,Nov-25,80,34.47,5,137.88,2895.48
+GRN0081,2023-11-27,Alkem Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202311,Nov-26,136,115.46,12,1884.31,17586.87
+GRN0081,2023-11-27,Alkem Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162311,May-25,75,61.91,12,557.19,5200.44
+GRN0081,2023-11-27,Alkem Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072311,Nov-24,68,19.08,12,155.69,1453.13
+GRN0082,2023-12-01,Cipla Direct,Antiseptic Cream,Topical,Dettol,30049099,B242312,May-25,85,40.78,12,415.96,3882.26
+GRN0082,2023-12-01,Cipla Direct,Calcium + D3,Supplement,Pfizer,30049099,B162312,May-25,56,60.69,12,407.84,3806.48
+GRN0082,2023-12-01,Cipla Direct,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072312,May-25,65,19.1,12,148.98,1390.48
+GRN0082,2023-12-01,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232312,Nov-24,90,50.61,12,546.59,5101.49
+GRN0082,2023-12-01,Cipla Direct,Ibuprofen 400mg,Analgesic,Boots,30049099,B182312,Nov-26,152,13.76,12,250.98,2342.5
+GRN0082,2023-12-01,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092312,May-25,56,35.63,5,99.76,2095.04

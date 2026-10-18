@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0029,2023-04-24,Medplus Wholesale,Antacid Syrup 170ml,Antacid,Digene,30049099,B232304,Apr-26,85,52.16,12,532.03,4965.63
+GRN0029,2023-04-24,Medplus Wholesale,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082304,Apr-25,97,24.12,12,280.76,2620.4
+GRN0029,2023-04-24,Medplus Wholesale,Amlodipine 5mg,Cardiac,Cipla,30049099,B102304,Apr-25,94,17.92,5,84.22,1768.7
+GRN0029,2023-04-24,Medplus Wholesale,ORS Sachet,OTC,Electral,30049099,B222304,Oct-24,66,4.38,12,34.69,323.77
+GRN0029,2023-04-24,Medplus Wholesale,Montelukast 10mg,Respiratory,Cipla,30049099,B192304,Oct-24,70,51.95,12,436.38,4072.88
+GRN0029,2023-04-24,Medplus Wholesale,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122304,Apr-26,62,40.81,5,126.51,2656.73
+GRN0029,2023-04-24,Medplus Wholesale,Calcium + D3,Supplement,Pfizer,30049099,B162304,Apr-25,67,61.35,12,493.25,4603.7
+GRN0030,2023-04-27,Medplus Wholesale,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082304,Apr-24,58,23.46,12,163.28,1523.96
+GRN0030,2023-04-27,Medplus Wholesale,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122304,Oct-24,85,41.13,5,174.8,3670.85
+GRN0030,2023-04-27,Medplus Wholesale,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062304,Apr-26,90,80.87,12,873.4,8151.7
+GRN0030,2023-04-27,Medplus Wholesale,Amlodipine 5mg,Cardiac,Cipla,30049099,B102304,Apr-25,56,18.67,5,52.28,1097.8
+GRN0030,2023-04-27,Medplus Wholesale,Paracetamol 500mg,Analgesic,GSK,30049099,B012304,Apr-25,80,8.48,12,81.41,759.81
+GRN0030,2023-04-27,Medplus Wholesale,Ibuprofen 400mg,Analgesic,Boots,30049099,B182304,Apr-25,61,14.65,12,107.24,1000.89

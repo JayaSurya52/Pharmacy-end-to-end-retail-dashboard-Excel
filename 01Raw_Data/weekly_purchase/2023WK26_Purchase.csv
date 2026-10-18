@@ -1,0 +1,8 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0044,2023-06-28,Alkem Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102306,Jun-26,98,18.84,5,92.32,1938.64
+GRN0044,2023-06-28,Alkem Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242306,Jun-26,85,39.46,12,402.49,3756.59
+GRN0044,2023-06-28,Alkem Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112306,Jun-24,50,26.36,5,65.9,1383.9
+GRN0044,2023-06-28,Alkem Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042306,Jun-25,148,29.61,5,219.11,4601.39
+GRN0044,2023-06-28,Alkem Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152306,Jun-25,87,47.43,12,495.17,4621.58
+GRN0044,2023-06-28,Alkem Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032306,Jun-26,56,12.21,12,82.05,765.81
+GRN0044,2023-06-28,Alkem Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052306,Jun-25,51,55.66,12,340.64,3179.3

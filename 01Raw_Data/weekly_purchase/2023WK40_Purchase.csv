@@ -1,0 +1,8 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0069,2023-10-04,Cipla Direct,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112310,Sep-24,55,27.61,5,75.93,1594.48
+GRN0069,2023-10-04,Cipla Direct,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062310,Mar-25,77,78.8,12,728.11,6795.71
+GRN0069,2023-10-04,Cipla Direct,Calcium + D3,Supplement,Pfizer,30049099,B162310,Sep-24,84,58.76,12,592.3,5528.14
+GRN0069,2023-10-04,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232310,Sep-25,55,51.11,12,337.33,3148.38
+GRN0069,2023-10-04,Cipla Direct,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122310,Sep-26,69,41.77,5,144.11,3026.24
+GRN0069,2023-10-04,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172310,Sep-25,60,28.53,12,205.42,1917.22
+GRN0069,2023-10-04,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092310,Sep-25,78,33.4,5,130.26,2735.46

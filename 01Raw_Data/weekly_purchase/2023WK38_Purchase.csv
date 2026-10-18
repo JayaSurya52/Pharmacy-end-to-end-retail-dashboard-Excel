@@ -1,0 +1,6 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0066,2023-09-21,Cipla Direct,ORS Sachet,OTC,Electral,30049099,B222309,Sep-24,82,4.63,12,45.56,425.22
+GRN0066,2023-09-21,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032309,Sep-24,74,12.45,12,110.56,1031.86
+GRN0066,2023-09-21,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172309,Sep-25,90,27.68,12,298.94,2790.14
+GRN0066,2023-09-21,Cipla Direct,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122309,Sep-25,66,43.04,5,142.03,2982.67
+GRN0066,2023-09-21,Cipla Direct,Ibuprofen 400mg,Analgesic,Boots,30049099,B182309,Mar-25,100,13.39,12,160.68,1499.68

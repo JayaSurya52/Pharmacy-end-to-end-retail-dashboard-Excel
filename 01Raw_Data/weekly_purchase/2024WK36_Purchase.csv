@@ -1,0 +1,9 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0153,2024-09-05,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172409,Aug-25,99,28.1,12,333.83,3115.73
+GRN0153,2024-09-05,Sun Pharma Distributors,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062409,Aug-25,88,81.86,12,864.44,8068.12
+GRN0153,2024-09-05,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042409,Aug-25,91,31.01,5,141.1,2963.01
+GRN0153,2024-09-05,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122409,Aug-27,94,40.39,5,189.83,3986.49
+GRN0153,2024-09-05,Sun Pharma Distributors,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212409,Aug-26,74,55.82,12,495.68,4626.36
+GRN0153,2024-09-05,Sun Pharma Distributors,Dolo 650mg,Analgesic,Micro Labs,30049099,B022409,Feb-26,80,9.18,12,88.13,822.53
+GRN0153,2024-09-05,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132409,Aug-25,94,30.56,5,143.63,3016.27
+GRN0153,2024-09-05,Sun Pharma Distributors,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092409,Aug-25,69,34.72,5,119.78,2515.46

@@ -1,0 +1,8 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0061,2023-08-31,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212308,Aug-25,82,57.2,12,562.85,5253.25
+GRN0061,2023-08-31,Karnataka Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112308,Feb-25,69,26.14,5,90.18,1893.84
+GRN0061,2023-08-31,Karnataka Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052308,Aug-26,71,57.46,12,489.56,4569.22
+GRN0061,2023-08-31,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222308,Feb-25,62,4.38,12,32.59,304.15
+GRN0061,2023-08-31,Karnataka Pharma Dist,B-Complex,Supplement,Merck,30049099,B172308,Aug-24,59,26.82,12,189.89,1772.27
+GRN0061,2023-08-31,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032308,Aug-24,82,12.33,12,121.33,1132.39
+GRN0061,2023-08-31,Karnataka Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142308,Feb-25,92,21.64,5,99.54,2090.42

@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0146,2024-08-05,Sri Balaji Medicals,ORS Sachet,OTC,Electral,30049099,B222408,Jul-25,82,4.28,12,42.12,393.08
+GRN0146,2024-08-05,Sri Balaji Medicals,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072408,Jan-26,80,20.82,12,199.87,1865.47
+GRN0146,2024-08-05,Sri Balaji Medicals,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092408,Jan-26,88,36.05,5,158.62,3331.02
+GRN0146,2024-08-05,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212408,Jul-26,66,58.63,12,464.35,4333.93
+GRN0146,2024-08-05,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142408,Jul-26,95,23.03,5,109.39,2297.24
+GRN0147,2024-08-09,Cipla Direct,Vitamin D3 60K,Supplement,Mankind,30049099,B152408,Aug-25,89,47.51,12,507.41,4735.8
+GRN0147,2024-08-09,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092408,Jul-26,50,35.04,5,87.6,1839.6
+GRN0147,2024-08-09,Cipla Direct,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072408,Jul-26,85,20.29,12,206.96,1931.61
+GRN0147,2024-08-09,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252408,Jul-27,69,28.52,12,236.15,2204.03
+GRN0147,2024-08-09,Cipla Direct,Amlodipine 5mg,Cardiac,Cipla,30049099,B102408,Jul-26,54,17.71,5,47.82,1004.16
+GRN0147,2024-08-09,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172408,Jul-26,90,27.51,12,297.11,2773.01

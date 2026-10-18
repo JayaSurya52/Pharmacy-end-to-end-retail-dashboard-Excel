@@ -1,0 +1,11 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0111,2024-03-25,Sun Pharma Distributors,Paracetamol 500mg,Analgesic,GSK,30049099,B012403,Mar-27,82,8.63,12,84.92,792.58
+GRN0111,2024-03-25,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162403,Mar-27,93,59.95,12,669.04,6244.39
+GRN0111,2024-03-25,Sun Pharma Distributors,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052403,Mar-25,81,53.17,12,516.81,4823.58
+GRN0111,2024-03-25,Sun Pharma Distributors,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072403,Mar-26,100,20.52,12,246.24,2298.24
+GRN0111,2024-03-25,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132403,Mar-26,52,29.32,5,76.23,1600.87
+GRN0111,2024-03-25,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182403,Mar-27,60,14.39,12,103.61,967.01
+GRN0112,2024-03-30,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192403,Mar-26,84,55.75,12,561.96,5244.96
+GRN0112,2024-03-30,Karnataka Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042403,Mar-25,84,30.97,5,130.07,2731.55
+GRN0112,2024-03-30,Karnataka Pharma Dist,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092403,Sep-25,98,35.77,5,175.27,3680.73
+GRN0112,2024-03-30,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252403,Sep-25,77,26.89,12,248.46,2318.99

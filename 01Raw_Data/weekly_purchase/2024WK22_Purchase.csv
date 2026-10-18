@@ -1,0 +1,15 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0128,2024-05-30,Alkem Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042405,May-25,123,31.06,5,191.02,4011.4
+GRN0128,2024-05-30,Alkem Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182405,May-26,60,14.43,12,103.9,969.7
+GRN0128,2024-05-30,Alkem Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122405,May-25,180,42.83,5,385.47,8094.87
+GRN0128,2024-05-30,Alkem Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072405,May-26,63,20.67,12,156.27,1458.48
+GRN0128,2024-05-30,Alkem Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152405,Nov-25,59,46.04,12,325.96,3042.32
+GRN0128,2024-05-30,Alkem Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102405,May-25,72,17.81,5,64.12,1346.44
+GRN0128,2024-05-30,Alkem Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212405,Nov-25,93,56.83,12,634.22,5919.41
+GRN0129,2024-06-02,Cipla Direct,Ibuprofen 400mg,Analgesic,Boots,30049099,B182406,May-25,100,13.5,12,162.0,1512.0
+GRN0129,2024-06-02,Cipla Direct,Antiseptic Cream,Topical,Dettol,30049099,B242406,Nov-25,53,41.32,12,262.8,2452.76
+GRN0129,2024-06-02,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252406,May-27,58,27.15,12,188.96,1763.66
+GRN0129,2024-06-02,Cipla Direct,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082406,May-25,73,24.45,12,214.18,1999.03
+GRN0129,2024-06-02,Cipla Direct,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042406,May-25,164,30.26,5,248.13,5210.77
+GRN0129,2024-06-02,Cipla Direct,Vitamin D3 60K,Supplement,Mankind,30049099,B152406,Nov-25,51,50.39,12,308.39,2878.28
+GRN0129,2024-06-02,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212406,Nov-25,91,57.67,12,629.76,5877.73

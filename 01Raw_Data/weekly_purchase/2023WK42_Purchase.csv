@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0072,2023-10-17,Medplus Wholesale,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032310,Oct-25,84,11.75,12,118.44,1105.44
+GRN0072,2023-10-17,Medplus Wholesale,ORS Sachet,OTC,Electral,30049099,B222310,Apr-25,60,4.6,12,33.12,309.12
+GRN0072,2023-10-17,Medplus Wholesale,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112310,Apr-25,100,26.63,5,133.15,2796.15
+GRN0072,2023-10-17,Medplus Wholesale,Antiseptic Cream,Topical,Dettol,30049099,B242310,Apr-25,57,41.94,12,286.87,2677.45
+GRN0072,2023-10-17,Medplus Wholesale,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122310,Oct-24,65,43.22,5,140.46,2949.76
+GRN0072,2023-10-17,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252310,Oct-25,73,28.15,12,246.59,2301.54
+GRN0072,2023-10-17,Medplus Wholesale,Ibuprofen 400mg,Analgesic,Boots,30049099,B182310,Apr-25,79,14.43,12,136.8,1276.77
+GRN0073,2023-10-22,Sun Pharma Distributors,Amlodipine 5mg,Cardiac,Cipla,30049099,B102310,Oct-26,80,18.05,5,72.2,1516.2
+GRN0073,2023-10-22,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132310,Oct-25,86,28.72,5,123.5,2593.42
+GRN0073,2023-10-22,Sun Pharma Distributors,Antacid Syrup 170ml,Antacid,Digene,30049099,B232310,Oct-26,91,49.79,12,543.71,5074.6
+GRN0073,2023-10-22,Sun Pharma Distributors,Antiseptic Cream,Topical,Dettol,30049099,B242310,Apr-25,93,40.07,12,447.18,4173.69

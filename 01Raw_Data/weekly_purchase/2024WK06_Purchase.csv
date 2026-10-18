@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0099,2024-02-06,Alkem Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192402,Jul-25,142,53.37,12,909.42,8487.96
+GRN0099,2024-02-06,Alkem Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082402,Jan-25,100,25.17,12,302.04,2819.04
+GRN0099,2024-02-06,Alkem Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132402,Jan-26,82,30.74,5,126.03,2646.71
+GRN0099,2024-02-06,Alkem Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222402,Jul-25,53,4.32,12,27.48,256.44
+GRN0099,2024-02-06,Alkem Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182402,Jan-27,109,13.78,12,180.24,1682.26
+GRN0100,2024-02-10,Sun Pharma Distributors,Vitamin D3 60K,Supplement,Mankind,30049099,B152402,Jan-27,77,46.49,12,429.57,4009.3
+GRN0100,2024-02-10,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162402,Jan-26,55,61.63,12,406.76,3796.41
+GRN0100,2024-02-10,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082402,Feb-25,65,24.51,12,191.18,1784.33
+GRN0100,2024-02-10,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122402,Aug-25,67,40.55,5,135.84,2852.69
+GRN0100,2024-02-10,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182402,Jan-26,194,13.85,12,322.43,3009.33
+GRN0100,2024-02-10,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132402,Jan-26,56,28.77,5,80.56,1691.68

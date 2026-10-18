@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0097,2024-01-30,Karnataka Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122401,Jul-25,79,42.27,5,166.97,3506.3
+GRN0097,2024-01-30,Karnataka Pharma Dist,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092401,Jan-25,69,35.64,5,122.96,2582.12
+GRN0097,2024-01-30,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132401,Jan-25,91,31.48,5,143.23,3007.91
+GRN0097,2024-01-30,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032401,Jan-27,55,11.89,12,78.47,732.42
+GRN0097,2024-01-30,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252401,Jan-25,85,27.93,12,284.89,2658.94
+GRN0097,2024-01-30,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232401,Jan-27,94,50.29,12,567.27,5294.53
+GRN0098,2024-02-03,Sri Balaji Medicals,Montelukast 10mg,Respiratory,Cipla,30049099,B192402,Jan-27,188,56.09,12,1265.39,11810.31
+GRN0098,2024-02-03,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042402,Jan-25,67,28.64,5,95.94,2014.82
+GRN0098,2024-02-03,Sri Balaji Medicals,B-Complex,Supplement,Merck,30049099,B172402,Jan-25,93,29.19,12,325.76,3040.43
+GRN0098,2024-02-03,Sri Balaji Medicals,Dolo 650mg,Analgesic,Micro Labs,30049099,B022402,Jan-26,122,9.39,12,137.47,1283.05
+GRN0098,2024-02-03,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082402,Jul-25,51,25.11,12,153.67,1434.28
+GRN0098,2024-02-03,Sri Balaji Medicals,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072402,Jan-27,98,20.64,12,242.73,2265.45

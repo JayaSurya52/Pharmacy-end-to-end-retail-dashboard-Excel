@@ -1,0 +1,11 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0108,2024-03-12,Medplus Wholesale,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212403,Sep-25,97,58.66,12,682.8,6372.82
+GRN0108,2024-03-12,Medplus Wholesale,ORS Sachet,OTC,Electral,30049099,B222403,Feb-27,78,4.54,12,42.49,396.61
+GRN0108,2024-03-12,Medplus Wholesale,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142403,Sep-25,50,22.45,5,56.12,1178.62
+GRN0108,2024-03-12,Medplus Wholesale,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132403,Mar-25,67,30.76,5,103.05,2163.97
+GRN0108,2024-03-12,Medplus Wholesale,Paracetamol 500mg,Analgesic,GSK,30049099,B012403,Sep-25,86,8.16,12,84.21,785.97
+GRN0109,2024-03-16,Alkem Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152403,Mar-26,83,50.24,12,500.39,4670.31
+GRN0109,2024-03-16,Alkem Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042403,Mar-27,88,29.67,5,130.55,2741.51
+GRN0109,2024-03-16,Alkem Pharma Dist,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092403,Mar-26,87,33.65,5,146.38,3073.93
+GRN0109,2024-03-16,Alkem Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222403,Mar-26,79,4.55,12,43.13,402.58
+GRN0109,2024-03-16,Alkem Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162403,Sep-25,89,60.54,12,646.57,6034.63

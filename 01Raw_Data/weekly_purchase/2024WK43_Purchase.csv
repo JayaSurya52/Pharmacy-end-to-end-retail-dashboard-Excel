@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0165,2024-10-24,Sun Pharma Distributors,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092410,Oct-25,66,33.76,5,111.41,2339.57
+GRN0165,2024-10-24,Sun Pharma Distributors,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252410,Apr-26,94,28.8,12,324.86,3032.06
+GRN0165,2024-10-24,Sun Pharma Distributors,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062410,Oct-26,98,78.32,12,921.04,8596.4
+GRN0165,2024-10-24,Sun Pharma Distributors,Amlodipine 5mg,Cardiac,Cipla,30049099,B102410,Apr-26,78,17.28,5,67.39,1415.23
+GRN0165,2024-10-24,Sun Pharma Distributors,ORS Sachet,OTC,Electral,30049099,B222410,Oct-27,97,4.57,12,53.19,496.48
+GRN0166,2024-10-27,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232410,Oct-26,100,54.47,12,653.64,6100.64
+GRN0166,2024-10-27,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222410,Oct-26,85,4.3,12,43.86,409.36
+GRN0166,2024-10-27,Karnataka Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022410,Oct-27,62,9.11,12,67.78,632.6
+GRN0166,2024-10-27,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132410,Oct-26,64,31.23,5,99.94,2098.66
+GRN0166,2024-10-27,Karnataka Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242410,Apr-26,98,40.35,12,474.52,4428.82
+GRN0166,2024-10-27,Karnataka Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142410,Apr-26,99,22.49,5,111.33,2337.84

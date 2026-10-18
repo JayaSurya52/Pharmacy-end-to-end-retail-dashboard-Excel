@@ -1,0 +1,9 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0014,2023-02-24,Sri Balaji Medicals,Paracetamol 500mg,Analgesic,GSK,30049099,B012302,Aug-24,113,8.71,12,118.11,1102.34
+GRN0014,2023-02-24,Sri Balaji Medicals,ORS Sachet,OTC,Electral,30049099,B222302,Aug-24,67,4.4,12,35.38,330.18
+GRN0014,2023-02-24,Sri Balaji Medicals,Ibuprofen 400mg,Analgesic,Boots,30049099,B182302,Feb-25,191,13.78,12,315.84,2947.82
+GRN0014,2023-02-24,Sri Balaji Medicals,Amlodipine 5mg,Cardiac,Cipla,30049099,B102302,Feb-24,82,17.98,5,73.72,1548.08
+GRN0014,2023-02-24,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042302,Feb-25,55,30.4,5,83.6,1755.6
+GRN0014,2023-02-24,Sri Balaji Medicals,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052302,Aug-24,52,52.27,12,326.16,3044.2
+GRN0014,2023-02-24,Sri Balaji Medicals,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092302,Aug-24,90,36.68,5,165.06,3466.26
+GRN0014,2023-02-24,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212302,Feb-26,194,57.66,12,1342.32,12528.36

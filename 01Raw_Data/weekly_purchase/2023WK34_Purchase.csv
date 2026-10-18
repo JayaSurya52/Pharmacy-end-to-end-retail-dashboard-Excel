@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0059,2023-08-24,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132308,Feb-25,70,30.32,5,106.12,2228.52
+GRN0059,2023-08-24,Karnataka Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152308,Aug-25,53,47.76,12,303.75,2835.03
+GRN0059,2023-08-24,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192308,Feb-25,95,51.76,12,590.06,5507.26
+GRN0059,2023-08-24,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182308,Aug-26,52,13.65,12,85.18,794.98
+GRN0059,2023-08-24,Karnataka Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022308,Feb-25,78,9.02,12,84.43,787.99
+GRN0059,2023-08-24,Karnataka Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242308,Aug-25,73,39.49,12,345.93,3228.7
+GRN0059,2023-08-24,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232308,Aug-25,74,51.53,12,457.59,4270.81
+GRN0059,2023-08-24,Karnataka Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072308,Aug-25,93,20.2,12,225.43,2104.03
+GRN0060,2023-08-27,Alkem Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182308,Feb-25,66,14.31,12,113.34,1057.8
+GRN0060,2023-08-27,Alkem Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222308,Feb-25,71,4.31,12,36.72,342.73
+GRN0060,2023-08-27,Alkem Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132308,Aug-26,72,29.43,5,105.95,2224.91
+GRN0060,2023-08-27,Alkem Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102308,Aug-24,58,18.17,5,52.69,1106.55

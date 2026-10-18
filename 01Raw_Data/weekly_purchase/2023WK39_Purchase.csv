@@ -1,0 +1,10 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0067,2023-09-26,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252309,Sep-25,58,26.72,12,185.97,1735.73
+GRN0067,2023-09-26,Sri Balaji Medicals,Montelukast 10mg,Respiratory,Cipla,30049099,B192309,Sep-26,91,52.25,12,570.57,5325.32
+GRN0067,2023-09-26,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242309,Mar-25,94,39.91,12,450.18,4201.72
+GRN0067,2023-09-26,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112309,Sep-26,58,25.82,5,74.88,1572.44
+GRN0068,2023-09-29,Alkem Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022309,Sep-26,75,9.44,12,84.96,792.96
+GRN0068,2023-09-29,Alkem Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072309,Mar-25,66,19.07,12,151.03,1409.65
+GRN0068,2023-09-29,Alkem Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112309,Sep-24,68,26.61,5,90.47,1899.95
+GRN0068,2023-09-29,Alkem Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102309,Sep-24,91,17.7,5,80.53,1691.23
+GRN0068,2023-09-29,Alkem Pharma Dist,B-Complex,Supplement,Merck,30049099,B172309,Sep-26,73,27.82,12,243.7,2274.56

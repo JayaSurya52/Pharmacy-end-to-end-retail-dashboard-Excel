@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0151,2024-08-26,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252408,Aug-27,77,29.3,12,270.73,2526.83
+GRN0151,2024-08-26,Medplus Wholesale,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032408,Feb-26,50,11.45,12,68.7,641.2
+GRN0151,2024-08-26,Medplus Wholesale,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052408,Aug-25,96,54.3,12,625.54,5838.34
+GRN0151,2024-08-26,Medplus Wholesale,Salbutamol Inhaler,Respiratory,GSK,30049099,B202408,Feb-26,70,123.08,12,1033.87,9649.47
+GRN0151,2024-08-26,Medplus Wholesale,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142408,Feb-26,51,22.39,5,57.09,1198.98
+GRN0151,2024-08-26,Medplus Wholesale,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212408,Aug-26,64,59.12,12,454.04,4237.72
+GRN0151,2024-08-26,Medplus Wholesale,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132408,Aug-27,69,28.89,5,99.67,2093.08
+GRN0152,2024-08-31,Karnataka Pharma Dist,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062408,Aug-26,96,78.16,12,900.4,8403.76
+GRN0152,2024-08-31,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032408,Feb-26,77,12.47,12,115.22,1075.41
+GRN0152,2024-08-31,Karnataka Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022408,Aug-27,71,9.45,12,80.51,751.46
+GRN0152,2024-08-31,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102408,Feb-26,72,18.45,5,66.42,1394.82
+GRN0152,2024-08-31,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222408,Feb-26,75,4.28,12,38.52,359.52
+GRN0152,2024-08-31,Karnataka Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152408,Feb-26,96,50.33,12,579.8,5411.48

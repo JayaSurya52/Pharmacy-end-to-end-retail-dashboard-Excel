@@ -1,0 +1,9 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0080,2023-11-22,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162311,Nov-24,52,60.44,12,377.15,3520.03
+GRN0080,2023-11-22,Sun Pharma Distributors,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062311,Nov-25,62,74.25,12,552.42,5155.92
+GRN0080,2023-11-22,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172311,May-25,76,27.02,12,246.42,2299.94
+GRN0080,2023-11-22,Sun Pharma Distributors,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212311,Nov-26,152,58.01,12,1058.1,9875.62
+GRN0080,2023-11-22,Sun Pharma Distributors,Salbutamol Inhaler,Respiratory,GSK,30049099,B202311,May-25,194,122.73,12,2857.15,26666.77
+GRN0080,2023-11-22,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132311,Nov-25,83,29.12,5,120.85,2537.81
+GRN0080,2023-11-22,Sun Pharma Distributors,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052311,Nov-26,92,54.88,12,605.88,5654.84
+GRN0080,2023-11-22,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082311,Nov-26,70,25.1,12,210.84,1967.84

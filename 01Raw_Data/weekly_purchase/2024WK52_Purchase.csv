@@ -1,0 +1,16 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0181,2024-12-25,Karnataka Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082412,Dec-27,77,23.12,12,213.63,1993.87
+GRN0181,2024-12-25,Karnataka Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162412,Dec-25,99,58.4,12,693.79,6475.39
+GRN0181,2024-12-25,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132412,Dec-27,68,30.29,5,102.99,2162.71
+GRN0181,2024-12-25,Karnataka Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122412,Dec-25,66,40.69,5,134.28,2819.82
+GRN0181,2024-12-25,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192412,Dec-25,173,54.12,12,1123.53,10486.29
+GRN0181,2024-12-25,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212412,Dec-26,148,58.9,12,1046.06,9763.26
+GRN0181,2024-12-25,Karnataka Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042412,Jun-26,76,29.59,5,112.44,2361.28
+GRN0182,2024-12-29,Sri Balaji Medicals,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092412,Dec-27,98,33.96,5,166.4,3494.48
+GRN0182,2024-12-29,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252412,Dec-27,61,27.64,12,202.32,1888.36
+GRN0182,2024-12-29,Sri Balaji Medicals,Ibuprofen 400mg,Analgesic,Boots,30049099,B182412,Dec-26,132,14.68,12,232.53,2170.29
+GRN0182,2024-12-29,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142412,Jun-26,99,22.45,5,111.13,2333.68
+GRN0182,2024-12-29,Sri Balaji Medicals,Montelukast 10mg,Respiratory,Cipla,30049099,B192412,Jun-26,184,51.94,12,1146.84,10703.8
+GRN0182,2024-12-29,Sri Balaji Medicals,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122412,Jun-26,78,43.19,5,168.44,3537.26
+GRN0182,2024-12-29,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242412,Dec-27,56,38.86,12,261.14,2437.3
+GRN0182,2024-12-29,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132412,Dec-25,100,29.52,5,147.6,3099.6

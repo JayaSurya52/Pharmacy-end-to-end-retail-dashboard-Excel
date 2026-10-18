@@ -1,0 +1,16 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0172,2024-11-19,Sri Balaji Medicals,Ibuprofen 400mg,Analgesic,Boots,30049099,B182411,May-26,170,14.52,12,296.21,2764.61
+GRN0172,2024-11-19,Sri Balaji Medicals,Amlodipine 5mg,Cardiac,Cipla,30049099,B102411,Nov-27,57,17.18,5,48.96,1028.22
+GRN0172,2024-11-19,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212411,Nov-25,168,58.28,12,1174.92,10965.96
+GRN0172,2024-11-19,Sri Balaji Medicals,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052411,Nov-26,69,53.41,12,442.23,4127.52
+GRN0172,2024-11-19,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242411,May-26,63,39.65,12,299.75,2797.7
+GRN0172,2024-11-19,Sri Balaji Medicals,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122411,Nov-26,60,40.67,5,122.01,2562.21
+GRN0172,2024-11-19,Sri Balaji Medicals,Paracetamol 500mg,Analgesic,GSK,30049099,B012411,Nov-25,124,8.17,12,121.57,1134.65
+GRN0173,2024-11-24,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032411,May-26,71,11.83,12,100.79,940.72
+GRN0173,2024-11-24,Cipla Direct,Amlodipine 5mg,Cardiac,Cipla,30049099,B102411,Nov-25,56,17.61,5,49.31,1035.47
+GRN0173,2024-11-24,Cipla Direct,ORS Sachet,OTC,Electral,30049099,B222411,Nov-27,62,4.42,12,32.88,306.92
+GRN0173,2024-11-24,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252411,Nov-26,71,28.33,12,241.37,2252.8
+GRN0173,2024-11-24,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092411,Nov-26,94,35.29,5,165.86,3483.12
+GRN0173,2024-11-24,Cipla Direct,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042411,May-26,70,31.38,5,109.83,2306.43
+GRN0173,2024-11-24,Cipla Direct,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072411,May-26,50,19.63,12,117.78,1099.28
+GRN0173,2024-11-24,Cipla Direct,Calcium + D3,Supplement,Pfizer,30049099,B162411,Nov-27,95,61.44,12,700.42,6537.22

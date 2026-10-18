@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0031,2023-05-01,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132305,Oct-24,90,30.56,5,137.52,2887.92
+GRN0031,2023-05-01,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162305,Apr-25,59,61.87,12,438.04,4088.37
+GRN0031,2023-05-01,Sun Pharma Distributors,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032305,Apr-24,55,12.59,12,83.09,775.54
+GRN0031,2023-05-01,Sun Pharma Distributors,Montelukast 10mg,Respiratory,Cipla,30049099,B192305,Oct-24,85,55.43,12,565.39,5276.94
+GRN0032,2023-05-06,Cipla Direct,Vitamin D3 60K,Supplement,Mankind,30049099,B152305,Apr-24,89,50.21,12,536.24,5004.93
+GRN0032,2023-05-06,Cipla Direct,Amlodipine 5mg,Cardiac,Cipla,30049099,B102305,Oct-24,98,17.47,5,85.6,1797.66
+GRN0032,2023-05-06,Cipla Direct,Montelukast 10mg,Respiratory,Cipla,30049099,B192305,Oct-24,66,54.87,12,434.57,4055.99
+GRN0032,2023-05-06,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142305,Apr-24,65,21.28,5,69.16,1452.36
+GRN0032,2023-05-06,Cipla Direct,Antiseptic Cream,Topical,Dettol,30049099,B242305,Apr-26,60,38.01,12,273.67,2554.27
+GRN0032,2023-05-06,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232305,Apr-25,94,52.49,12,592.09,5526.15
+GRN0032,2023-05-06,Cipla Direct,Dolo 650mg,Analgesic,Micro Labs,30049099,B022305,Apr-25,52,8.76,12,54.66,510.18

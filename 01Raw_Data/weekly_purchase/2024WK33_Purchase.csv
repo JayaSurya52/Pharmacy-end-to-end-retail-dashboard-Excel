@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0148,2024-08-13,Sri Balaji Medicals,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072408,Feb-26,75,20.32,12,182.88,1706.88
+GRN0148,2024-08-13,Sri Balaji Medicals,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052408,Jul-27,96,52.39,12,603.53,5632.97
+GRN0148,2024-08-13,Sri Balaji Medicals,B-Complex,Supplement,Merck,30049099,B172408,Jul-27,68,27.33,12,223.01,2081.45
+GRN0148,2024-08-13,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082408,Aug-25,75,23.73,12,213.57,1993.32
+GRN0148,2024-08-13,Sri Balaji Medicals,Dolo 650mg,Analgesic,Micro Labs,30049099,B022408,Feb-26,87,9.19,12,95.94,895.47
+GRN0148,2024-08-13,Sri Balaji Medicals,Salbutamol Inhaler,Respiratory,GSK,30049099,B202408,Feb-26,71,122.72,12,1045.57,9758.69
+GRN0149,2024-08-18,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222408,Feb-26,68,4.32,12,35.25,329.01
+GRN0149,2024-08-18,Karnataka Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122408,Feb-26,97,40.99,5,198.8,4174.83
+GRN0149,2024-08-18,Karnataka Pharma Dist,B-Complex,Supplement,Merck,30049099,B172408,Aug-25,93,29.12,12,324.98,3033.14
+GRN0149,2024-08-18,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102408,Aug-26,64,17.74,5,56.77,1192.13
+GRN0149,2024-08-18,Karnataka Pharma Dist,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062408,Aug-26,76,80.25,12,731.88,6830.88
+GRN0149,2024-08-18,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182408,Aug-26,73,13.66,12,119.66,1116.84
+GRN0149,2024-08-18,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212408,Aug-27,79,60.04,12,569.18,5312.34

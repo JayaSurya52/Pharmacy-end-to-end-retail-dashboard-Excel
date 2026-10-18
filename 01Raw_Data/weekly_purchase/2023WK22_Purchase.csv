@@ -1,0 +1,8 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0038,2023-05-31,Alkem Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112305,May-26,87,28.35,5,123.32,2589.77
+GRN0038,2023-05-31,Alkem Pharma Dist,B-Complex,Supplement,Merck,30049099,B172305,May-26,59,27.85,12,197.18,1840.33
+GRN0038,2023-05-31,Alkem Pharma Dist,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092305,May-26,72,34.41,5,123.88,2601.4
+GRN0038,2023-05-31,Alkem Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012305,Nov-24,79,8.87,12,84.09,784.82
+GRN0038,2023-05-31,Alkem Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102305,May-26,94,17.53,5,82.39,1730.21
+GRN0038,2023-05-31,Alkem Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212305,May-26,64,60.06,12,461.26,4305.1
+GRN0038,2023-05-31,Alkem Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192305,May-26,52,53.02,12,330.84,3087.88

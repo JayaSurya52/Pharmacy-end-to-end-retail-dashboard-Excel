@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0006,2023-01-24,Karnataka Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202301,Jan-25,114,125.15,12,1712.05,15979.15
+GRN0006,2023-01-24,Karnataka Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112301,Jan-24,65,25.81,5,83.88,1761.53
+GRN0006,2023-01-24,Karnataka Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162301,Jan-24,55,61.39,12,405.17,3781.62
+GRN0006,2023-01-24,Karnataka Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012301,Jul-24,197,8.53,12,201.65,1882.06
+GRN0007,2023-01-27,Sri Balaji Medicals,Ibuprofen 400mg,Analgesic,Boots,30049099,B182301,Jul-24,169,14.36,12,291.22,2718.06
+GRN0007,2023-01-27,Sri Balaji Medicals,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062301,Jan-25,95,76.53,12,872.44,8142.79
+GRN0007,2023-01-27,Sri Balaji Medicals,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092301,Jan-26,78,36.4,5,141.96,2981.16
+GRN0007,2023-01-27,Sri Balaji Medicals,B-Complex,Supplement,Merck,30049099,B172301,Jan-24,57,27.29,12,186.66,1742.19
+GRN0007,2023-01-27,Sri Balaji Medicals,Salbutamol Inhaler,Respiratory,GSK,30049099,B202301,Jul-24,143,114.25,12,1960.53,18298.28
+GRN0007,2023-01-27,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142301,Jan-24,87,21.38,5,93.0,1953.06
+GRN0007,2023-01-27,Sri Balaji Medicals,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072301,Jul-24,95,20.26,12,230.96,2155.66

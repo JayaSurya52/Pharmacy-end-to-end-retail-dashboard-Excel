@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0023,2023-04-03,Cipla Direct,Paracetamol 500mg,Analgesic,GSK,30049099,B012304,Mar-26,88,8.84,12,93.35,871.27
+GRN0023,2023-04-03,Cipla Direct,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122304,Mar-26,64,41.05,5,131.36,2758.56
+GRN0023,2023-04-03,Cipla Direct,Amlodipine 5mg,Cardiac,Cipla,30049099,B102304,Mar-26,51,17.8,5,45.39,953.19
+GRN0023,2023-04-03,Cipla Direct,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132304,Mar-26,96,29.0,5,139.2,2923.2
+GRN0023,2023-04-03,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142304,Mar-24,58,23.06,5,66.87,1404.35
+GRN0023,2023-04-03,Cipla Direct,Ibuprofen 400mg,Analgesic,Boots,30049099,B182304,Mar-24,75,14.13,12,127.17,1186.92
+GRN0023,2023-04-03,Cipla Direct,Salbutamol Inhaler,Respiratory,GSK,30049099,B202304,Sep-24,55,121.71,12,803.29,7497.34
+GRN0024,2023-04-07,Medplus Wholesale,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092304,Mar-26,79,34.39,5,135.84,2852.65
+GRN0024,2023-04-07,Medplus Wholesale,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132304,Mar-26,67,30.76,5,103.05,2163.97
+GRN0024,2023-04-07,Medplus Wholesale,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112304,Mar-26,66,27.9,5,92.07,1933.47
+GRN0024,2023-04-07,Medplus Wholesale,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072304,Apr-24,51,20.5,12,125.46,1170.96

@@ -1,0 +1,15 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0039,2023-06-05,Cipla Direct,ORS Sachet,OTC,Electral,30049099,B222306,May-24,87,4.42,12,46.14,430.68
+GRN0039,2023-06-05,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212306,May-26,78,55.68,12,521.16,4864.2
+GRN0039,2023-06-05,Cipla Direct,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052306,May-26,50,56.22,12,337.32,3148.32
+GRN0039,2023-06-05,Cipla Direct,Calcium + D3,Supplement,Pfizer,30049099,B162306,May-24,91,62.82,12,685.99,6402.61
+GRN0039,2023-06-05,Cipla Direct,Dolo 650mg,Analgesic,Micro Labs,30049099,B022306,May-25,80,9.25,12,88.8,828.8
+GRN0039,2023-06-05,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232306,May-26,71,52.64,12,448.49,4185.93
+GRN0039,2023-06-05,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172306,May-25,91,26.82,12,292.87,2733.49
+GRN0040,2023-06-10,Karnataka Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112306,May-25,65,27.35,5,88.89,1866.64
+GRN0040,2023-06-10,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212306,May-26,64,59.43,12,456.42,4259.94
+GRN0040,2023-06-10,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232306,Jun-24,56,53.35,12,358.51,3346.11
+GRN0040,2023-06-10,Karnataka Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162306,May-25,78,58.0,12,542.88,5066.88
+GRN0040,2023-06-10,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182306,Jun-24,51,13.36,12,81.76,763.12
+GRN0040,2023-06-10,Karnataka Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022306,May-26,68,8.87,12,72.38,675.54
+GRN0040,2023-06-10,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032306,May-26,59,11.69,12,82.77,772.48

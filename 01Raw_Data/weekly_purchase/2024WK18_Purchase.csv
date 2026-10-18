@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0120,2024-04-29,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182404,Apr-26,94,13.34,12,150.48,1404.44
+GRN0120,2024-04-29,Sun Pharma Distributors,Salbutamol Inhaler,Respiratory,GSK,30049099,B202404,Oct-25,63,120.21,12,908.79,8482.02
+GRN0120,2024-04-29,Sun Pharma Distributors,Antiseptic Cream,Topical,Dettol,30049099,B242404,Apr-25,97,39.57,12,460.59,4298.88
+GRN0120,2024-04-29,Sun Pharma Distributors,Amlodipine 5mg,Cardiac,Cipla,30049099,B102404,Oct-25,100,18.72,5,93.6,1965.6
+GRN0120,2024-04-29,Sun Pharma Distributors,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252404,Oct-25,81,27.68,12,269.05,2511.13
+GRN0121,2024-05-03,Sri Balaji Medicals,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032405,Oct-25,73,12.06,12,105.65,986.03
+GRN0121,2024-05-03,Sri Balaji Medicals,B-Complex,Supplement,Merck,30049099,B172405,Apr-25,98,27.92,12,328.34,3064.5
+GRN0121,2024-05-03,Sri Balaji Medicals,Paracetamol 500mg,Analgesic,GSK,30049099,B012405,Apr-25,51,8.57,12,52.45,489.52
+GRN0121,2024-05-03,Sri Balaji Medicals,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122405,Apr-25,123,40.81,5,250.98,5270.61
+GRN0121,2024-05-03,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112405,Apr-26,100,26.72,5,133.6,2805.6
+GRN0121,2024-05-03,Sri Balaji Medicals,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052405,Apr-27,90,56.17,12,606.64,5661.94
+GRN0121,2024-05-03,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132405,Apr-25,77,30.61,5,117.85,2474.82
+GRN0121,2024-05-03,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142405,Oct-25,90,22.08,5,99.36,2086.56

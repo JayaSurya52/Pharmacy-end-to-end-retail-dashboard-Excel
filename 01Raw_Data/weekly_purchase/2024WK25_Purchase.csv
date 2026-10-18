@@ -1,0 +1,16 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0133,2024-06-17,Alkem Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162406,Jun-27,64,57.12,12,438.68,4094.36
+GRN0133,2024-06-17,Alkem Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022406,Dec-25,50,8.85,12,53.1,495.6
+GRN0133,2024-06-17,Alkem Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032406,Dec-25,58,11.81,12,82.2,767.18
+GRN0133,2024-06-17,Alkem Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082406,Dec-25,70,22.94,12,192.7,1798.5
+GRN0133,2024-06-17,Alkem Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202406,Dec-25,87,122.46,12,1278.48,11932.5
+GRN0134,2024-06-20,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032406,Jun-26,56,11.8,12,79.3,740.1
+GRN0134,2024-06-20,Karnataka Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122406,Jun-27,107,44.0,5,235.4,4943.4
+GRN0134,2024-06-20,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232406,Jun-27,100,52.72,12,632.64,5904.64
+GRN0134,2024-06-20,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222406,Jun-26,91,4.42,12,48.27,450.49
+GRN0134,2024-06-20,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132406,Dec-25,64,30.5,5,97.6,2049.6
+GRN0134,2024-06-20,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192406,Jun-26,74,52.96,12,470.28,4389.32
+GRN0135,2024-06-23,Medplus Wholesale,Antacid Syrup 170ml,Antacid,Digene,30049099,B232406,Jun-26,86,49.57,12,511.56,4774.58
+GRN0135,2024-06-23,Medplus Wholesale,Montelukast 10mg,Respiratory,Cipla,30049099,B192406,Jun-25,89,52.49,12,560.59,5232.2
+GRN0135,2024-06-23,Medplus Wholesale,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132406,Jun-25,81,28.92,5,117.13,2459.65
+GRN0135,2024-06-23,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252406,Jun-26,65,27.57,12,215.05,2007.1

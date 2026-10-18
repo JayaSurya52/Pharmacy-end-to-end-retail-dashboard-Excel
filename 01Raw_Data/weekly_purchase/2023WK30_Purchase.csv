@@ -1,0 +1,10 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0051,2023-07-24,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192307,Jul-26,57,53.52,12,366.08,3416.72
+GRN0051,2023-07-24,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182307,Jul-25,96,13.37,12,154.02,1437.54
+GRN0051,2023-07-24,Karnataka Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112307,Jul-24,88,26.49,5,116.56,2447.68
+GRN0051,2023-07-24,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222307,Jan-25,86,4.5,12,46.44,433.44
+GRN0052,2023-07-29,Cipla Direct,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042307,Jul-26,163,29.18,5,237.82,4994.16
+GRN0052,2023-07-29,Cipla Direct,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122307,Jul-24,161,43.99,5,354.12,7436.51
+GRN0052,2023-07-29,Cipla Direct,Ibuprofen 400mg,Analgesic,Boots,30049099,B182307,Jul-25,88,14.6,12,154.18,1438.98
+GRN0052,2023-07-29,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252307,Jul-25,51,27.11,12,165.91,1548.52
+GRN0052,2023-07-29,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092307,Jan-25,71,34.48,5,122.4,2570.48

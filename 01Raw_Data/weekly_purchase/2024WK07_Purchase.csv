@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0101,2024-02-14,Alkem Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042402,Jan-27,85,30.16,5,128.18,2691.78
+GRN0101,2024-02-14,Alkem Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052402,Feb-26,56,52.39,12,352.06,3285.9
+GRN0101,2024-02-14,Alkem Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032402,Feb-26,85,11.51,12,117.4,1095.75
+GRN0101,2024-02-14,Alkem Pharma Dist,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062402,Jan-27,74,74.2,12,658.9,6149.7
+GRN0101,2024-02-14,Alkem Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142402,Aug-25,74,22.61,5,83.66,1756.8
+GRN0101,2024-02-14,Alkem Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152402,Jan-27,86,48.1,12,496.39,4632.99
+GRN0102,2024-02-17,Medplus Wholesale,Amlodipine 5mg,Cardiac,Cipla,30049099,B102402,Feb-26,77,17.6,5,67.76,1422.96
+GRN0102,2024-02-17,Medplus Wholesale,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092402,Feb-26,80,35.99,5,143.96,3023.16
+GRN0102,2024-02-17,Medplus Wholesale,Calcium + D3,Supplement,Pfizer,30049099,B162402,Feb-27,66,62.67,12,496.35,4632.57
+GRN0102,2024-02-17,Medplus Wholesale,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052402,Feb-27,88,55.64,12,587.56,5483.88
+GRN0102,2024-02-17,Medplus Wholesale,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032402,Feb-25,56,11.56,12,77.68,725.04
+GRN0102,2024-02-17,Medplus Wholesale,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062402,Feb-27,75,76.69,12,690.21,6441.96

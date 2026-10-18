@@ -1,0 +1,9 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0002,2023-01-06,Medplus Wholesale,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142301,Jun-24,71,21.51,5,76.36,1603.57
+GRN0002,2023-01-06,Medplus Wholesale,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082301,Jan-24,98,23.61,12,277.65,2591.43
+GRN0002,2023-01-06,Medplus Wholesale,Vitamin D3 60K,Supplement,Mankind,30049099,B152301,Dec-24,74,46.06,12,409.01,3817.45
+GRN0002,2023-01-06,Medplus Wholesale,Montelukast 10mg,Respiratory,Cipla,30049099,B192301,Jan-24,177,52.73,12,1119.99,10453.2
+GRN0002,2023-01-06,Medplus Wholesale,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092301,Jan-24,96,34.86,5,167.33,3513.89
+GRN0002,2023-01-06,Medplus Wholesale,Paracetamol 500mg,Analgesic,GSK,30049099,B012301,Dec-24,148,8.14,12,144.57,1349.29
+GRN0002,2023-01-06,Medplus Wholesale,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062301,Dec-24,90,78.92,12,852.34,7955.14
+GRN0002,2023-01-06,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252301,Jan-24,86,27.14,12,280.08,2614.12

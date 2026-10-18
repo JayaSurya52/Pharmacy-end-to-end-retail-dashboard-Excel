@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0160,2024-10-03,Sun Pharma Distributors,Antiseptic Cream,Topical,Dettol,30049099,B242410,Sep-25,85,40.2,12,410.04,3827.04
+GRN0160,2024-10-03,Sun Pharma Distributors,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212410,Sep-26,100,58.6,12,703.2,6563.2
+GRN0160,2024-10-03,Sun Pharma Distributors,Paracetamol 500mg,Analgesic,GSK,30049099,B012410,Sep-27,82,8.55,12,84.13,785.23
+GRN0160,2024-10-03,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042410,Sep-25,71,29.59,5,105.04,2205.93
+GRN0160,2024-10-03,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132410,Sep-26,64,31.03,5,99.3,2085.22
+GRN0160,2024-10-03,Sun Pharma Distributors,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142410,Sep-27,85,22.59,5,96.01,2016.16
+GRN0160,2024-10-03,Sun Pharma Distributors,Dolo 650mg,Analgesic,Micro Labs,30049099,B022410,Sep-27,95,9.14,12,104.2,972.5
+GRN0161,2024-10-06,Sun Pharma Distributors,Paracetamol 500mg,Analgesic,GSK,30049099,B012410,Oct-25,85,8.52,12,86.9,811.1
+GRN0161,2024-10-06,Sun Pharma Distributors,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112410,Sep-27,52,28.07,5,72.98,1532.62
+GRN0161,2024-10-06,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122410,Sep-27,58,43.35,5,125.72,2640.02
+GRN0161,2024-10-06,Sun Pharma Distributors,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212410,Mar-26,56,56.57,12,380.15,3548.07
+GRN0161,2024-10-06,Sun Pharma Distributors,Amlodipine 5mg,Cardiac,Cipla,30049099,B102410,Sep-27,62,17.32,5,53.69,1127.53

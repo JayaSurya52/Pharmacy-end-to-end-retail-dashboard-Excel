@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0154,2024-09-10,Karnataka Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202409,Sep-25,82,122.63,12,1206.68,11262.34
+GRN0154,2024-09-10,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252409,Sep-25,68,26.92,12,219.67,2050.23
+GRN0154,2024-09-10,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232409,Mar-26,81,50.43,12,490.18,4575.01
+GRN0154,2024-09-10,Karnataka Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052409,Mar-26,99,53.7,12,637.96,5954.26
+GRN0154,2024-09-10,Karnataka Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142409,Aug-26,72,22.45,5,80.82,1697.22
+GRN0154,2024-09-10,Karnataka Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042409,Aug-27,60,28.62,5,85.86,1803.06
+GRN0155,2024-09-13,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112409,Sep-25,92,26.98,5,124.11,2606.27
+GRN0155,2024-09-13,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082409,Sep-25,99,24.03,12,285.48,2664.45
+GRN0155,2024-09-13,Sri Balaji Medicals,Paracetamol 500mg,Analgesic,GSK,30049099,B012409,Aug-27,66,8.62,12,68.27,637.19
+GRN0155,2024-09-13,Sri Balaji Medicals,Antacid Syrup 170ml,Antacid,Digene,30049099,B232409,Sep-25,68,50.77,12,414.28,3866.64
+GRN0155,2024-09-13,Sri Balaji Medicals,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032409,Sep-25,56,12.38,12,83.19,776.47
+GRN0155,2024-09-13,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042409,Sep-26,68,29.58,5,100.57,2112.01
+GRN0155,2024-09-13,Sri Balaji Medicals,Montelukast 10mg,Respiratory,Cipla,30049099,B192409,Sep-25,77,55.29,12,510.88,4768.21

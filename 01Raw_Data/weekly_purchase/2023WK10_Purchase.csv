@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0016,2023-03-06,Sun Pharma Distributors,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252303,Aug-24,60,29.33,12,211.18,1970.98
+GRN0016,2023-03-06,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182303,Feb-25,76,13.33,12,121.57,1134.65
+GRN0016,2023-03-06,Sun Pharma Distributors,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142303,Aug-24,100,22.95,5,114.75,2409.75
+GRN0016,2023-03-06,Sun Pharma Distributors,Salbutamol Inhaler,Respiratory,GSK,30049099,B202303,Feb-24,67,115.91,12,931.92,8697.89
+GRN0016,2023-03-06,Sun Pharma Distributors,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052303,Feb-26,74,57.05,12,506.6,4728.3
+GRN0016,2023-03-06,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082303,Feb-26,64,23.28,12,178.79,1668.71
+GRN0017,2023-03-10,Alkem Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082303,Mar-24,71,23.47,12,199.96,1866.33
+GRN0017,2023-03-10,Alkem Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012303,Feb-26,99,8.31,12,98.72,921.41
+GRN0017,2023-03-10,Alkem Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222303,Feb-25,93,4.72,12,52.68,491.64
+GRN0017,2023-03-10,Alkem Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072303,Feb-25,51,19.23,12,117.69,1098.42
+GRN0017,2023-03-10,Alkem Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132303,Feb-25,61,30.24,5,92.23,1936.87

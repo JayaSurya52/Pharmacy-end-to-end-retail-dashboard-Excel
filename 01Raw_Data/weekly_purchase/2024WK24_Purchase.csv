@@ -1,0 +1,8 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0132,2024-06-12,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172406,Jun-25,92,27.28,12,301.17,2810.93
+GRN0132,2024-06-12,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122406,May-27,118,42.32,5,249.69,5243.45
+GRN0132,2024-06-12,Sun Pharma Distributors,Montelukast 10mg,Respiratory,Cipla,30049099,B192406,Dec-25,72,56.35,12,486.86,4544.06
+GRN0132,2024-06-12,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082406,Jun-26,61,23.37,12,171.07,1596.64
+GRN0132,2024-06-12,Sun Pharma Distributors,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062406,Jun-25,97,79.54,12,925.85,8641.23
+GRN0132,2024-06-12,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042406,Dec-25,180,30.6,5,275.4,5783.4
+GRN0132,2024-06-12,Sun Pharma Distributors,ORS Sachet,OTC,Electral,30049099,B222406,May-27,86,4.7,12,48.5,452.7

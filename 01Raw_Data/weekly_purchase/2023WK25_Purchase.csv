@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0042,2023-06-20,Alkem Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232306,Jun-25,56,50.63,12,340.23,3175.51
+GRN0042,2023-06-20,Alkem Pharma Dist,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092306,Jun-25,86,34.29,5,147.45,3096.39
+GRN0042,2023-06-20,Alkem Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152306,Jun-26,51,50.29,12,307.77,2872.56
+GRN0042,2023-06-20,Alkem Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102306,Jun-24,67,17.11,5,57.32,1203.69
+GRN0042,2023-06-20,Alkem Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072306,Jun-25,88,20.49,12,216.37,2019.49
+GRN0042,2023-06-20,Alkem Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132306,Jun-25,99,30.9,5,152.96,3212.06
+GRN0042,2023-06-20,Alkem Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162306,Jun-25,64,60.82,12,467.1,4359.58
+GRN0043,2023-06-25,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212306,Dec-24,52,58.46,12,364.79,3404.71
+GRN0043,2023-06-25,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042306,Jun-25,101,31.23,5,157.71,3311.94
+GRN0043,2023-06-25,Sri Balaji Medicals,Dolo 650mg,Analgesic,Micro Labs,30049099,B022306,Dec-24,97,8.92,12,103.83,969.07
+GRN0043,2023-06-25,Sri Balaji Medicals,Amlodipine 5mg,Cardiac,Cipla,30049099,B102306,Jun-25,58,18.52,5,53.71,1127.87
+GRN0043,2023-06-25,Sri Balaji Medicals,Vitamin D3 60K,Supplement,Mankind,30049099,B152306,Jun-25,83,48.01,12,478.18,4463.01

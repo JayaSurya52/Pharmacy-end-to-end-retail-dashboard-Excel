@@ -1,0 +1,15 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0088,2023-12-27,Medplus Wholesale,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032312,Dec-26,80,11.44,12,109.82,1025.02
+GRN0088,2023-12-27,Medplus Wholesale,Dolo 650mg,Analgesic,Micro Labs,30049099,B022312,Dec-26,123,9.24,12,136.38,1272.9
+GRN0088,2023-12-27,Medplus Wholesale,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142312,Dec-26,73,23.08,5,84.24,1769.08
+GRN0088,2023-12-27,Medplus Wholesale,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122312,Dec-26,78,43.55,5,169.84,3566.74
+GRN0088,2023-12-27,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252312,Jun-25,74,26.82,12,238.16,2222.84
+GRN0088,2023-12-27,Medplus Wholesale,Ibuprofen 400mg,Analgesic,Boots,30049099,B182312,Dec-24,183,14.5,12,318.42,2971.92
+GRN0088,2023-12-27,Medplus Wholesale,Antiseptic Cream,Topical,Dettol,30049099,B242312,Dec-26,61,41.97,12,307.22,2867.39
+GRN0088,2023-12-27,Medplus Wholesale,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212312,Jun-25,167,55.84,12,1119.03,10444.31
+GRN0089,2023-12-30,Sun Pharma Distributors,Vitamin D3 60K,Supplement,Mankind,30049099,B152312,Dec-25,64,46.79,12,359.35,3353.91
+GRN0089,2023-12-30,Sun Pharma Distributors,ORS Sachet,OTC,Electral,30049099,B222312,Dec-24,59,4.4,12,31.15,290.75
+GRN0089,2023-12-30,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182312,Dec-26,104,14.43,12,180.09,1680.81
+GRN0089,2023-12-30,Sun Pharma Distributors,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142312,Dec-24,89,22.59,5,100.53,2111.04
+GRN0089,2023-12-30,Sun Pharma Distributors,Antacid Syrup 170ml,Antacid,Digene,30049099,B232312,Dec-24,65,50.47,12,393.67,3674.22
+GRN0089,2023-12-30,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132312,Dec-24,88,28.6,5,125.84,2642.64

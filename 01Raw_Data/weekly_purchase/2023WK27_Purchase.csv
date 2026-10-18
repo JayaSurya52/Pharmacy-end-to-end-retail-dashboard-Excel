@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0045,2023-07-03,Medplus Wholesale,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212307,Dec-24,91,57.47,12,627.57,5857.34
+GRN0045,2023-07-03,Medplus Wholesale,Vitamin D3 60K,Supplement,Mankind,30049099,B152307,Jun-25,52,50.14,12,312.87,2920.15
+GRN0045,2023-07-03,Medplus Wholesale,Antacid Syrup 170ml,Antacid,Digene,30049099,B232307,Dec-24,81,50.0,12,486.0,4536.0
+GRN0045,2023-07-03,Medplus Wholesale,Amlodipine 5mg,Cardiac,Cipla,30049099,B102307,Jun-26,84,17.34,5,72.83,1529.39
+GRN0046,2023-07-07,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142307,Jun-25,67,20.97,5,70.25,1475.24
+GRN0046,2023-07-07,Sri Balaji Medicals,Montelukast 10mg,Respiratory,Cipla,30049099,B192307,Dec-24,63,53.69,12,405.9,3788.37
+GRN0046,2023-07-07,Sri Balaji Medicals,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052307,Jun-25,73,52.8,12,462.53,4316.93
+GRN0046,2023-07-07,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252307,Jun-25,84,29.12,12,293.53,2739.61
+GRN0046,2023-07-07,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212307,Dec-24,53,57.41,12,365.13,3407.86
+GRN0046,2023-07-07,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042307,Jun-26,105,31.35,5,164.59,3456.34
+GRN0046,2023-07-07,Sri Balaji Medicals,Calcium + D3,Supplement,Pfizer,30049099,B162307,Jul-24,55,60.98,12,402.47,3756.37
+GRN0046,2023-07-07,Sri Balaji Medicals,ORS Sachet,OTC,Electral,30049099,B222307,Dec-24,53,4.63,12,29.45,274.84

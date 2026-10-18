@@ -1,0 +1,7 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0022,2023-03-29,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082303,Mar-26,58,23.16,12,161.19,1504.47
+GRN0022,2023-03-29,Sri Balaji Medicals,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092303,Sep-24,94,33.78,5,158.77,3334.09
+GRN0022,2023-03-29,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112303,Mar-25,54,26.77,5,72.28,1517.86
+GRN0022,2023-03-29,Sri Balaji Medicals,Antacid Syrup 170ml,Antacid,Digene,30049099,B232303,Mar-24,84,51.82,12,522.35,4875.23
+GRN0022,2023-03-29,Sri Balaji Medicals,Ibuprofen 400mg,Analgesic,Boots,30049099,B182303,Mar-26,63,14.47,12,109.39,1021.0
+GRN0022,2023-03-29,Sri Balaji Medicals,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032303,Mar-24,99,12.1,12,143.75,1341.65

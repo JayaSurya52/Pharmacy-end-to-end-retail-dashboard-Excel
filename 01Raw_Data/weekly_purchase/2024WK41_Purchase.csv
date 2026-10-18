@@ -1,0 +1,6 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0162,2024-10-09,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232410,Oct-25,52,54.22,12,338.33,3157.77
+GRN0162,2024-10-09,Cipla Direct,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112410,Sep-27,99,28.06,5,138.9,2916.84
+GRN0162,2024-10-09,Cipla Direct,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042410,Apr-26,92,30.27,5,139.24,2924.08
+GRN0162,2024-10-09,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252410,Oct-25,81,26.61,12,258.65,2414.06
+GRN0162,2024-10-09,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142410,Sep-27,85,22.96,5,97.58,2049.18

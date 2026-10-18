@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0062,2023-09-05,Cipla Direct,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062309,Aug-25,78,74.44,12,696.76,6503.08
+GRN0062,2023-09-05,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232309,Aug-26,93,53.14,12,593.04,5535.06
+GRN0062,2023-09-05,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252309,Aug-26,89,27.4,12,292.63,2731.23
+GRN0062,2023-09-05,Cipla Direct,Salbutamol Inhaler,Respiratory,GSK,30049099,B202309,Aug-25,64,120.41,12,924.75,8630.99
+GRN0062,2023-09-05,Cipla Direct,Antiseptic Cream,Topical,Dettol,30049099,B242309,Feb-25,100,39.88,12,478.56,4466.56
+GRN0063,2023-09-09,Sri Balaji Medicals,Vitamin D3 60K,Supplement,Mankind,30049099,B152309,Mar-25,62,49.45,12,367.91,3433.81
+GRN0063,2023-09-09,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252309,Aug-26,66,26.75,12,211.86,1977.36
+GRN0063,2023-09-09,Sri Balaji Medicals,Amlodipine 5mg,Cardiac,Cipla,30049099,B102309,Sep-24,73,18.1,5,66.07,1387.37
+GRN0063,2023-09-09,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132309,Sep-24,95,31.04,5,147.44,3096.24
+GRN0063,2023-09-09,Sri Balaji Medicals,B-Complex,Supplement,Merck,30049099,B172309,Mar-25,68,26.83,12,218.93,2043.37
+GRN0063,2023-09-09,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212309,Mar-25,67,57.71,12,463.99,4330.56
+GRN0063,2023-09-09,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142309,Mar-25,77,21.1,5,81.23,1705.93
+GRN0063,2023-09-09,Sri Balaji Medicals,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062309,Sep-24,78,81.0,12,758.16,7076.16

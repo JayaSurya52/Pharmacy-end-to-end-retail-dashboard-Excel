@@ -1,0 +1,10 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0156,2024-09-16,Sun Pharma Distributors,ORS Sachet,OTC,Electral,30049099,B222409,Sep-26,78,4.7,12,43.99,410.59
+GRN0156,2024-09-16,Sun Pharma Distributors,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212409,Sep-26,96,55.64,12,640.97,5982.41
+GRN0156,2024-09-16,Sun Pharma Distributors,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062409,Sep-27,61,74.99,12,548.93,5123.32
+GRN0156,2024-09-16,Sun Pharma Distributors,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112409,Sep-27,79,26.38,5,104.2,2188.22
+GRN0156,2024-09-16,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122409,Sep-27,94,43.47,5,204.31,4290.49
+GRN0157,2024-09-21,Medplus Wholesale,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052409,Sep-27,60,52.82,12,380.3,3549.5
+GRN0157,2024-09-21,Medplus Wholesale,Antacid Syrup 170ml,Antacid,Digene,30049099,B232409,Mar-26,86,52.93,12,546.24,5098.22
+GRN0157,2024-09-21,Medplus Wholesale,Antiseptic Cream,Topical,Dettol,30049099,B242409,Sep-26,89,39.52,12,422.07,3939.35
+GRN0157,2024-09-21,Medplus Wholesale,Dolo 650mg,Analgesic,Micro Labs,30049099,B022409,Mar-26,89,8.58,12,91.63,855.25

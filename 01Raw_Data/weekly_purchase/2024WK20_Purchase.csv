@@ -1,0 +1,17 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0124,2024-05-15,Cipla Direct,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062405,May-25,97,78.07,12,908.73,8481.52
+GRN0124,2024-05-15,Cipla Direct,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122405,Apr-27,91,40.93,5,186.23,3910.86
+GRN0124,2024-05-15,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252405,Nov-25,73,27.67,12,242.39,2262.3
+GRN0124,2024-05-15,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092405,May-25,61,36.51,5,111.36,2338.47
+GRN0124,2024-05-15,Cipla Direct,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042405,Apr-27,160,30.91,5,247.28,5192.88
+GRN0124,2024-05-15,Cipla Direct,Montelukast 10mg,Respiratory,Cipla,30049099,B192405,Apr-27,64,53.04,12,407.35,3801.91
+GRN0124,2024-05-15,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212405,May-25,96,56.96,12,656.18,6124.34
+GRN0124,2024-05-15,Cipla Direct,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082405,May-25,86,23.69,12,244.48,2281.82
+GRN0125,2024-05-18,Medplus Wholesale,Dolo 650mg,Analgesic,Micro Labs,30049099,B022405,May-26,85,8.96,12,91.39,852.99
+GRN0125,2024-05-18,Medplus Wholesale,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132405,May-26,62,29.37,5,91.05,1911.99
+GRN0125,2024-05-18,Medplus Wholesale,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032405,May-27,97,12.15,12,141.43,1319.98
+GRN0125,2024-05-18,Medplus Wholesale,Vitamin D3 60K,Supplement,Mankind,30049099,B152405,May-27,73,48.44,12,424.33,3960.45
+GRN0125,2024-05-18,Medplus Wholesale,Amlodipine 5mg,Cardiac,Cipla,30049099,B102405,Nov-25,99,18.5,5,91.58,1923.08
+GRN0125,2024-05-18,Medplus Wholesale,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212405,May-27,59,55.14,12,390.39,3643.65
+GRN0125,2024-05-18,Medplus Wholesale,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112405,May-26,51,26.28,5,67.01,1407.29
+GRN0125,2024-05-18,Medplus Wholesale,Antacid Syrup 170ml,Antacid,Digene,30049099,B232405,May-25,90,53.77,12,580.72,5420.02

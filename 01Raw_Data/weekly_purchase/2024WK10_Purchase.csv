@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0106,2024-03-04,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182403,Aug-25,79,14.38,12,136.32,1272.34
+GRN0106,2024-03-04,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192403,Feb-27,72,56.69,12,489.8,4571.48
+GRN0106,2024-03-04,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232403,Feb-25,56,50.94,12,342.32,3194.96
+GRN0106,2024-03-04,Karnataka Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242403,Aug-25,57,41.33,12,282.7,2638.51
+GRN0106,2024-03-04,Karnataka Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082403,Feb-27,72,23.55,12,203.47,1899.07
+GRN0106,2024-03-04,Karnataka Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152403,Feb-27,100,46.59,12,559.08,5218.08
+GRN0106,2024-03-04,Karnataka Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122403,Feb-27,72,41.9,5,150.84,3167.64
+GRN0106,2024-03-04,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132403,Feb-26,96,30.59,5,146.83,3083.47
+GRN0107,2024-03-07,Alkem Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232403,Aug-25,91,49.97,12,545.67,5092.94
+GRN0107,2024-03-07,Alkem Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042403,Aug-25,97,29.23,5,141.77,2977.08
+GRN0107,2024-03-07,Alkem Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012403,Feb-27,85,8.21,12,83.74,781.59
+GRN0107,2024-03-07,Alkem Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112403,Feb-27,79,26.28,5,103.81,2179.93

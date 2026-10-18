@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0064,2023-09-13,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172309,Sep-24,51,27.49,12,168.24,1570.23
+GRN0064,2023-09-13,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122309,Mar-25,95,42.63,5,202.49,4252.34
+GRN0064,2023-09-13,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082309,Aug-26,58,22.89,12,159.31,1486.93
+GRN0064,2023-09-13,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132309,Aug-26,94,30.99,5,145.65,3058.71
+GRN0064,2023-09-13,Sun Pharma Distributors,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032309,Sep-24,78,12.14,12,113.63,1060.55
+GRN0064,2023-09-13,Sun Pharma Distributors,Antiseptic Cream,Topical,Dettol,30049099,B242309,Mar-25,51,39.02,12,238.8,2228.82
+GRN0064,2023-09-13,Sun Pharma Distributors,Antacid Syrup 170ml,Antacid,Digene,30049099,B232309,Aug-26,85,54.29,12,553.76,5168.41
+GRN0065,2023-09-16,Alkem Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102309,Aug-26,90,18.53,5,83.39,1751.09
+GRN0065,2023-09-16,Alkem Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042309,Aug-26,54,28.83,5,77.84,1634.66
+GRN0065,2023-09-16,Alkem Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022309,Mar-25,88,9.03,12,95.36,890.0
+GRN0065,2023-09-16,Alkem Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082309,Aug-26,95,23.14,12,263.8,2462.1
+GRN0065,2023-09-16,Alkem Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142309,Mar-25,50,22.25,5,55.62,1168.12

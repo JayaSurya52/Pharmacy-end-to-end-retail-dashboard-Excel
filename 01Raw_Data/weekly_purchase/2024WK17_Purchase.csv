@@ -1,0 +1,6 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0119,2024-04-24,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212404,Oct-25,93,57.67,12,643.6,6006.91
+GRN0119,2024-04-24,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242404,Oct-25,55,41.59,12,274.49,2561.94
+GRN0119,2024-04-24,Sri Balaji Medicals,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052404,Apr-27,98,52.93,12,622.46,5809.6
+GRN0119,2024-04-24,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142404,Apr-26,72,23.02,5,82.87,1740.31
+GRN0119,2024-04-24,Sri Balaji Medicals,Salbutamol Inhaler,Respiratory,GSK,30049099,B202404,Apr-26,100,115.68,12,1388.16,12956.16

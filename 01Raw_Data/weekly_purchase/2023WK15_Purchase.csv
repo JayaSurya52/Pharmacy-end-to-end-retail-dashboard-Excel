@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0025,2023-04-11,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252304,Apr-24,65,27.16,12,211.85,1977.25
+GRN0025,2023-04-11,Medplus Wholesale,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212304,Oct-24,89,55.98,12,597.87,5580.09
+GRN0025,2023-04-11,Medplus Wholesale,Dolo 650mg,Analgesic,Micro Labs,30049099,B022304,Oct-24,80,9.15,12,87.84,819.84
+GRN0025,2023-04-11,Medplus Wholesale,Paracetamol 500mg,Analgesic,GSK,30049099,B012304,Mar-25,79,8.67,12,82.19,767.12
+GRN0026,2023-04-14,Karnataka Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242304,Mar-26,69,40.3,12,333.68,3114.38
+GRN0026,2023-04-14,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232304,Oct-24,75,54.3,12,488.7,4561.2
+GRN0026,2023-04-14,Karnataka Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042304,Oct-24,54,30.28,5,81.76,1716.88
+GRN0026,2023-04-14,Karnataka Pharma Dist,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062304,Apr-25,56,79.54,12,534.51,4988.75
+GRN0026,2023-04-14,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102304,Apr-24,93,18.18,5,84.54,1775.28
+GRN0026,2023-04-14,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252304,Apr-24,100,29.35,12,352.2,3287.2
+GRN0026,2023-04-14,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192304,Apr-25,72,54.18,12,468.12,4369.08
+GRN0026,2023-04-14,Karnataka Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012304,Apr-25,54,8.51,12,55.14,514.68

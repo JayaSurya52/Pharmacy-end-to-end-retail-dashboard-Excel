@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0034,2023-05-15,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102305,May-24,84,17.99,5,75.56,1586.72
+GRN0034,2023-05-15,Karnataka Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152305,Apr-26,88,45.79,12,483.54,4513.06
+GRN0034,2023-05-15,Karnataka Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042305,May-24,131,30.31,5,198.53,4169.14
+GRN0034,2023-05-15,Karnataka Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242305,May-24,55,38.92,12,256.87,2397.47
+GRN0034,2023-05-15,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252305,May-25,98,28.48,12,334.92,3125.96
+GRN0034,2023-05-15,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132305,Nov-24,86,28.62,5,123.07,2584.39
+GRN0034,2023-05-15,Karnataka Pharma Dist,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092305,Apr-26,80,35.07,5,140.28,2945.88
+GRN0034,2023-05-15,Karnataka Pharma Dist,B-Complex,Supplement,Merck,30049099,B172305,Apr-26,67,27.11,12,217.96,2034.33
+GRN0035,2023-05-20,Cipla Direct,Calcium + D3,Supplement,Pfizer,30049099,B162305,Nov-24,70,61.02,12,512.57,4783.97
+GRN0035,2023-05-20,Cipla Direct,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122305,May-26,132,41.63,5,274.76,5769.92
+GRN0035,2023-05-20,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142305,May-26,68,22.36,5,76.02,1596.5
+GRN0035,2023-05-20,Cipla Direct,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112305,May-26,98,27.14,5,132.99,2792.71

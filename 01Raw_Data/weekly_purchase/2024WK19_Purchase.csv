@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0122,2024-05-07,Sun Pharma Distributors,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032405,May-25,75,12.1,12,108.9,1016.4
+GRN0122,2024-05-07,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172405,Oct-25,69,28.56,12,236.48,2207.12
+GRN0122,2024-05-07,Sun Pharma Distributors,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072405,Apr-27,53,19.49,12,123.96,1156.93
+GRN0122,2024-05-07,Sun Pharma Distributors,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052405,May-25,57,54.74,12,374.42,3494.6
+GRN0122,2024-05-07,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182405,Oct-25,69,14.23,12,117.82,1099.69
+GRN0122,2024-05-07,Sun Pharma Distributors,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112405,Oct-25,57,25.68,5,73.19,1536.95
+GRN0123,2024-05-12,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162405,May-26,60,59.23,12,426.46,3980.26
+GRN0123,2024-05-12,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122405,May-25,105,43.14,5,226.49,4756.19
+GRN0123,2024-05-12,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172405,May-26,71,28.86,12,245.89,2294.95
+GRN0123,2024-05-12,Sun Pharma Distributors,Antiseptic Cream,Topical,Dettol,30049099,B242405,May-25,83,38.26,12,381.07,3556.65
+GRN0123,2024-05-12,Sun Pharma Distributors,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092405,May-26,81,34.84,5,141.1,2963.14

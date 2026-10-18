@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0094,2024-01-16,Sun Pharma Distributors,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252401,Jul-25,86,29.02,12,299.49,2795.21
+GRN0094,2024-01-16,Sun Pharma Distributors,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112401,Dec-26,51,26.35,5,67.19,1411.04
+GRN0094,2024-01-16,Sun Pharma Distributors,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072401,Jan-26,68,19.3,12,157.49,1469.89
+GRN0094,2024-01-16,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122401,Jul-25,64,41.5,5,132.8,2788.8
+GRN0094,2024-01-16,Sun Pharma Distributors,Antiseptic Cream,Topical,Dettol,30049099,B242401,Jan-26,81,40.2,12,390.74,3646.94
+GRN0094,2024-01-16,Sun Pharma Distributors,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142401,Dec-26,66,22.58,5,74.51,1564.79
+GRN0094,2024-01-16,Sun Pharma Distributors,Dolo 650mg,Analgesic,Micro Labs,30049099,B022401,Dec-26,192,9.13,12,210.36,1963.32
+GRN0095,2024-01-20,Medplus Wholesale,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062401,Jan-25,91,81.57,12,890.74,8313.61
+GRN0095,2024-01-20,Medplus Wholesale,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052401,Jan-25,54,57.45,12,372.28,3474.58
+GRN0095,2024-01-20,Medplus Wholesale,Ibuprofen 400mg,Analgesic,Boots,30049099,B182401,Jul-25,197,13.31,12,314.65,2936.72
+GRN0095,2024-01-20,Medplus Wholesale,Calcium + D3,Supplement,Pfizer,30049099,B162401,Jul-25,90,58.39,12,630.61,5885.71
+GRN0095,2024-01-20,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252401,Jan-27,50,27.21,12,163.26,1523.76
+GRN0095,2024-01-20,Medplus Wholesale,Antacid Syrup 170ml,Antacid,Digene,30049099,B232401,Jan-27,73,49.71,12,435.46,4064.29

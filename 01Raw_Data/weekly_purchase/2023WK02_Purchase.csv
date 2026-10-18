@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0003,2023-01-09,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252301,Dec-24,74,27.38,12,243.13,2269.25
+GRN0003,2023-01-09,Sri Balaji Medicals,Amlodipine 5mg,Cardiac,Cipla,30049099,B102301,Jul-24,60,17.77,5,53.31,1119.51
+GRN0003,2023-01-09,Sri Balaji Medicals,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032301,Jan-24,92,11.72,12,129.39,1207.63
+GRN0003,2023-01-09,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082301,Jul-24,88,24.32,12,256.82,2396.98
+GRN0003,2023-01-09,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042301,Dec-24,60,29.89,5,89.67,1883.07
+GRN0004,2023-01-14,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082301,Jan-25,67,22.96,12,184.6,1722.92
+GRN0004,2023-01-14,Sri Balaji Medicals,ORS Sachet,OTC,Electral,30049099,B222301,Dec-25,63,4.57,12,34.55,322.46
+GRN0004,2023-01-14,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112301,Jan-25,91,26.89,5,122.35,2569.34
+GRN0004,2023-01-14,Sri Balaji Medicals,Dolo 650mg,Analgesic,Micro Labs,30049099,B022301,Jan-25,117,8.77,12,123.13,1149.22
+GRN0004,2023-01-14,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252301,Dec-25,97,28.24,12,328.71,3067.99
+GRN0004,2023-01-14,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242301,Jul-24,73,38.88,12,340.59,3178.83
+GRN0004,2023-01-14,Sri Balaji Medicals,Antacid Syrup 170ml,Antacid,Digene,30049099,B232301,Jan-24,82,51.97,12,511.38,4772.92
+GRN0004,2023-01-14,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132301,Jul-24,57,28.96,5,82.54,1733.26

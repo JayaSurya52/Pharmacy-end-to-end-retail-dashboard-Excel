@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0158,2024-09-25,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142409,Sep-25,66,22.34,5,73.72,1548.16
+GRN0158,2024-09-25,Cipla Direct,Vitamin D3 60K,Supplement,Mankind,30049099,B152409,Mar-26,95,49.77,12,567.38,5295.53
+GRN0158,2024-09-25,Cipla Direct,Dolo 650mg,Analgesic,Micro Labs,30049099,B022409,Sep-25,92,9.34,12,103.11,962.39
+GRN0158,2024-09-25,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032409,Mar-26,77,12.19,12,112.64,1051.27
+GRN0159,2024-09-29,Alkem Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052409,Mar-26,80,56.94,12,546.62,5101.82
+GRN0159,2024-09-29,Alkem Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182409,Sep-26,54,14.35,12,92.99,867.89
+GRN0159,2024-09-29,Alkem Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202409,Sep-26,65,117.97,12,920.17,8588.22
+GRN0159,2024-09-29,Alkem Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022409,Sep-27,53,9.01,12,57.3,534.83
+GRN0159,2024-09-29,Alkem Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012409,Sep-25,75,8.77,12,78.93,736.68
+GRN0159,2024-09-29,Alkem Pharma Dist,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062409,Sep-27,79,77.56,12,735.27,6862.51
+GRN0159,2024-09-29,Alkem Pharma Dist,B-Complex,Supplement,Merck,30049099,B172409,Sep-27,55,29.0,12,191.4,1786.4

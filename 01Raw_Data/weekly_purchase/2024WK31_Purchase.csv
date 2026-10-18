@@ -1,0 +1,6 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0145,2024-08-02,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122408,Jul-26,80,42.36,5,169.44,3558.24
+GRN0145,2024-08-02,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162408,Jul-26,72,57.98,12,500.95,4675.51
+GRN0145,2024-08-02,Sun Pharma Distributors,Salbutamol Inhaler,Respiratory,GSK,30049099,B202408,Jul-25,97,123.97,12,1443.01,13468.1
+GRN0145,2024-08-02,Sun Pharma Distributors,Vitamin D3 60K,Supplement,Mankind,30049099,B152408,Jul-25,68,45.73,12,373.16,3482.8
+GRN0145,2024-08-02,Sun Pharma Distributors,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062408,Jan-26,60,80.76,12,581.47,5427.07

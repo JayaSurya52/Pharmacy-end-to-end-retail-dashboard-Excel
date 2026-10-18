@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0020,2023-03-21,Medplus Wholesale,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082303,Mar-24,80,24.27,12,232.99,2174.59
+GRN0020,2023-03-21,Medplus Wholesale,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072303,Sep-24,79,19.83,12,187.99,1754.56
+GRN0020,2023-03-21,Medplus Wholesale,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052303,Mar-26,95,56.08,12,639.31,5966.91
+GRN0020,2023-03-21,Medplus Wholesale,Paracetamol 500mg,Analgesic,GSK,30049099,B012303,Mar-24,75,8.28,12,74.52,695.52
+GRN0020,2023-03-21,Medplus Wholesale,Dolo 650mg,Analgesic,Micro Labs,30049099,B022303,Mar-24,98,9.32,12,109.6,1022.96
+GRN0020,2023-03-21,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252303,Sep-24,99,27.79,12,330.15,3081.36
+GRN0021,2023-03-26,Karnataka Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022303,Mar-25,92,9.03,12,99.69,930.45
+GRN0021,2023-03-26,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182303,Mar-26,98,14.55,12,171.11,1597.01
+GRN0021,2023-03-26,Karnataka Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082303,Sep-24,85,23.87,12,243.47,2272.42
+GRN0021,2023-03-26,Karnataka Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042303,Mar-26,97,31.08,5,150.74,3165.5
+GRN0021,2023-03-26,Karnataka Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152303,Mar-25,66,49.21,12,389.74,3637.6
+GRN0021,2023-03-26,Karnataka Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052303,Mar-26,99,56.53,12,671.58,6268.05
+GRN0021,2023-03-26,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212303,Mar-26,90,56.49,12,610.09,5694.19

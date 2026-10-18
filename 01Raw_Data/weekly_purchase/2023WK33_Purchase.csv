@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0057,2023-08-16,Karnataka Pharma Dist,B-Complex,Supplement,Merck,30049099,B172308,Feb-25,72,28.64,12,247.45,2309.53
+GRN0057,2023-08-16,Karnataka Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072308,Aug-25,65,19.21,12,149.84,1398.49
+GRN0057,2023-08-16,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252308,Feb-25,62,27.09,12,201.55,1881.13
+GRN0057,2023-08-16,Karnataka Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122308,Aug-24,98,43.09,5,211.14,4433.96
+GRN0058,2023-08-19,Sri Balaji Medicals,Vitamin D3 60K,Supplement,Mankind,30049099,B152308,Aug-26,90,47.12,12,508.9,4749.7
+GRN0058,2023-08-19,Sri Balaji Medicals,Montelukast 10mg,Respiratory,Cipla,30049099,B192308,Aug-25,54,53.83,12,348.82,3255.64
+GRN0058,2023-08-19,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242308,Aug-24,100,39.1,12,469.2,4379.2
+GRN0058,2023-08-19,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252308,Aug-25,72,28.02,12,242.09,2259.53
+GRN0058,2023-08-19,Sri Balaji Medicals,Antacid Syrup 170ml,Antacid,Digene,30049099,B232308,Aug-24,79,51.75,12,490.59,4578.84
+GRN0058,2023-08-19,Sri Balaji Medicals,Salbutamol Inhaler,Respiratory,GSK,30049099,B202308,Aug-24,73,123.98,12,1086.06,10136.6
+GRN0058,2023-08-19,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112308,Aug-24,91,27.98,5,127.31,2673.49

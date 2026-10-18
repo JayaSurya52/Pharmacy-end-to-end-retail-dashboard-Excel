@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0175,2024-12-03,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172412,May-26,87,27.73,12,289.5,2702.01
+GRN0175,2024-12-03,Sun Pharma Distributors,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212412,Nov-27,104,58.3,12,727.58,6790.78
+GRN0175,2024-12-03,Sun Pharma Distributors,Paracetamol 500mg,Analgesic,GSK,30049099,B012412,Nov-26,183,8.73,12,191.71,1789.3
+GRN0175,2024-12-03,Sun Pharma Distributors,Montelukast 10mg,Respiratory,Cipla,30049099,B192412,Nov-26,150,52.51,12,945.18,8821.68
+GRN0176,2024-12-06,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172412,Nov-27,98,28.04,12,329.75,3077.67
+GRN0176,2024-12-06,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032412,May-26,60,11.61,12,83.59,780.19
+GRN0176,2024-12-06,Cipla Direct,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132412,Nov-26,97,30.7,5,148.9,3126.8
+GRN0176,2024-12-06,Cipla Direct,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122412,Nov-27,52,40.82,5,106.13,2228.77
+GRN0176,2024-12-06,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252412,Nov-26,64,26.78,12,205.67,1919.59
+GRN0176,2024-12-06,Cipla Direct,Paracetamol 500mg,Analgesic,GSK,30049099,B012412,May-26,129,8.11,12,125.54,1171.73
+GRN0176,2024-12-06,Cipla Direct,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082412,Nov-26,83,24.98,12,248.8,2322.14
+GRN0176,2024-12-06,Cipla Direct,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062412,Nov-27,74,77.76,12,690.51,6444.75

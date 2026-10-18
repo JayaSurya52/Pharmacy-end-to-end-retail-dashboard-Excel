@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0177,2024-12-09,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042412,Jun-26,87,30.13,5,131.07,2752.38
+GRN0177,2024-12-09,Sun Pharma Distributors,Antacid Syrup 170ml,Antacid,Digene,30049099,B232412,Nov-26,74,52.8,12,468.86,4376.06
+GRN0177,2024-12-09,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172412,Dec-25,87,28.43,12,296.81,2770.22
+GRN0177,2024-12-09,Sun Pharma Distributors,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212412,Jun-26,166,56.56,12,1126.68,10515.64
+GRN0177,2024-12-09,Sun Pharma Distributors,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092412,Nov-26,83,34.67,5,143.88,3021.49
+GRN0177,2024-12-09,Sun Pharma Distributors,ORS Sachet,OTC,Electral,30049099,B222412,Dec-25,81,4.63,12,45.0,420.03
+GRN0178,2024-12-14,Medplus Wholesale,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062412,Dec-26,59,75.56,12,534.96,4993.0
+GRN0178,2024-12-14,Medplus Wholesale,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082412,Dec-25,88,24.52,12,258.93,2416.69
+GRN0178,2024-12-14,Medplus Wholesale,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032412,Dec-26,92,11.68,12,128.95,1203.51
+GRN0178,2024-12-14,Medplus Wholesale,B-Complex,Supplement,Merck,30049099,B172412,Nov-27,96,26.92,12,310.12,2894.44
+GRN0178,2024-12-14,Medplus Wholesale,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212412,Jun-26,161,56.32,12,1088.1,10155.62
+GRN0178,2024-12-14,Medplus Wholesale,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092412,Dec-25,91,36.17,5,164.57,3456.04
+GRN0178,2024-12-14,Medplus Wholesale,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072412,Jun-26,65,19.09,12,148.9,1389.75

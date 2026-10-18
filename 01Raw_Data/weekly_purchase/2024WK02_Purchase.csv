@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0092,2024-01-08,Karnataka Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082401,Jul-25,76,25.12,12,229.09,2138.21
+GRN0092,2024-01-08,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252401,Jul-25,74,27.28,12,242.25,2260.97
+GRN0092,2024-01-08,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102401,Dec-26,71,18.26,5,64.82,1361.28
+GRN0092,2024-01-08,Karnataka Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052401,Jul-25,73,52.76,12,462.18,4313.66
+GRN0092,2024-01-08,Karnataka Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152401,Jan-25,53,46.89,12,298.22,2783.39
+GRN0092,2024-01-08,Karnataka Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022401,Jul-25,109,8.72,12,114.06,1064.54
+GRN0092,2024-01-08,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182401,Dec-25,161,13.59,12,262.56,2450.55
+GRN0093,2024-01-12,Sun Pharma Distributors,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072401,Jul-25,65,20.39,12,159.04,1484.39
+GRN0093,2024-01-12,Sun Pharma Distributors,Antiseptic Cream,Topical,Dettol,30049099,B242401,Jan-26,75,41.66,12,374.94,3499.44
+GRN0093,2024-01-12,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042401,Dec-26,99,29.35,5,145.28,3050.93
+GRN0093,2024-01-12,Sun Pharma Distributors,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252401,Jan-26,84,28.42,12,286.47,2673.75
+GRN0093,2024-01-12,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162401,Dec-26,66,59.16,12,468.55,4373.11

@@ -1,0 +1,16 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0179,2024-12-17,Sri Balaji Medicals,Dolo 650mg,Analgesic,Micro Labs,30049099,B022412,Dec-25,151,9.09,12,164.71,1537.3
+GRN0179,2024-12-17,Sri Balaji Medicals,Montelukast 10mg,Respiratory,Cipla,30049099,B192412,Dec-26,192,55.23,12,1272.5,11876.66
+GRN0179,2024-12-17,Sri Balaji Medicals,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052412,Dec-27,55,53.44,12,352.7,3291.9
+GRN0179,2024-12-17,Sri Balaji Medicals,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252412,Dec-27,80,27.08,12,259.97,2426.37
+GRN0179,2024-12-17,Sri Balaji Medicals,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062412,Jun-26,88,75.21,12,794.22,7412.7
+GRN0179,2024-12-17,Sri Balaji Medicals,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092412,Dec-26,89,35.56,5,158.24,3323.08
+GRN0179,2024-12-17,Sri Balaji Medicals,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212412,Dec-26,121,59.3,12,861.04,8036.34
+GRN0179,2024-12-17,Sri Balaji Medicals,B-Complex,Supplement,Merck,30049099,B172412,Dec-25,79,28.27,12,268.0,2501.33
+GRN0180,2024-12-20,Cipla Direct,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052412,Jun-26,59,55.58,12,393.51,3672.73
+GRN0180,2024-12-20,Cipla Direct,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042412,Dec-25,80,31.2,5,124.8,2620.8
+GRN0180,2024-12-20,Cipla Direct,Paracetamol 500mg,Analgesic,GSK,30049099,B012412,Dec-25,200,8.53,12,204.72,1910.72
+GRN0180,2024-12-20,Cipla Direct,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072412,Jun-26,55,19.96,12,131.74,1229.54
+GRN0180,2024-12-20,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172412,Dec-25,88,28.11,12,296.84,2770.52
+GRN0180,2024-12-20,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212412,Dec-27,199,59.04,12,1409.88,13158.84
+GRN0180,2024-12-20,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142412,Dec-25,83,21.83,5,90.59,1902.48

@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0075,2023-11-01,Medplus Wholesale,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142311,Oct-26,80,21.44,5,85.76,1800.96
+GRN0075,2023-11-01,Medplus Wholesale,Salbutamol Inhaler,Respiratory,GSK,30049099,B202311,Oct-24,138,119.44,12,1977.93,18460.65
+GRN0075,2023-11-01,Medplus Wholesale,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212311,Oct-26,120,57.65,12,830.16,7748.16
+GRN0075,2023-11-01,Medplus Wholesale,Paracetamol 500mg,Analgesic,GSK,30049099,B012311,Apr-25,159,8.25,12,157.41,1469.16
+GRN0075,2023-11-01,Medplus Wholesale,Calcium + D3,Supplement,Pfizer,30049099,B162311,Oct-25,70,62.17,12,522.23,4874.13
+GRN0075,2023-11-01,Medplus Wholesale,Ibuprofen 400mg,Analgesic,Boots,30049099,B182311,Oct-25,193,14.68,12,339.99,3173.23
+GRN0075,2023-11-01,Medplus Wholesale,Amlodipine 5mg,Cardiac,Cipla,30049099,B102311,Oct-25,75,17.34,5,65.03,1365.53
+GRN0075,2023-11-01,Medplus Wholesale,Montelukast 10mg,Respiratory,Cipla,30049099,B192311,Oct-25,165,54.33,12,1075.73,10040.18
+GRN0076,2023-11-04,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092311,Oct-26,56,33.43,5,93.6,1965.68
+GRN0076,2023-11-04,Cipla Direct,Vitamin D3 60K,Supplement,Mankind,30049099,B152311,Apr-25,89,47.61,12,508.47,4745.76
+GRN0076,2023-11-04,Cipla Direct,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082311,Oct-25,70,25.04,12,210.34,1963.14
+GRN0076,2023-11-04,Cipla Direct,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052311,Oct-26,62,56.45,12,419.99,3919.89

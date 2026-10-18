@@ -1,0 +1,5 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0033,2023-05-11,Cipla Direct,ORS Sachet,OTC,Electral,30049099,B222305,Nov-24,87,4.57,12,47.71,445.3
+GRN0033,2023-05-11,Cipla Direct,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082305,Nov-24,77,23.08,12,213.26,1990.42
+GRN0033,2023-05-11,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092305,Apr-25,91,33.77,5,153.65,3226.72
+GRN0033,2023-05-11,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212305,Nov-24,59,55.51,12,393.01,3668.1

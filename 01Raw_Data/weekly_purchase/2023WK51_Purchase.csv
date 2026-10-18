@@ -1,0 +1,9 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0087,2023-12-22,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232312,Jun-25,62,52.38,12,389.71,3637.27
+GRN0087,2023-12-22,Cipla Direct,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122312,Dec-26,60,41.28,5,123.84,2600.64
+GRN0087,2023-12-22,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032312,Dec-26,57,12.22,12,83.58,780.12
+GRN0087,2023-12-22,Cipla Direct,Montelukast 10mg,Respiratory,Cipla,30049099,B192312,Dec-26,111,56.15,12,747.92,6980.57
+GRN0087,2023-12-22,Cipla Direct,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042312,Dec-26,53,29.86,5,79.13,1661.71
+GRN0087,2023-12-22,Cipla Direct,Dolo 650mg,Analgesic,Micro Labs,30049099,B022312,Dec-26,158,9.06,12,171.78,1603.26
+GRN0087,2023-12-22,Cipla Direct,Ibuprofen 400mg,Analgesic,Boots,30049099,B182312,Dec-24,186,14.43,12,322.08,3006.06
+GRN0087,2023-12-22,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172312,Dec-24,75,27.31,12,245.79,2294.04

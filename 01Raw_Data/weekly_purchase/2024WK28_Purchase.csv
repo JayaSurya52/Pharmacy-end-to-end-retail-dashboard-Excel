@@ -1,0 +1,11 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0139,2024-07-08,Sri Balaji Medicals,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032407,Jun-26,81,12.47,12,121.21,1131.28
+GRN0139,2024-07-08,Sri Balaji Medicals,Calcium + D3,Supplement,Pfizer,30049099,B162407,Jun-27,55,60.85,12,401.61,3748.36
+GRN0139,2024-07-08,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042407,Jun-27,113,29.61,5,167.3,3513.23
+GRN0139,2024-07-08,Sri Balaji Medicals,Amlodipine 5mg,Cardiac,Cipla,30049099,B102407,Jul-25,73,17.44,5,63.66,1336.78
+GRN0139,2024-07-08,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132407,Jun-26,66,29.82,5,98.41,2066.53
+GRN0139,2024-07-08,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242407,Jul-25,64,41.35,12,317.57,2963.97
+GRN0140,2024-07-11,Sri Balaji Medicals,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032407,Jan-26,76,12.56,12,114.55,1069.11
+GRN0140,2024-07-11,Sri Balaji Medicals,ORS Sachet,OTC,Electral,30049099,B222407,Jun-27,85,4.3,12,43.86,409.36
+GRN0140,2024-07-11,Sri Balaji Medicals,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122407,Jun-27,156,41.66,5,324.95,6823.91
+GRN0140,2024-07-11,Sri Balaji Medicals,Ibuprofen 400mg,Analgesic,Boots,30049099,B182407,Jun-27,86,14.53,12,149.95,1399.53

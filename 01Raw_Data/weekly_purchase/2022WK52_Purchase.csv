@@ -1,0 +1,5 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0001,2023-01-01,Sri Balaji Medicals,Paracetamol 500mg,Analgesic,GSK,30049099,B012301,Dec-23,128,8.19,12,125.8,1174.12
+GRN0001,2023-01-01,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242301,Dec-23,93,40.96,12,457.11,4266.39
+GRN0001,2023-01-01,Sri Balaji Medicals,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092301,Dec-23,87,34.73,5,151.08,3172.59
+GRN0001,2023-01-01,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082301,Dec-23,55,23.32,12,153.91,1436.51

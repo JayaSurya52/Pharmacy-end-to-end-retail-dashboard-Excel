@@ -1,0 +1,5 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0011,2023-02-10,Alkem Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022302,Feb-24,167,8.69,12,174.15,1625.38
+GRN0011,2023-02-10,Alkem Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192302,Feb-24,123,51.67,12,762.65,7118.06
+GRN0011,2023-02-10,Alkem Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162302,Jan-26,93,62.17,12,693.82,6475.63
+GRN0011,2023-02-10,Alkem Pharma Dist,B-Complex,Supplement,Merck,30049099,B172302,Aug-24,57,29.24,12,200.0,1866.68

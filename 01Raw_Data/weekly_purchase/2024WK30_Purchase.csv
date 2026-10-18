@@ -1,0 +1,16 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0143,2024-07-23,Alkem Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052407,Jul-25,71,56.05,12,477.55,4457.1
+GRN0143,2024-07-23,Alkem Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202407,Jul-26,97,119.7,12,1393.31,13004.21
+GRN0143,2024-07-23,Alkem Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242407,Jul-26,73,38.08,12,333.58,3113.42
+GRN0143,2024-07-23,Alkem Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222407,Jul-27,69,4.4,12,36.43,340.03
+GRN0143,2024-07-23,Alkem Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132407,Jan-26,94,30.55,5,143.59,3015.29
+GRN0143,2024-07-23,Alkem Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022407,Jul-27,58,8.82,12,61.39,572.95
+GRN0143,2024-07-23,Alkem Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212407,Jul-26,99,59.89,12,711.49,6640.6
+GRN0144,2024-07-28,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212407,Jan-26,73,59.86,12,524.37,4894.15
+GRN0144,2024-07-28,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032407,Jul-27,54,11.77,12,76.27,711.85
+GRN0144,2024-07-28,Cipla Direct,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072407,Jul-25,58,20.56,12,143.1,1335.58
+GRN0144,2024-07-28,Cipla Direct,Vitamin D3 60K,Supplement,Mankind,30049099,B152407,Jan-26,61,46.53,12,340.6,3178.93
+GRN0144,2024-07-28,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232407,Jul-27,53,50.7,12,322.45,3009.55
+GRN0144,2024-07-28,Cipla Direct,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142407,Jan-26,53,22.92,5,60.74,1275.5
+GRN0144,2024-07-28,Cipla Direct,Calcium + D3,Supplement,Pfizer,30049099,B162407,Jul-27,67,59.21,12,476.05,4443.12
+GRN0144,2024-07-28,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172407,Jul-25,82,27.71,12,272.67,2544.89

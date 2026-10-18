@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0104,2024-02-26,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222402,Aug-25,79,4.7,12,44.56,415.86
+GRN0104,2024-02-26,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252402,Feb-25,78,28.83,12,269.85,2518.59
+GRN0104,2024-02-26,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182402,Aug-25,152,14.24,12,259.74,2424.22
+GRN0104,2024-02-26,Karnataka Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012402,Feb-26,181,8.33,12,180.93,1688.66
+GRN0104,2024-02-26,Karnataka Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242402,Feb-27,92,38.62,12,426.36,3979.4
+GRN0105,2024-03-01,Sun Pharma Distributors,Salbutamol Inhaler,Respiratory,GSK,30049099,B202403,Feb-26,84,114.44,12,1153.56,10766.52
+GRN0105,2024-03-01,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162403,Feb-25,94,62.37,12,703.53,6566.31
+GRN0105,2024-03-01,Sun Pharma Distributors,Montelukast 10mg,Respiratory,Cipla,30049099,B192403,Feb-26,56,55.45,12,372.62,3477.82
+GRN0105,2024-03-01,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132403,Feb-25,60,30.44,5,91.32,1917.72
+GRN0105,2024-03-01,Sun Pharma Distributors,Ibuprofen 400mg,Analgesic,Boots,30049099,B182403,Feb-27,86,14.68,12,151.5,1413.98
+GRN0105,2024-03-01,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172403,Feb-27,98,27.53,12,323.75,3021.69
+GRN0105,2024-03-01,Sun Pharma Distributors,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142403,Feb-26,56,20.92,5,58.58,1230.1

@@ -1,0 +1,6 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0041,2023-06-15,Sri Balaji Medicals,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062306,Dec-24,65,77.98,12,608.24,5676.94
+GRN0041,2023-06-15,Sri Balaji Medicals,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032306,Jun-25,64,11.95,12,91.78,856.58
+GRN0041,2023-06-15,Sri Balaji Medicals,Salbutamol Inhaler,Respiratory,GSK,30049099,B202306,Jun-24,79,117.06,12,1109.73,10357.47
+GRN0041,2023-06-15,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132306,Dec-24,79,31.2,5,123.24,2588.04
+GRN0041,2023-06-15,Sri Balaji Medicals,ORS Sachet,OTC,Electral,30049099,B222306,Jun-25,54,4.47,12,28.97,270.35

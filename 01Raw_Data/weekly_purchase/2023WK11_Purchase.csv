@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0018,2023-03-13,Sun Pharma Distributors,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142303,Mar-24,86,21.32,5,91.68,1925.2
+GRN0018,2023-03-13,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122303,Sep-24,95,41.73,5,198.22,4162.57
+GRN0018,2023-03-13,Sun Pharma Distributors,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112303,Mar-25,73,26.81,5,97.86,2054.99
+GRN0018,2023-03-13,Sun Pharma Distributors,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252303,Mar-24,89,27.48,12,293.49,2739.21
+GRN0018,2023-03-13,Sun Pharma Distributors,Salbutamol Inhaler,Respiratory,GSK,30049099,B202303,Mar-25,96,124.8,12,1437.7,13418.5
+GRN0018,2023-03-13,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172303,Feb-26,92,27.74,12,306.25,2858.33
+GRN0018,2023-03-13,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042303,Sep-24,94,29.39,5,138.13,2900.79
+GRN0018,2023-03-13,Sun Pharma Distributors,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132303,Feb-26,62,29.76,5,92.26,1937.38
+GRN0019,2023-03-18,Sri Balaji Medicals,Salbutamol Inhaler,Respiratory,GSK,30049099,B202303,Sep-24,50,117.65,12,705.9,6588.4
+GRN0019,2023-03-18,Sri Balaji Medicals,Montelukast 10mg,Respiratory,Cipla,30049099,B192303,Mar-25,77,55.54,12,513.19,4789.77
+GRN0019,2023-03-18,Sri Balaji Medicals,Amlodipine 5mg,Cardiac,Cipla,30049099,B102303,Sep-24,79,17.9,5,70.7,1484.8
+GRN0019,2023-03-18,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132303,Sep-24,82,29.92,5,122.67,2576.11
+GRN0019,2023-03-18,Sri Balaji Medicals,Ibuprofen 400mg,Analgesic,Boots,30049099,B182303,Mar-25,92,13.42,12,148.16,1382.8

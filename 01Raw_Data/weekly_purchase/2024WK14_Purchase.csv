@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0113,2024-04-03,Sun Pharma Distributors,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092404,Mar-26,97,35.31,5,171.25,3596.32
+GRN0113,2024-04-03,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122404,Mar-27,95,42.46,5,201.69,4235.39
+GRN0113,2024-04-03,Sun Pharma Distributors,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032404,Sep-25,60,12.14,12,87.41,815.81
+GRN0113,2024-04-03,Sun Pharma Distributors,Vitamin D3 60K,Supplement,Mankind,30049099,B152404,Mar-26,63,49.47,12,373.99,3490.6
+GRN0113,2024-04-03,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042404,Sep-25,84,29.34,5,123.23,2587.79
+GRN0113,2024-04-03,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082404,Mar-26,70,25.15,12,211.26,1971.76
+GRN0113,2024-04-03,Sun Pharma Distributors,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072404,Mar-25,68,20.15,12,164.42,1534.62
+GRN0114,2024-04-06,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092404,Mar-26,58,34.12,5,98.95,2077.91
+GRN0114,2024-04-06,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212404,Mar-27,65,59.52,12,464.26,4333.06
+GRN0114,2024-04-06,Cipla Direct,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052404,Mar-26,81,53.03,12,515.45,4810.88
+GRN0114,2024-04-06,Cipla Direct,Antacid Syrup 170ml,Antacid,Digene,30049099,B232404,Mar-27,90,51.55,12,556.74,5196.24

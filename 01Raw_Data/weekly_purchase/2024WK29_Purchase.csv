@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0141,2024-07-15,Sun Pharma Distributors,Antacid Syrup 170ml,Antacid,Digene,30049099,B232407,Jun-27,57,54.34,12,371.69,3469.07
+GRN0141,2024-07-15,Sun Pharma Distributors,Dolo 650mg,Analgesic,Micro Labs,30049099,B022407,Jan-26,61,9.4,12,68.81,642.21
+GRN0141,2024-07-15,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172407,Jan-26,63,28.86,12,218.18,2036.36
+GRN0141,2024-07-15,Sun Pharma Distributors,Montelukast 10mg,Respiratory,Cipla,30049099,B192407,Jun-27,52,53.59,12,334.4,3121.08
+GRN0141,2024-07-15,Sun Pharma Distributors,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252407,Jan-26,62,29.39,12,218.66,2040.84
+GRN0141,2024-07-15,Sun Pharma Distributors,ORS Sachet,OTC,Electral,30049099,B222407,Jul-25,88,4.39,12,46.36,432.68
+GRN0141,2024-07-15,Sun Pharma Distributors,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052407,Jun-27,55,54.38,12,358.91,3349.81
+GRN0142,2024-07-20,Alkem Pharma Dist,B-Complex,Supplement,Merck,30049099,B172407,Jul-27,100,27.77,12,333.24,3110.24
+GRN0142,2024-07-20,Alkem Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152407,Jul-25,59,46.31,12,327.87,3060.16
+GRN0142,2024-07-20,Alkem Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012407,Jul-25,56,8.55,12,57.46,536.26
+GRN0142,2024-07-20,Alkem Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202407,Jul-26,100,117.43,12,1409.16,13152.16
+GRN0142,2024-07-20,Alkem Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192407,Jul-27,76,52.73,12,480.9,4488.38
+GRN0142,2024-07-20,Alkem Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252407,Jul-25,86,28.31,12,292.16,2726.82

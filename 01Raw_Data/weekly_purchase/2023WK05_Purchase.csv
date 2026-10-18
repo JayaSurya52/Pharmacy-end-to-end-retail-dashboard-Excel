@@ -1,0 +1,16 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0008,2023-01-30,Sun Pharma Distributors,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032301,Jan-26,84,11.56,12,116.52,1087.56
+GRN0008,2023-01-30,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172301,Jan-26,65,28.8,12,224.64,2096.64
+GRN0008,2023-01-30,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082301,Jan-26,62,23.03,12,171.34,1599.2
+GRN0008,2023-01-30,Sun Pharma Distributors,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092301,Jan-26,72,34.73,5,125.03,2625.59
+GRN0008,2023-01-30,Sun Pharma Distributors,Calcium + D3,Supplement,Pfizer,30049099,B162301,Jan-24,96,57.33,12,660.44,6164.12
+GRN0008,2023-01-30,Sun Pharma Distributors,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072301,Jan-25,53,19.81,12,125.99,1175.92
+GRN0009,2023-02-02,Medplus Wholesale,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072302,Jul-24,61,19.56,12,143.18,1336.34
+GRN0009,2023-02-02,Medplus Wholesale,Ibuprofen 400mg,Analgesic,Boots,30049099,B182302,Jan-24,109,13.92,12,182.07,1699.35
+GRN0009,2023-02-02,Medplus Wholesale,Vitamin D3 60K,Supplement,Mankind,30049099,B152302,Jan-24,53,48.73,12,309.92,2892.61
+GRN0009,2023-02-02,Medplus Wholesale,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052302,Jul-24,55,57.35,12,378.51,3532.76
+GRN0009,2023-02-02,Medplus Wholesale,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142302,Jan-26,60,21.79,5,65.37,1372.77
+GRN0010,2023-02-05,Cipla Direct,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062302,Jan-25,100,80.22,12,962.64,8984.64
+GRN0010,2023-02-05,Cipla Direct,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132302,Jan-26,77,30.59,5,117.77,2473.2
+GRN0010,2023-02-05,Cipla Direct,Paracetamol 500mg,Analgesic,GSK,30049099,B012302,Jul-24,119,8.24,12,117.67,1098.23
+GRN0010,2023-02-05,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092302,Jan-24,53,35.28,5,93.49,1963.33

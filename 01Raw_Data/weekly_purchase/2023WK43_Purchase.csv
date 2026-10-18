@@ -1,0 +1,9 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0074,2023-10-27,Sri Balaji Medicals,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062310,Oct-25,69,75.38,12,624.15,5825.37
+GRN0074,2023-10-27,Sri Balaji Medicals,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052310,Oct-25,95,53.49,12,609.79,5691.34
+GRN0074,2023-10-27,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142310,Oct-25,55,21.45,5,58.99,1238.74
+GRN0074,2023-10-27,Sri Balaji Medicals,B-Complex,Supplement,Merck,30049099,B172310,Oct-24,58,28.35,12,197.32,1841.62
+GRN0074,2023-10-27,Sri Balaji Medicals,Dolo 650mg,Analgesic,Micro Labs,30049099,B022310,Apr-25,82,9.13,12,89.84,838.5
+GRN0074,2023-10-27,Sri Balaji Medicals,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042310,Oct-25,60,30.48,5,91.44,1920.24
+GRN0074,2023-10-27,Sri Balaji Medicals,ORS Sachet,OTC,Electral,30049099,B222310,Oct-24,86,4.29,12,44.27,413.21
+GRN0074,2023-10-27,Sri Balaji Medicals,Antiseptic Cream,Topical,Dettol,30049099,B242310,Oct-25,55,38.18,12,251.99,2351.89

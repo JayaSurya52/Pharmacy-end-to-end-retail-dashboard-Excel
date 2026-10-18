@@ -1,0 +1,14 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0070,2023-10-09,Cipla Direct,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212310,Apr-25,73,58.08,12,508.78,4748.62
+GRN0070,2023-10-09,Cipla Direct,Dolo 650mg,Analgesic,Micro Labs,30049099,B022310,Sep-26,51,8.68,12,53.12,495.8
+GRN0070,2023-10-09,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032310,Apr-25,52,11.55,12,72.07,672.67
+GRN0070,2023-10-09,Cipla Direct,ORS Sachet,OTC,Electral,30049099,B222310,Sep-25,99,4.57,12,54.29,506.72
+GRN0070,2023-10-09,Cipla Direct,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252310,Oct-24,74,29.26,12,259.83,2425.07
+GRN0070,2023-10-09,Cipla Direct,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132310,Sep-26,88,28.96,5,127.42,2675.9
+GRN0071,2023-10-13,Alkem Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252310,Apr-25,70,28.42,12,238.73,2228.13
+GRN0071,2023-10-13,Alkem Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032310,Apr-25,57,11.43,12,78.18,729.69
+GRN0071,2023-10-13,Alkem Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192310,Oct-24,81,54.1,12,525.85,4907.95
+GRN0071,2023-10-13,Alkem Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052310,Sep-26,66,56.51,12,447.56,4177.22
+GRN0071,2023-10-13,Alkem Pharma Dist,B-Complex,Supplement,Merck,30049099,B172310,Oct-25,63,29.39,12,222.19,2073.76
+GRN0071,2023-10-13,Alkem Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122310,Sep-26,94,43.75,5,205.62,4318.12
+GRN0071,2023-10-13,Alkem Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132310,Oct-24,62,28.87,5,89.5,1879.44

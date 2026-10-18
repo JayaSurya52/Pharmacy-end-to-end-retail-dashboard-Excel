@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0126,2024-05-22,Sun Pharma Distributors,Antiseptic Cream,Topical,Dettol,30049099,B242405,May-25,76,39.97,12,364.53,3402.25
+GRN0126,2024-05-22,Sun Pharma Distributors,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252405,May-25,59,28.59,12,202.42,1889.23
+GRN0126,2024-05-22,Sun Pharma Distributors,Amlodipine 5mg,Cardiac,Cipla,30049099,B102405,May-27,52,18.76,5,48.78,1024.3
+GRN0126,2024-05-22,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042405,May-27,179,31.19,5,279.15,5862.16
+GRN0126,2024-05-22,Sun Pharma Distributors,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072405,May-25,97,19.17,12,223.14,2082.63
+GRN0126,2024-05-22,Sun Pharma Distributors,B-Complex,Supplement,Merck,30049099,B172405,May-27,82,26.97,12,265.38,2476.92
+GRN0126,2024-05-22,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082405,May-25,54,24.22,12,156.95,1464.83
+GRN0127,2024-05-26,Sri Balaji Medicals,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082405,May-26,94,24.8,12,279.74,2610.94
+GRN0127,2024-05-26,Sri Balaji Medicals,Amlodipine 5mg,Cardiac,Cipla,30049099,B102405,Nov-25,70,17.91,5,62.69,1316.39
+GRN0127,2024-05-26,Sri Balaji Medicals,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092405,Nov-25,54,36.55,5,98.69,2072.39
+GRN0127,2024-05-26,Sri Balaji Medicals,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112405,May-25,99,27.73,5,137.26,2882.53
+GRN0127,2024-05-26,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132405,May-27,59,28.82,5,85.02,1785.4

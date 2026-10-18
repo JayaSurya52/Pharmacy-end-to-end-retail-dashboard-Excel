@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0047,2023-07-10,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032307,Dec-24,63,12.38,12,93.59,873.53
+GRN0047,2023-07-10,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252307,Jul-24,71,28.77,12,245.12,2287.79
+GRN0047,2023-07-10,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182307,Dec-24,67,14.5,12,116.58,1088.08
+GRN0047,2023-07-10,Karnataka Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072307,Dec-24,58,20.08,12,139.76,1304.4
+GRN0047,2023-07-10,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192307,Jul-24,57,54.87,12,375.31,3502.9
+GRN0048,2023-07-13,Sun Pharma Distributors,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082307,Jun-26,53,23.1,12,146.92,1371.22
+GRN0048,2023-07-13,Sun Pharma Distributors,Montelukast 10mg,Respiratory,Cipla,30049099,B192307,Jul-24,83,51.91,12,517.02,4825.55
+GRN0048,2023-07-13,Sun Pharma Distributors,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112307,Jul-25,80,26.86,5,107.44,2256.24
+GRN0048,2023-07-13,Sun Pharma Distributors,Paracetamol 500mg,Analgesic,GSK,30049099,B012307,Jun-26,82,8.58,12,84.43,787.99
+GRN0048,2023-07-13,Sun Pharma Distributors,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062307,Jul-24,82,75.83,12,746.17,6964.23
+GRN0048,2023-07-13,Sun Pharma Distributors,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092307,Jul-25,96,35.99,5,172.75,3627.79

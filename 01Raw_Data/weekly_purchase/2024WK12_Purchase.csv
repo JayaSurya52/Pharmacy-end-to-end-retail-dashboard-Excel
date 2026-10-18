@@ -1,0 +1,6 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0110,2024-03-20,Sun Pharma Distributors,Amlodipine 5mg,Cardiac,Cipla,30049099,B102403,Mar-27,59,18.02,5,53.16,1116.34
+GRN0110,2024-03-20,Sun Pharma Distributors,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042403,Mar-27,88,28.91,5,127.2,2671.28
+GRN0110,2024-03-20,Sun Pharma Distributors,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062403,Sep-25,77,75.55,12,698.08,6515.43
+GRN0110,2024-03-20,Sun Pharma Distributors,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122403,Mar-26,85,40.6,5,172.55,3623.55
+GRN0110,2024-03-20,Sun Pharma Distributors,Antacid Syrup 170ml,Antacid,Digene,30049099,B232403,Mar-27,58,50.37,12,350.58,3272.04

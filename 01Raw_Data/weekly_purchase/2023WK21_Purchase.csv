@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0036,2023-05-23,Alkem Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112305,Nov-24,79,26.77,5,105.74,2220.57
+GRN0036,2023-05-23,Alkem Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042305,May-26,156,29.59,5,230.8,4846.84
+GRN0036,2023-05-23,Alkem Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132305,May-24,90,29.83,5,134.24,2818.94
+GRN0036,2023-05-23,Alkem Pharma Dist,B-Complex,Supplement,Merck,30049099,B172305,Nov-24,63,27.35,12,206.77,1929.82
+GRN0036,2023-05-23,Alkem Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012305,May-26,68,8.45,12,68.95,643.55
+GRN0036,2023-05-23,Alkem Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182305,Nov-24,57,13.34,12,91.25,851.63
+GRN0037,2023-05-28,Medplus Wholesale,Ibuprofen 400mg,Analgesic,Boots,30049099,B182305,May-24,57,13.95,12,95.42,890.57
+GRN0037,2023-05-28,Medplus Wholesale,Paracetamol 500mg,Analgesic,GSK,30049099,B012305,May-26,91,8.78,12,95.88,894.86
+GRN0037,2023-05-28,Medplus Wholesale,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252305,May-25,95,27.42,12,312.59,2917.49
+GRN0037,2023-05-28,Medplus Wholesale,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142305,May-26,76,22.74,5,86.41,1814.65
+GRN0037,2023-05-28,Medplus Wholesale,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032305,Nov-24,65,11.95,12,93.21,869.96
+GRN0037,2023-05-28,Medplus Wholesale,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082305,Nov-24,74,23.26,12,206.55,1927.79

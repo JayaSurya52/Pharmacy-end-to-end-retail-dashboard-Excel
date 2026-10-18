@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0170,2024-11-11,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212411,Nov-25,104,55.61,12,694.01,6477.45
+GRN0170,2024-11-11,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032411,Nov-25,61,12.35,12,90.4,843.75
+GRN0170,2024-11-11,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222411,Nov-26,86,4.64,12,47.88,446.92
+GRN0170,2024-11-11,Karnataka Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052411,Oct-27,76,54.38,12,495.95,4628.83
+GRN0170,2024-11-11,Karnataka Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012411,Oct-27,155,8.34,12,155.12,1447.82
+GRN0170,2024-11-11,Karnataka Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152411,Nov-25,93,46.17,12,515.26,4809.07
+GRN0170,2024-11-11,Karnataka Pharma Dist,Metoprolol 50mg,Cardiac,Sun Pharma,30049099,B112411,Nov-25,91,27.59,5,125.53,2636.22
+GRN0171,2024-11-16,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232411,Nov-26,56,50.91,12,342.12,3193.08
+GRN0171,2024-11-16,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032411,Nov-27,88,11.5,12,121.44,1133.44
+GRN0171,2024-11-16,Karnataka Pharma Dist,Glimepiride 2mg,Antidiabetic,Sanofi,30049011,B122411,Nov-25,74,41.56,5,153.77,3229.21
+GRN0171,2024-11-16,Karnataka Pharma Dist,B-Complex,Supplement,Merck,30049099,B172411,May-26,80,27.04,12,259.58,2422.78

@@ -1,0 +1,6 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0167,2024-10-31,Cipla Direct,ORS Sachet,OTC,Electral,30049099,B222410,Oct-27,57,4.44,12,30.37,283.45
+GRN0167,2024-10-31,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032410,Apr-26,67,12.07,12,97.04,905.73
+GRN0167,2024-10-31,Cipla Direct,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062410,Oct-26,60,78.66,12,566.35,5285.95
+GRN0167,2024-10-31,Cipla Direct,Antiseptic Cream,Topical,Dettol,30049099,B242410,Apr-26,50,39.32,12,235.92,2201.92
+GRN0167,2024-10-31,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172410,Oct-26,52,27.03,12,168.67,1574.23

@@ -1,0 +1,9 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0005,2023-01-19,Cipla Direct,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032301,Jan-24,50,12.22,12,73.32,684.32
+GRN0005,2023-01-19,Cipla Direct,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132301,Jan-25,93,31.15,5,144.85,3041.8
+GRN0005,2023-01-19,Cipla Direct,Antiseptic Cream,Topical,Dettol,30049099,B242301,Jan-24,99,40.56,12,481.85,4497.29
+GRN0005,2023-01-19,Cipla Direct,Salbutamol Inhaler,Respiratory,GSK,30049099,B202301,Jan-26,137,119.22,12,1959.98,18293.12
+GRN0005,2023-01-19,Cipla Direct,Vitamin D3 60K,Supplement,Mankind,30049099,B152301,Jan-25,50,50.18,12,301.08,2810.08
+GRN0005,2023-01-19,Cipla Direct,B-Complex,Supplement,Merck,30049099,B172301,Jan-24,82,28.73,12,282.7,2638.56
+GRN0005,2023-01-19,Cipla Direct,Atorvastatin 10mg,Cardiac,Pfizer,30049099,B092301,Jul-24,90,34.29,5,154.31,3240.41
+GRN0005,2023-01-19,Cipla Direct,Ibuprofen 400mg,Analgesic,Boots,30049099,B182301,Jul-24,119,13.82,12,197.35,1841.93

@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0049,2023-07-17,Sri Balaji Medicals,Dolo 650mg,Analgesic,Micro Labs,30049099,B022307,Jul-26,93,8.65,12,96.53,900.98
+GRN0049,2023-07-17,Sri Balaji Medicals,Calcium + D3,Supplement,Pfizer,30049099,B162307,Jul-25,54,62.4,12,404.35,3773.95
+GRN0049,2023-07-17,Sri Balaji Medicals,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132307,Jan-25,88,28.95,5,127.38,2674.98
+GRN0049,2023-07-17,Sri Balaji Medicals,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142307,Jul-25,67,22.27,5,74.6,1566.69
+GRN0050,2023-07-21,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102307,Jul-26,96,18.66,5,89.57,1880.93
+GRN0050,2023-07-21,Karnataka Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152307,Jul-26,78,49.86,12,466.69,4355.77
+GRN0050,2023-07-21,Karnataka Pharma Dist,B-Complex,Supplement,Merck,30049099,B172307,Jul-26,71,28.92,12,246.4,2299.72
+GRN0050,2023-07-21,Karnataka Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202307,Jul-25,76,122.76,12,1119.57,10449.33
+GRN0050,2023-07-21,Karnataka Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142307,Jul-25,77,21.59,5,83.12,1745.55
+GRN0050,2023-07-21,Karnataka Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042307,Jul-26,137,31.36,5,214.82,4511.14
+GRN0050,2023-07-21,Karnataka Pharma Dist,ORS Sachet,OTC,Electral,30049099,B222307,Jul-24,54,4.32,12,27.99,261.27
+GRN0050,2023-07-21,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182307,Jul-25,55,13.9,12,91.74,856.24

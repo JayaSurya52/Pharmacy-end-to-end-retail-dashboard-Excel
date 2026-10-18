@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0055,2023-08-09,Alkem Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012308,Jan-25,61,8.18,12,59.88,558.86
+GRN0055,2023-08-09,Alkem Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162308,Jul-25,82,60.35,12,593.84,5542.54
+GRN0055,2023-08-09,Alkem Pharma Dist,Antiseptic Cream,Topical,Dettol,30049099,B242308,Aug-24,54,39.59,12,256.54,2394.4
+GRN0055,2023-08-09,Alkem Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142308,Aug-24,77,20.94,5,80.62,1693.0
+GRN0056,2023-08-13,Karnataka Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192308,Aug-25,75,51.41,12,462.69,4318.44
+GRN0056,2023-08-13,Karnataka Pharma Dist,Telmisartan 40mg,Antihypertensive,Glenmark,30049099,B132308,Jul-26,60,30.9,5,92.7,1946.7
+GRN0056,2023-08-13,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232308,Aug-24,94,54.18,12,611.15,5704.07
+GRN0056,2023-08-13,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212308,Feb-25,77,60.0,12,554.4,5174.4
+GRN0056,2023-08-13,Karnataka Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142308,Aug-24,77,22.2,5,85.47,1794.87
+GRN0056,2023-08-13,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102308,Aug-25,75,18.67,5,70.01,1470.26
+GRN0056,2023-08-13,Karnataka Pharma Dist,Metformin 500mg,Antidiabetic,Sun Pharma,30049011,B042308,Feb-25,64,29.5,5,94.4,1982.4

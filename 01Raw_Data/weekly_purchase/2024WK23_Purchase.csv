@@ -1,0 +1,13 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0130,2024-06-05,Alkem Pharma Dist,Dolo 650mg,Analgesic,Micro Labs,30049099,B022406,May-27,77,9.29,12,85.84,801.17
+GRN0130,2024-06-05,Alkem Pharma Dist,Vitamin D3 60K,Supplement,Mankind,30049099,B152406,May-27,81,45.74,12,444.59,4149.53
+GRN0130,2024-06-05,Alkem Pharma Dist,Azithromycin 500mg,Antibiotic,Cipla,30049010,B062406,Nov-25,61,76.86,12,562.62,5251.08
+GRN0130,2024-06-05,Alkem Pharma Dist,Montelukast 10mg,Respiratory,Cipla,30049099,B192406,Nov-25,67,52.81,12,424.59,3962.86
+GRN0131,2024-06-08,Karnataka Pharma Dist,Salbutamol Inhaler,Respiratory,GSK,30049099,B202406,May-27,53,115.05,12,731.72,6829.37
+GRN0131,2024-06-08,Karnataka Pharma Dist,Pantoprazole 40mg,Antacid,Sun Pharma,30049099,B082406,Nov-25,58,23.81,12,165.72,1546.7
+GRN0131,2024-06-08,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212406,Jun-25,90,60.87,12,657.4,6135.7
+GRN0131,2024-06-08,Karnataka Pharma Dist,Amlodipine 5mg,Cardiac,Cipla,30049099,B102406,May-26,74,18.51,5,68.49,1438.23
+GRN0131,2024-06-08,Karnataka Pharma Dist,Calcium + D3,Supplement,Pfizer,30049099,B162406,May-27,80,60.27,12,578.59,5400.19
+GRN0131,2024-06-08,Karnataka Pharma Dist,Levothyroxine 50mcg,Thyroid,Abbott,30049099,B142406,May-26,72,22.91,5,82.48,1732.0
+GRN0131,2024-06-08,Karnataka Pharma Dist,Ibuprofen 400mg,Analgesic,Boots,30049099,B182406,Jun-25,74,13.68,12,121.48,1133.8
+GRN0131,2024-06-08,Karnataka Pharma Dist,Antacid Syrup 170ml,Antacid,Digene,30049099,B232406,Jun-25,70,52.51,12,441.08,4116.78

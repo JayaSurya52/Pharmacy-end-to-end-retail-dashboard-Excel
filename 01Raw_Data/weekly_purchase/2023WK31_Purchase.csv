@@ -1,0 +1,12 @@
+GRN No,Date,Supplier Name,Product Name,Category,Company,HSN Code,Batch No,Expiry Date,Qty,Purchase Price,GST%,GST Amount,Total Amount
+GRN0053,2023-08-01,Karnataka Pharma Dist,Cetirizine 10mg,Antihistamine,Cipla,30049099,B032308,Jul-25,74,11.9,12,105.67,986.27
+GRN0053,2023-08-01,Karnataka Pharma Dist,Amoxicillin 500mg,Antibiotic,Alkem,30049010,B052308,Jul-25,60,54.29,12,390.89,3648.29
+GRN0053,2023-08-01,Karnataka Pharma Dist,Cough Syrup 100ml,Respiratory,Benadryl,30049099,B212308,Jul-24,99,60.56,12,719.45,6714.89
+GRN0053,2023-08-01,Karnataka Pharma Dist,Paracetamol 500mg,Analgesic,GSK,30049099,B012308,Jul-24,53,8.21,12,52.22,487.35
+GRN0053,2023-08-01,Karnataka Pharma Dist,Eye Drops 10ml,Ophthalmic,Cipla,30049099,B252308,Jul-26,93,26.83,12,299.42,2794.61
+GRN0053,2023-08-01,Karnataka Pharma Dist,B-Complex,Supplement,Merck,30049099,B172308,Jul-26,92,27.79,12,306.8,2863.48
+GRN0053,2023-08-01,Karnataka Pharma Dist,Omeprazole 20mg,Antacid,Dr Reddys,30049099,B072308,Jul-24,76,19.55,12,178.3,1664.1
+GRN0054,2023-08-05,Cipla Direct,Amlodipine 5mg,Cardiac,Cipla,30049099,B102308,Jul-24,83,18.3,5,75.94,1594.84
+GRN0054,2023-08-05,Cipla Direct,ORS Sachet,OTC,Electral,30049099,B222308,Jul-24,64,4.45,12,34.18,318.98
+GRN0054,2023-08-05,Cipla Direct,Montelukast 10mg,Respiratory,Cipla,30049099,B192308,Jan-25,50,52.4,12,314.4,2934.4
+GRN0054,2023-08-05,Cipla Direct,Calcium + D3,Supplement,Pfizer,30049099,B162308,Jul-25,99,57.82,12,686.9,6411.08
