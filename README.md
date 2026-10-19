@@ -5,19 +5,19 @@ This project involves developing an interactive Retail Sales Dashboard in Micros
 # Business Problem
 Retail companies generate thousands of sales transcations ever day.Analyzing this data manually is difficult and time-consuming.Management teams often strugle to identify:
 
- Monthly Sales Trends
- Sales by Category
- Quaterly perfomance of sales 
- Which product generate More revenuve
+Monthly Sales Trends
+Sales by Category
+Quaterly perfomance of sales 
+Which product generate More revenuve
  
 To address these challenges, an automated and interactive dashboard was developed to provide quick and accurate business insights.
 # KPI Requirements
 
- Total Sales Revenue 
- Total Purchase
- Toatl GST paid
- Total Profit 
- Total Profit Margin %
+Total Sales Revenue 
+Total Purchase
+Toatl GST paid
+Total Profit 
+Total Profit Margin %
 # Tools & Technologies Used
 
 | Tool                | Purpose                          |
